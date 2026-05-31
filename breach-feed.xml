@@ -1,308 +1,373 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Obsidian Lake // US Data Breach Feed</title>
+    <title>Obsidian Lake // US Breach + Surveillance Feed</title>
     <link>https://obsidianlake.example/breach-feed.xml</link>
-    <description>Curated rolling feed of significant US data breaches. Aggregated from public disclosures, regulatory filings, and the cypherpunk press.</description>
+    <description>Curated rolling feed of significant US data breaches and dragnet-surveillance disclosures. Aggregated from public disclosures, regulatory filings, civil-liberties journalism, and the cypherpunk press. Calm signal, not vendor FUD.</description>
     <atom:link href="https://obsidianlake.example/breach-feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>Obsidian Lake Breach Aggregator v1.0</generator>
+    <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 19:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 23:45:16 +0000</lastBuildDate>
     <item>
-      <title>[INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
+      <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
       <description>UpGuard can now disclose that an Amazon S3 storage bucket containing publicly exposed backups of systems representing the intranet and web presence for Martin County, Florida has been secured.
 
-// Severity: info // Records (est.): 3 // Source: upguard // Original: https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</description>
-      <guid isPermaLink="false">obsidian-lake:breach:51bd0c6b752f0bdd</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 3 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</description>
+      <guid isPermaLink="false">obsidian-lake:item:51bd0c6b752f0bdd</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>gov</category>
       <category>upguard</category>
       <pubDate>Wed, 20 Nov 2024 06:36:57 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] Home Economics: How Life in 123 Million American Households Was Exposed Online | UpGuard</title>
+      <title>[BREACH · CRITICAL] Home Economics: How Life in 123 Million American Households Was Exposed Online | UpGuard</title>
       <link>https://www.upguard.com/breaches/cloud-leak-alteryx</link>
       <description>This cloud leak reveals the personal details of 123 million US households, revealing in-depth analysis of their finances sold by credit reporting agency Experian.
 
-// Severity: critical // Records (est.): 123,000,000 // Source: upguard // Original: https://www.upguard.com/breaches/cloud-leak-alteryx</description>
-      <guid isPermaLink="false">obsidian-lake:breach:5d77144505da7eae</guid>
+// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 123,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/cloud-leak-alteryx</description>
+      <guid isPermaLink="false">obsidian-lake:item:5d77144505da7eae</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>tech</category>
       <category>upguard</category>
       <pubDate>Thu, 10 Jul 2025 08:09:36 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] The RNC Files: Inside the Largest US Voter Data Leak | UpGuard</title>
+      <title>[BREACH · CRITICAL] The RNC Files: Inside the Largest US Voter Data Leak | UpGuard</title>
       <link>https://www.upguard.com/breaches/the-rnc-files</link>
       <description>UpGuard has discovered an open database containing information on what appear to be approximately 198 million American voters left misconfigured by a GOP analytics firm.
 
-// Severity: critical // Records (est.): 198,000,000 // Source: upguard // Original: https://www.upguard.com/breaches/the-rnc-files</description>
-      <guid isPermaLink="false">obsidian-lake:breach:f096f9f0b67fdeb9</guid>
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Misconfiguration // Records (est.): 198,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/the-rnc-files</description>
+      <guid isPermaLink="false">obsidian-lake:item:f096f9f0b67fdeb9</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>other</category>
       <category>upguard</category>
       <pubDate>Thu, 10 Jul 2025 08:09:36 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Out of Commission: How the Oklahoma Department of Securities Leaked Millions of Files | UpGuard</title>
+      <title>[BREACH · INFO] Out of Commission: How the Oklahoma Department of Securities Leaked Millions of Files | UpGuard</title>
       <link>https://www.upguard.com/breaches/rsync-oklahoma-securities-commission</link>
       <description>A storage server configured for public access exposed millions of files belonging to the Oklahoma Securities Commission.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/rsync-oklahoma-securities-commission</description>
-      <guid isPermaLink="false">obsidian-lake:breach:df52e9278ec2c7ee</guid>
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/rsync-oklahoma-securities-commission</description>
+      <guid isPermaLink="false">obsidian-lake:item:df52e9278ec2c7ee</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>finance</category>
       <category>upguard</category>
       <pubDate>Thu, 10 Jul 2025 08:09:36 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Double Indemnity: How An Insurer Exposed Its Customers | UpGuard</title>
+      <title>[BREACH · INFO] Double Indemnity: How An Insurer Exposed Its Customers | UpGuard</title>
       <link>https://www.upguard.com/breaches/nas-leak-mdjia</link>
       <description>A shared-risk property insurance provider in Maryland left exposed data revealing the personal details of thousands of customers.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/nas-leak-mdjia</description>
-      <guid isPermaLink="false">obsidian-lake:breach:2912e6157297f1f3</guid>
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/nas-leak-mdjia</description>
+      <guid isPermaLink="false">obsidian-lake:item:2912e6157297f1f3</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>finance</category>
       <category>upguard</category>
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Spy Games: How Booz Allen Hamilton Exposed Pentagon Access Keys | UpGuard</title>
+      <title>[BREACH · INFO] Spy Games: How Booz Allen Hamilton Exposed Pentagon Access Keys | UpGuard</title>
       <link>https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon</link>
       <description>While this blog post provides a description of a data exposure discovery involving Booz Allen Hamilton and the US National Geospatial-Intelligence Agency (NGA), this is no longer an active data breach.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon</description>
-      <guid isPermaLink="false">obsidian-lake:breach:502a5e86a571c948</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon</description>
+      <guid isPermaLink="false">obsidian-lake:item:502a5e86a571c948</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>other</category>
       <category>upguard</category>
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Out of Pocket: How an ISP Exposed Administrative System Credentials | UpGuard</title>
+      <title>[BREACH · INFO] Out of Pocket: How an ISP Exposed Administrative System Credentials | UpGuard</title>
       <link>https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</link>
       <description>ISPs do more than provide internet service for individual customers-- they can also act as part of US critical infrastructure. See how one ISP exposed their administrative and root passwords to the public.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</description>
-      <guid isPermaLink="false">obsidian-lake:breach:9c2b7b1bd50a2733</guid>
+// Category: breach // Severity: info // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</description>
+      <guid isPermaLink="false">obsidian-lake:item:9c2b7b1bd50a2733</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>telecom</category>
       <category>upguard</category>
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Police Procedural: How South Carolina Arrest Records Were Exposed | UpGuard</title>
+      <title>[BREACH · INFO] Police Procedural: How South Carolina Arrest Records Were Exposed | UpGuard</title>
       <link>https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure</link>
       <description>Everyone who depends on tech assumes its risks. The justice system is no exception. See how detailed arrest records for South Carolina were exposed online.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure</description>
-      <guid isPermaLink="false">obsidian-lake:breach:b701edd194b48ee3</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure</description>
+      <guid isPermaLink="false">obsidian-lake:item:b701edd194b48ee3</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>other</category>
       <category>upguard</category>
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] The Aggregate IQ Files, Part One: How a Political Engineering Firm Exposed Their Code Base | UpGuard</title>
+      <title>[BREACH · INFO] The Aggregate IQ Files, Part One: How a Political Engineering Firm Exposed Their Code Base | UpGuard</title>
       <link>https://www.upguard.com/breaches/aggregate-iq-part-one</link>
       <description>Political data firm AggregateIQ exposed IT assets that raise questions for society about how technology is being used in recent US political history.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/aggregate-iq-part-one</description>
-      <guid isPermaLink="false">obsidian-lake:breach:838ecd902b27c5d2</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/aggregate-iq-part-one</description>
+      <guid isPermaLink="false">obsidian-lake:item:838ecd902b27c5d2</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>other</category>
       <category>upguard</category>
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
+      <title>[BREACH · CRITICAL] Black Box, Red Disk: How Top Secret NSA and Army Data Leaked Online | UpGuard</title>
+      <link>https://www.upguard.com/breaches/cloud-leak-inscom</link>
+      <description>A sensitive S3 bucket left wide open, containing highly classified 'NOFORN' data, was discovered by the UpGuard team.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/cloud-leak-inscom</description>
+      <guid isPermaLink="false">obsidian-lake:item:854541f05b5107b5</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>upguard</category>
+      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
       <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
       <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
 
-// Severity: high // Records (est.): 3,000,000 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:7cdaa10e2b283bad</guid>
+// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
+      <category>breach</category>
       <category>high</category>
+      <category>tech</category>
       <category>krebsonsecurity</category>
       <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
+      <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
 
-// Severity: info // Records (est.): 0 // Source: upguard // Original: https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</description>
-      <guid isPermaLink="false">obsidian-lake:breach:13360d8d6761e847</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</description>
+      <guid isPermaLink="false">obsidian-lake:item:13360d8d6761e847</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>other</category>
       <category>upguard</category>
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
       <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
       <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
 
-// Severity: info // Records (est.): 38 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:5ec3d8398ea01bae</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>gov</category>
       <category>krebsonsecurity</category>
       <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
       <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
       <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
 
-// Severity: info // Records (est.): 38 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:3f8726550edb61ae</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] Mission Community Hospital Pays $1.55M to Settle Data Breach Lawsuit</title>
+      <title>[BREACH · CRITICAL] Mission Community Hospital Pays $1.55M to Settle Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/</link>
       <description>&lt;p&gt;Deanco Healthcare, LLC, the operator of Mission Community Hospital, an acute care hospital serving patients in the San Fernando Valley [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/"&gt;Mission Community Hospital Pays $1.55M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: critical // Records (est.): 1,550,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:3e5e3b0ef33f3336</guid>
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,550,000 // $ (est.): $1,550,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3e5e3b0ef33f3336</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 26 May 2026 09:20:57 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] The Oncology Institute Confirms Unauthorized Access to Systems Due to Vendor Breach</title>
+      <title>[BREACH · INFO] The Oncology Institute Confirms Unauthorized Access to Systems Due to Vendor Breach</title>
       <link>https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/</link>
       <description>&lt;p&gt;The Oncology Institute, a publicly traded provider of cancer care through more than 100 clinics in California, Oregon, Nevada, Arizona, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/"&gt;The Oncology Institute Confirms Unauthorized Access to Systems Due to Vendor Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: info // Records (est.): 8,230 // Source: hipaajournal // Original: https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:357b5ae2fb7ac5e9</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:357b5ae2fb7ac5e9</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 27 May 2026 09:46:33 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Extortion Group Conducts Social Engineering Campaign Impersonating IT Support Staff</title>
+      <title>[BREACH · INFO] Extortion Group Conducts Social Engineering Campaign Impersonating IT Support Staff</title>
       <link>https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/</link>
       <description>&lt;p&gt;Silent Ransom Group, a data theft and extortion group that targets law firms, healthcare organizations, and insurance and finance companies, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/"&gt;Extortion Group Conducts Social Engineering Campaign Impersonating IT Support Staff&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: info // Records (est.): 8,230 // Source: hipaajournal // Original: https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:60b1802cdaa4873c</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/</description>
+      <guid isPermaLink="false">obsidian-lake:item:60b1802cdaa4873c</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 27 May 2026 11:51:35 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] Connecticut Medicaid Portal Breach Affects 22,500 Hartford HealthCare Patients</title>
+      <title>[BREACH · CRITICAL] Connecticut Medicaid Portal Breach Affects 22,500 Hartford HealthCare Patients</title>
       <link>https://www.hipaajournal.com/connecticut-medicaid-portal-breach-hartford-healthcare/</link>
       <description>&lt;p&gt;The personal and protected health information of approximately 22,500 Hartford HealthCare patients has been exposed in a security incident. Data [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/connecticut-medicaid-portal-breach-hartford-healthcare/"&gt;Connecticut Medicaid Portal Breach Affects 22,500 Hartford HealthCare Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: critical // Records (est.): 22,500 // Source: hipaajournal // Original: https://www.hipaajournal.com/connecticut-medicaid-portal-breach-hartford-healthcare/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:48c2ffd4bcc24443</guid>
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 22,500 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/connecticut-medicaid-portal-breach-hartford-healthcare/</description>
+      <guid isPermaLink="false">obsidian-lake:item:48c2ffd4bcc24443</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 27 May 2026 14:54:39 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Lakeview Health Systems Settles Class Action Data Breach Lawsuit</title>
+      <title>[BREACH · INFO] Lakeview Health Systems Settles Class Action Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/lakeview-health-systems-data-breach-settlement/</link>
       <description>&lt;p&gt;A settlement has been negotiated to resolve a class action lawsuit against Lakeview Health Systems LLC. The lawsuit stemmed from [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/lakeview-health-systems-data-breach-settlement/"&gt;Lakeview Health Systems Settles Class Action Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: info // Records (est.): 8,230 // Source: hipaajournal // Original: https://www.hipaajournal.com/lakeview-health-systems-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:2529e5c96eca3f81</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/lakeview-health-systems-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:2529e5c96eca3f81</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 28 May 2026 13:52:04 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] Healthcare Orgs Lack Confidence in Ability to Defend Against an AI-incited Identity Breach</title>
+      <title>[BREACH · INFO] Healthcare Orgs Lack Confidence in Ability to Defend Against an AI-incited Identity Breach</title>
       <link>https://www.hipaajournal.com/healthcare-orgs-lack-confidence-in-ability-to-defend-ai-incited-identity-breach/</link>
       <description>&lt;p&gt;Healthcare organizations have embraced AI and are using AI agents to perform a range of functions, including handling IT support [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-orgs-lack-confidence-in-ability-to-defend-ai-incited-identity-breach/"&gt;Healthcare Orgs Lack Confidence in Ability to Defend Against an AI-incited Identity Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: info // Records (est.): 8,230 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-orgs-lack-confidence-in-ability-to-defend-ai-incited-identity-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:c8f2cd52e6baf26f</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-orgs-lack-confidence-in-ability-to-defend-ai-incited-identity-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c8f2cd52e6baf26f</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 28 May 2026 14:14:25 +0000</pubDate>
     </item>
     <item>
-      <title>[HIGH] Charter Communications data breach affects 4.9 million accounts</title>
+      <title>[BREACH · HIGH] Charter Communications data breach affects 4.9 million accounts</title>
       <link>https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/</link>
       <description>The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]
 
-// Severity: high // Records (est.): 4,900,000 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:37410dec5c3dc43b</guid>
+// Category: breach // Severity: high // Sector: telecom // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 4,900,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/</description>
+      <guid isPermaLink="false">obsidian-lake:item:37410dec5c3dc43b</guid>
+      <category>breach</category>
       <category>high</category>
+      <category>telecom</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 29 May 2026 08:29:40 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] California AG Files Lawsuit Over 23andMe Data Breach</title>
+      <title>[BREACH · INFO] California AG Files Lawsuit Over 23andMe Data Breach</title>
       <link>https://www.hipaajournal.com/california-ag-23andme-data-breach-lawsuit/</link>
       <description>&lt;p&gt;California Attorney General Rob Bonta has filed a lawsuit against the genetic testing company formerly known as 23andMe over its [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/california-ag-23andme-data-breach-lawsuit/"&gt;California AG Files Lawsuit Over 23andMe Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: info // Records (est.): 8,230 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-ag-23andme-data-breach-lawsuit/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:0ee45925b4d70b04</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-ag-23andme-data-breach-lawsuit/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0ee45925b4d70b04</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 29 May 2026 10:37:01 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</title>
+      <title>[BREACH · CRITICAL] California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</title>
       <link>https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</link>
       <description>&lt;p&gt;Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/"&gt;California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: critical // Records (est.): 2,023,000,000,000 // Source: securityweek // Original: https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:efd2834e236c802e</guid>
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:efd2834e236c802e</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>other</category>
       <category>securityweek</category>
       <pubDate>Fri, 29 May 2026 11:12:15 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach</title>
+      <title>[BREACH · CRITICAL] California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach</title>
       <link>https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach</link>
       <description>Jaimie Ding reports: Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March. 23andme is known for its direct-to-consumer DNA test kits that provided customers information on their ancestry and genetic predispositions for certain health conditions. The lawsuit calls for various civil penalties against 23andMe...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F05%2F29%2Fcalifornia-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcalifornia-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach&amp;amp;action_name=California%20AG%20Bonta%20Sues%20Chrome%20Holding%20Co.%2C%20Formerly%20Known%20as%2023andMe%2C%20Over%202023%20Data%20Breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
 &lt;p&gt;&lt;a href="https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
-// Severity: critical // Records (est.): 20,000,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:breach:f732c31b61440f17</guid>
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:f732c31b61440f17</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 29 May 2026 12:22:13 +0000</pubDate>
     </item>
     <item>
-      <title>[INFO] In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</title>
+      <title>[BREACH · INFO] In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</title>
       <link>https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</link>
       <description>&lt;p&gt;Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. &lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/"&gt;In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
 
-// Severity: info // Records (est.): 2,026 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:9755f0f8bac487a1</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9755f0f8bac487a1</guid>
+      <category>breach</category>
       <category>info</category>
+      <category>other</category>
       <category>securityweek</category>
       <pubDate>Fri, 29 May 2026 16:20:49 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] California AG sues 23andMe over 2023 breach exposing health data</title>
+      <title>[BREACH · CRITICAL] California AG sues 23andMe over 2023 breach exposing health data</title>
       <link>https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/</link>
       <description>California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]
 
-// Severity: critical // Records (est.): 2,023,000,000,000 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/</description>
-      <guid isPermaLink="false">obsidian-lake:breach:6f0e9ae39d86e705</guid>
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6f0e9ae39d86e705</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>healthcare</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 29 May 2026 18:08:47 +0000</pubDate>
     </item>
     <item>
-      <title>[CRITICAL] Thousands of Oregon prison files accessed by prison worker</title>
+      <title>[BREACH · CRITICAL] Thousands of Oregon prison files accessed by prison worker</title>
       <link>https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker</link>
       <description>Noelle Crombie reports on today&amp;#8217;s reminder of the insider threat: A former Snake River Correctional Institution employee accessed tens of thousands of Oregon Department of Corrections files over a six-month period last year, the agency announced Friday. Officials discovered the data breach in January during an investigation into misconduct allegations involving the unnamed employee, according to a statement...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F05%2F29%2Fthousands-of-oregon-prison-files-accessed-by-prison-worker%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dthousands-of-oregon-prison-files-accessed-by-prison-worker&amp;amp;action_name=Thousands%20of%20Oregon%20prison%20files%20accessed%20by%20prison%20worker&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
 &lt;p&gt;&lt;a href="https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;#038;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
-// Severity: critical // Records (est.): 20,000,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker</description>
-      <guid isPermaLink="false">obsidian-lake:breach:bf501eda3f3beb8d</guid>
+// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Insider // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker</description>
+      <guid isPermaLink="false">obsidian-lake:item:bf501eda3f3beb8d</guid>
+      <category>breach</category>
       <category>critical</category>
+      <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 29 May 2026 23:16:35 +0000</pubDate>
     </item>

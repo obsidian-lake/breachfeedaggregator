@@ -33,6 +33,7 @@ jobs:
         run: |
           git config user.name "obsidian-lake-bot"
           git config user.email "bot@obsidianlake.example"
+          git add breach-feed.xml
           if git diff --quiet breach-feed.xml; then
             echo "no changes."
           else

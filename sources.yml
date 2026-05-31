@@ -1,0 +1,34 @@
+# Upstream feed manifest for the Obsidian Lake breach aggregator.
+# Add or remove sources here. Each entry needs `name` and `url`.
+
+sources:
+  - name: databreaches.net
+    url: https://databreaches.net/feed/
+
+  - name: krebsonsecurity
+    url: https://krebsonsecurity.com/category/data-breaches/feed/
+
+  - name: upguard
+    url: https://www.upguard.com/breaches/rss.xml
+
+  - name: hipaajournal
+    url: https://www.hipaajournal.com/feed/
+
+  - name: bleepingcomputer
+    url: https://www.bleepingcomputer.com/feed/
+
+  - name: therecord
+    url: https://therecord.media/feed
+
+  - name: securityweek
+    url: https://www.securityweek.com/feed/
+
+  - name: hhs-ocr-breach-portal
+    # HHS doesn't ship a true RSS — scrape adapter lives in `adapters/hhs.py`.
+    # See README for how to plug in non-RSS sources via the same pipeline.
+    url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+
+  - name: sec-edgar-8k-cyber
+    # SEC Item 1.05 (Material Cybersecurity Incidents) filings.
+    # Atom feed exists; filter happens downstream.
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=8-K&dateb=&owner=include&count=40&output=atom

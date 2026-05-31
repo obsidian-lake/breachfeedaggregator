@@ -1,0 +1,43 @@
+name: breach-feed-poll
+
+on:
+  schedule:
+    # every 30 minutes
+    - cron: "*/30 * * * *"
+  workflow_dispatch:  # allow manual trigger
+
+permissions:
+  contents: write  # to push the regenerated feed.xml back into the repo
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: aggregator/requirements.txt
+
+      - name: install deps
+        run: pip install -r aggregator/requirements.txt
+
+      - name: poll feeds + rebuild breach-feed.xml
+        run: |
+          cd aggregator
+          python aggregate.py
+          mv breach-feed.xml ../breach-feed.xml
+
+      - name: commit changes
+        run: |
+          git config user.name "obsidian-lake-bot"
+          git config user.email "bot@obsidianlake.example"
+          if git diff --quiet breach-feed.xml; then
+            echo "no changes."
+          else
+            git add breach-feed.xml
+            git commit -m "feed: auto-update $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi

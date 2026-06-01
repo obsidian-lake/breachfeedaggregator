@@ -92,7 +92,7 @@ jobs:
           path: public
 
   deploy:
-    needs: build
+    needs: poll
     runs-on: ubuntu-latest
     environment:
       name: github-pages

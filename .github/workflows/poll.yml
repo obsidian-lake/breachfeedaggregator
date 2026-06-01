@@ -1,13 +1,40 @@
 name: breach-feed-poll
 
+# GitHub Actions workflow.
+# Place at: .github/workflows/poll.yml in your PUBLIC aggregator repo.
+#
+# What it does every 30 min (and on manual dispatch):
+#   1. Runs aggregate.py → regenerates breach-feed.xml + stats.json
+#   2. Commits them back to the repo (history + raw URL access)
+#   3. Publishes both to GitHub Pages so they get a stable, CORS-enabled URL
+#      that your SEPARATE site repo (Netlify / Coolify / etc.) can fetch.
+#
+# After the first successful run, your feed + stats are reachable at:
+#   https://<owner>.github.io/<repo>/breach-feed.xml
+#   https://<owner>.github.io/<repo>/stats.json
+# GitHub Pages (and raw.githubusercontent.com) both send
+# `Access-Control-Allow-Origin: *`, so a browser on your site's domain can
+# fetch them cross-origin with no extra config.
+#
+# One-time setup:
+#   - Repo must be PUBLIC (free Actions + Pages).
+#   - Settings → Pages → Build and deployment → Source: "GitHub Actions".
+#   - Settings → Actions → General → Workflow permissions: "Read and write".
+
 on:
   schedule:
-    # every 30 minutes
-    - cron: "*/30 * * * *"
-  workflow_dispatch:  # allow manual trigger
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:          # manual "Run workflow" button
 
 permissions:
-  contents: write  # to push the regenerated feed.xml back into the repo
+  contents: write   # to commit regenerated artifacts
+  pages: write      # to deploy to Pages
+  id-token: write   # required by deploy-pages
+
+# Avoid overlapping runs racing on the same commit / deploy.
+concurrency:
+  group: breach-feed
+  cancel-in-progress: false
 
 jobs:
   poll:
@@ -27,7 +54,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: poll feeds + rebuild breach-feed.xml
-        run: python aggregate.py
+        run: python aggregate.py # writes breach-feed.xml + stats.json at repo root
 
       - name: commit changes
         run: |
@@ -41,3 +68,36 @@ jobs:
             git commit -m "feed: auto-update $(date -u +'%Y-%m-%dT%H:%MZ')"
             git push
           fi
+
+      - name: assemble Pages artifact
+        run: |
+          mkdir -p public
+          cp breach-feed.xml stats.json public/
+          # A tiny index so the Pages root isn't a 404.
+          cat > public/index.html <<'HTML'
+          <!doctype html><meta charset="utf-8">
+          <title>Obsidian Lake — Breach Feed artifacts</title>
+          <body style="font-family:monospace;background:#07040E;color:#F2ECDD;padding:40px">
+          <h1>// Obsidian Lake feed artifacts //</h1>
+          <ul>
+            <li><a style="color:#2BE5FF" href="breach-feed.xml">breach-feed.xml</a></li>
+            <li><a style="color:#2BE5FF" href="stats.json">stats.json</a></li>
+          </ul>
+          </body>
+          HTML
+
+      - name: upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

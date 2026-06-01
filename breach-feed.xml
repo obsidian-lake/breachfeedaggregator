@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 10:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:51:25 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Mission Community Hospital Pays $1.55M to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/</link>
-      <description>&lt;p&gt;Deanco Healthcare, LLC, the operator of Mission Community Hospital, an acute care hospital serving patients in the San Fernando Valley [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/"&gt;Mission Community Hospital Pays $1.55M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,550,000 // $ (est.): $1,550,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/mission-community-hospital-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3e5e3b0ef33f3336</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 26 May 2026 09:20:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] The Oncology Institute Confirms Unauthorized Access to Systems Due to Vendor Breach</title>
       <link>https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/</link>
       <description>&lt;p&gt;The Oncology Institute, a publicly traded provider of cancer care through more than 100 clinics in California, Oregon, Nevada, Arizona, [&amp;#8230;]&lt;/p&gt;
@@ -276,19 +262,6 @@
       <pubDate>Thu, 28 May 2026 14:14:25 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Charter Communications data breach affects 4.9 million accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/</link>
-      <description>The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]
-
-// Category: breach // Severity: high // Sector: telecom // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 4,900,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/</description>
-      <guid isPermaLink="false">obsidian-lake:item:37410dec5c3dc43b</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>telecom</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 29 May 2026 08:29:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] California AG Files Lawsuit Over 23andMe Data Breach</title>
       <link>https://www.hipaajournal.com/california-ag-23andme-data-breach-lawsuit/</link>
       <description>&lt;p&gt;California Attorney General Rob Bonta has filed a lawsuit against the genetic testing company formerly known as 23andMe over its [&amp;#8230;]&lt;/p&gt;
@@ -301,20 +274,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 29 May 2026 10:37:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</title>
-      <link>https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</link>
-      <description>&lt;p&gt;Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/"&gt;California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:efd2834e236c802e</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 29 May 2026 11:12:15 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach</title>
@@ -370,6 +329,20 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 29 May 2026 23:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Medical Billing Company Data Breach Affects 7 Medical Groups</title>
+      <link>https://www.hipaajournal.com/la-perouse-data-breach/</link>
+      <description>&lt;p&gt;The Las Vegas medical billing and coding management company, La Perouse, has announced a data breach that has affected seven [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/la-perouse-data-breach/"&gt;Medical Billing Company Data Breach Affects 7 Medical Groups&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 7,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/la-perouse-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:10b3ea0735dbb6e2</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 01 Jun 2026 13:36:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

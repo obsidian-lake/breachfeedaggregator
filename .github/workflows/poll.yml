@@ -60,7 +60,7 @@ jobs:
         run: |
           git config user.name "obsidian-lake-bot"
           git config user.email "bot@obsidianlake.example"
-          git add breach-feed.xml
+          git add breach-feed.xml stats.json
           git status
           if git diff --cached --quiet; then
             echo "no changes."

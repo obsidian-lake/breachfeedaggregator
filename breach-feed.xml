@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:29:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 22:11:51 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Extortion Group Conducts Social Engineering Campaign Impersonating IT Support Staff</title>
-      <link>https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/</link>
-      <description>&lt;p&gt;Silent Ransom Group, a data theft and extortion group that targets law firms, healthcare organizations, and insurance and finance companies, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/"&gt;Extortion Group Conducts Social Engineering Campaign Impersonating IT Support Staff&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/</description>
-      <guid isPermaLink="false">obsidian-lake:item:60b1802cdaa4873c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 27 May 2026 11:51:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Connecticut Medicaid Portal Breach Affects 22,500 Hartford HealthCare Patients</title>
       <link>https://www.hipaajournal.com/connecticut-medicaid-portal-breach-hartford-healthcare/</link>
       <description>&lt;p&gt;The personal and protected health information of approximately 22,500 Hartford HealthCare patients has been exposed in a security incident. Data [&amp;#8230;]&lt;/p&gt;
@@ -318,10 +304,10 @@
       <pubDate>Tue, 02 Jun 2026 10:57:13 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Family Medicine Centers Pays $2.15M to Resolve Data Breach Lawsuit</title>
+      <title>[BREACH · HIGH] Family Medicine Centers Pay $2.15M to Resolve Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/</link>
       <description>&lt;p&gt;FMC Services, LLC, which does business as Family Medicine Centers in Texas, has agreed to a $2,150,000 settlement to resolve [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/"&gt;Family Medicine Centers Pays $2.15M to Resolve Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/"&gt;Family Medicine Centers Pay $2.15M to Resolve Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
 // Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,150,000 // $ (est.): $2,150,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/</description>
       <guid isPermaLink="false">obsidian-lake:item:31e85eee29281a6e</guid>
@@ -330,6 +316,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 02 Jun 2026 11:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Russia claims foreign spy agencies hacked officials' phones</title>
+      <link>https://therecord.media/russia-claims-foreign-spy-agencies-hacked-gov-officials</link>
+      <description>In a statement, Russia's Federal Security Service (FSB) said it had uncovered what it described as a "large-scale operation" involving malicious software installed on the mobile devices of senior Russian officials.
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/russia-claims-foreign-spy-agencies-hacked-gov-officials</description>
+      <guid isPermaLink="false">obsidian-lake:item:c31f199243c58827</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>therecord</category>
+      <pubDate>Tue, 02 Jun 2026 16:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

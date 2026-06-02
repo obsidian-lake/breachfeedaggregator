@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 21:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:29:47 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] The Oncology Institute Confirms Unauthorized Access to Systems Due to Vendor Breach</title>
-      <link>https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/</link>
-      <description>&lt;p&gt;The Oncology Institute, a publicly traded provider of cancer care through more than 100 clinics in California, Oregon, Nevada, Arizona, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/"&gt;The Oncology Institute Confirms Unauthorized Access to Systems Due to Vendor Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/the-oncology-institute-vendor-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:357b5ae2fb7ac5e9</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 27 May 2026 09:46:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Extortion Group Conducts Social Engineering Campaign Impersonating IT Support Staff</title>
       <link>https://www.hipaajournal.com/silent-ransom-group-social-engineering-it-department/</link>
       <description>&lt;p&gt;Silent Ransom Group, a data theft and extortion group that targets law firms, healthcare organizations, and insurance and finance companies, [&amp;#8230;]&lt;/p&gt;
@@ -290,33 +276,6 @@
       <pubDate>Fri, 29 May 2026 12:22:13 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</title>
-      <link>https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</link>
-      <description>&lt;p&gt;Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/"&gt;In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9755f0f8bac487a1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 29 May 2026 16:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] California AG sues 23andMe over 2023 breach exposing health data</title>
-      <link>https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/</link>
-      <description>California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6f0e9ae39d86e705</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 29 May 2026 18:08:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Thousands of Oregon prison files accessed by prison worker</title>
       <link>https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker</link>
       <description>Noelle Crombie reports on today&amp;#8217;s reminder of the insider threat: A former Snake River Correctional Institution employee accessed tens of thousands of Oregon Department of Corrections files over a six-month period last year, the agency announced Friday. Officials discovered the data breach in January during an investigation into misconduct allegations involving the unnamed employee, according to a statement...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F05%2F29%2Fthousands-of-oregon-prison-files-accessed-by-prison-worker%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dthousands-of-oregon-prison-files-accessed-by-prison-worker&amp;amp;action_name=Thousands%20of%20Oregon%20prison%20files%20accessed%20by%20prison%20worker&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -343,6 +302,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 01 Jun 2026 13:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Patient Data Exposed in Cyberattacks on Dental Practices</title>
+      <link>https://www.hipaajournal.com/patient-data-exposed-cyberattacks-on-dental-practices/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Bridle Trails Family Dentistry, Verber Dental Group, and Bronsky Orthodontics. Across the three incidents, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/patient-data-exposed-cyberattacks-on-dental-practices/"&gt;Patient Data Exposed in Cyberattacks on Dental Practices&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/patient-data-exposed-cyberattacks-on-dental-practices/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0414df321aaf15d3</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 02 Jun 2026 10:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Family Medicine Centers Pays $2.15M to Resolve Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/</link>
+      <description>&lt;p&gt;FMC Services, LLC, which does business as Family Medicine Centers in Texas, has agreed to a $2,150,000 settlement to resolve [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/"&gt;Family Medicine Centers Pays $2.15M to Resolve Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,150,000 // $ (est.): $2,150,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:31e85eee29281a6e</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 02 Jun 2026 11:02:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

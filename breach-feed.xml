@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 18:31:21 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,6 +140,19 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
+      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
+      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
+
+// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>tech</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -151,6 +164,32 @@
       <category>other</category>
       <category>upguard</category>
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach</title>
@@ -179,20 +218,6 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 29 May 2026 23:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Medical Billing Company Data Breach Affects 7 Medical Groups</title>
-      <link>https://www.hipaajournal.com/la-perouse-data-breach/</link>
-      <description>&lt;p&gt;The Las Vegas medical billing and coding management company, La Perouse, has announced a data breach that has affected seven [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/la-perouse-data-breach/"&gt;Medical Billing Company Data Breach Affects 7 Medical Groups&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 7,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/la-perouse-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:10b3ea0735dbb6e2</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 01 Jun 2026 13:36:32 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Patient Data Exposed in Cyberattacks on Dental Practices</title>
@@ -265,32 +290,6 @@
       <pubDate>Wed, 03 Jun 2026 14:14:39 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] CISA warns of cyberattacks targeting fuel tank monitoring systems</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/</link>
-      <description>CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/</description>
-      <guid isPermaLink="false">obsidian-lake:item:059dd9037ab462d1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 03 Jun 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/</link>
-      <description>The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0fb989d3deac8297</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 03 Jun 2026 20:31:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
       <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
       <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -345,6 +344,47 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 04 Jun 2026 15:33:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</title>
+      <link>https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/</link>
+      <description>&lt;p&gt;Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/"&gt;In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ba1098ce459247fa</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 05 Jun 2026 13:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Hacking Group Claims Responsibility for Multi-Million-Record DentaQuest Data Breach</title>
+      <link>https://www.hipaajournal.com/dentaquest-data-breach/</link>
+      <description>&lt;p&gt;Wellesley, MA-based DentaQuest, a dental benefits administrator that manages the benefits for 32 million Americans, has announced it is actively [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/dentaquest-data-breach/"&gt;Hacking Group Claims Responsibility for Multi-Million-Record DentaQuest Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 32,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/dentaquest-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5c18f7a77814268e</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 05 Jun 2026 13:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Over 900 US gas station tank gauge systems exposed to attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/</link>
+      <description>Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 900 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5dbc2974159b2cc1</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 05 Jun 2026 14:50:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

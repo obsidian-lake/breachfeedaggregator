@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 15:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:02:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -190,34 +190,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach</title>
-      <link>https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach</link>
-      <description>Jaimie Ding reports: Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March. 23andme is known for its direct-to-consumer DNA test kits that provided customers information on their ancestry and genetic predispositions for certain health conditions. The lawsuit calls for various civil penalties against 23andMe...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F05%2F29%2Fcalifornia-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcalifornia-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach&amp;amp;action_name=California%20AG%20Bonta%20Sues%20Chrome%20Holding%20Co.%2C%20Formerly%20Known%20as%2023andMe%2C%20Over%202023%20Data%20Breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&amp;pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:f732c31b61440f17</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 29 May 2026 12:22:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Thousands of Oregon prison files accessed by prison worker</title>
-      <link>https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker</link>
-      <description>Noelle Crombie reports on today&amp;#8217;s reminder of the insider threat: A former Snake River Correctional Institution employee accessed tens of thousands of Oregon Department of Corrections files over a six-month period last year, the agency announced Friday. Officials discovered the data breach in January during an investigation into misconduct allegations involving the unnamed employee, according to a statement...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F05%2F29%2Fthousands-of-oregon-prison-files-accessed-by-prison-worker%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dthousands-of-oregon-prison-files-accessed-by-prison-worker&amp;amp;action_name=Thousands%20of%20Oregon%20prison%20files%20accessed%20by%20prison%20worker&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;#038;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Insider // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/05/29/thousands-of-oregon-prison-files-accessed-by-prison-worker/?pk_campaign=feed&amp;pk_kwd=thousands-of-oregon-prison-files-accessed-by-prison-worker</description>
-      <guid isPermaLink="false">obsidian-lake:item:bf501eda3f3beb8d</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 29 May 2026 23:16:35 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Patient Data Exposed in Cyberattacks on Dental Practices</title>

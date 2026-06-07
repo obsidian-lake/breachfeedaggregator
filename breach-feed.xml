@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 08:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 15:12:55 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -385,6 +385,19 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 05 Jun 2026 14:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Silent Ransom Group targets law firms with fake IT support calls</title>
+      <link>https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/</link>
+      <description>The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/</description>
+      <guid isPermaLink="false">obsidian-lake:item:84287549858f4931</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Sun, 07 Jun 2026 14:09:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

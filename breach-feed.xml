@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 12:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 21:16:33 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Patient Data Exposed in Cyberattacks on Dental Practices</title>
-      <link>https://www.hipaajournal.com/patient-data-exposed-cyberattacks-on-dental-practices/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Bridle Trails Family Dentistry, Verber Dental Group, and Bronsky Orthodontics. Across the three incidents, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/patient-data-exposed-cyberattacks-on-dental-practices/"&gt;Patient Data Exposed in Cyberattacks on Dental Practices&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/patient-data-exposed-cyberattacks-on-dental-practices/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0414df321aaf15d3</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 02 Jun 2026 10:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Family Medicine Centers Pay $2.15M to Resolve Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/</link>
-      <description>&lt;p&gt;FMC Services, LLC, which does business as Family Medicine Centers in Texas, has agreed to a $2,150,000 settlement to resolve [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/"&gt;Family Medicine Centers Pay $2.15M to Resolve Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,150,000 // $ (est.): $2,150,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/family-medicine-centers-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:31e85eee29281a6e</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 02 Jun 2026 11:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] KR: Tving CEO Apologizes for Unprecedented Data Leak</title>
       <link>https://databreaches.net/2026/06/03/kr-tving-ceo-apologizes-for-unprecedented-data-leak/?pk_campaign=feed&amp;pk_kwd=kr-tving-ceo-apologizes-for-unprecedented-data-leak</link>
       <description>This is what incident response and accountability should look like in the U.S., too, but almost never does.  The Chosun Daily reports: OTT platform Tving, TVING, has faced controversy over leaking members&amp;#8217; personal information, with its representative director personally apologizing. On the afternoon of the 3rd, Tving&amp;#8217;s CEO Choi Joo-hee stated, &amp;#8220;We sincerely apologize for...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F03%2Fkr-tving-ceo-apologizes-for-unprecedented-data-leak%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dkr-tving-ceo-apologizes-for-unprecedented-data-leak&amp;amp;action_name=KR%3A%20Tving%20CEO%20Apologizes%20for%20Unprecedented%20Data%20Leak&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -232,20 +204,6 @@
       <category>tech</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 03 Jun 2026 13:52:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Singing River Health System: 54K Individuals Affected by December Cyberattack</title>
-      <link>https://www.hipaajournal.com/singing-river-health-system-54k-individuals-affected-by-december-cyberattack/</link>
-      <description>&lt;p&gt;Singing River Health System in Mississippi has issued an update on a cybersecurity incident that was first announced in December [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/singing-river-health-system-54k-individuals-affected-by-december-cyberattack/"&gt;Singing River Health System: 54K Individuals Affected by December Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 54,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/singing-river-health-system-54k-individuals-affected-by-december-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ab62167cdb8a186d</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 03 Jun 2026 14:02:53 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · HIGH] $3.3M Settlement Resolves Data Breach Lawsuit Against Mt. Baker Imaging &amp; Northwest Radiologists</title>
@@ -332,19 +290,6 @@
       <pubDate>Fri, 05 Jun 2026 13:59:34 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Over 900 US gas station tank gauge systems exposed to attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/</link>
-      <description>Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 900 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5dbc2974159b2cc1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 05 Jun 2026 14:50:15 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Silent Ransom Group targets law firms with fake IT support calls</title>
       <link>https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/</link>
       <description>The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]
@@ -384,6 +329,34 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 08 Jun 2026 12:33:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Henderson &amp; Walton Women’s Center Settles Class Action Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/henderson-walton-womens-center-data-breach-settlement/</link>
+      <description>&lt;p&gt;Henderson &amp;#38; Walton Women’s Center, a Birmingham, AL-based provider of women’s healthcare services, has agreed to settle a class action [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/henderson-walton-womens-center-data-breach-settlement/"&gt;Henderson &amp;#038; Walton Women’s Center Settles Class Action Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/henderson-walton-womens-center-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:163ff2c768bf3c7d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 08 Jun 2026 15:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Southern Illinois Ob-Gyn Associates Announces Data Breach Affecting 38,700 Individuals</title>
+      <link>https://www.hipaajournal.com/southern-illinois-ob-gyn-associates-data-breach/</link>
+      <description>&lt;p&gt;A data breach at Southern Illinois Ob-Gyn Associates has affected 38,700 individuals. Data breaches have also been reported by Wellpoint [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/southern-illinois-ob-gyn-associates-data-breach/"&gt;Southern Illinois Ob-Gyn Associates Announces Data Breach Affecting 38,700 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 38,700 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/southern-illinois-ob-gyn-associates-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:69de941eb2eb714d</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 08 Jun 2026 15:48:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

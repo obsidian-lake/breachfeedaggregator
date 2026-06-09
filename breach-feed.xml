@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 21:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:43:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -290,19 +290,6 @@
       <pubDate>Fri, 05 Jun 2026 13:59:34 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Silent Ransom Group targets law firms with fake IT support calls</title>
-      <link>https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/</link>
-      <description>The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/</description>
-      <guid isPermaLink="false">obsidian-lake:item:84287549858f4931</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Sun, 07 Jun 2026 14:09:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Silent Ransom Group Uses DNS Fast Flux in Attacks</title>
       <link>https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/</link>
       <description>&lt;p&gt;Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&amp;#038;C infrastructure.&lt;/p&gt;
@@ -357,6 +344,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 08 Jun 2026 15:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/</link>
+      <description>CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]
+
+// Category: breach // Severity: info // Sector: gov // Actor: Qilin // Vector: Ransomware // Records (est.): 3 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6350fdccc34903a2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 09 Jun 2026 08:18:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

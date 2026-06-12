@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:33:18 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,6 +140,19 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
+      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
+      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
+
+// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>tech</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -153,18 +166,30 @@
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Henderson &amp; Walton Women’s Center Settles Class Action Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/henderson-walton-womens-center-data-breach-settlement/</link>
-      <description>&lt;p&gt;Henderson &amp;#38; Walton Women’s Center, a Birmingham, AL-based provider of women’s healthcare services, has agreed to settle a class action [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/henderson-walton-womens-center-data-breach-settlement/"&gt;Henderson &amp;#038; Walton Women’s Center Settles Class Action Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
 
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/henderson-walton-womens-center-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:163ff2c768bf3c7d</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
       <category>breach</category>
       <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 08 Jun 2026 15:19:10 +0000</pubDate>
+      <category>gov</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Southern Illinois Ob-Gyn Associates Announces Data Breach Affecting 38,700 Individuals</title>
@@ -193,20 +218,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 09 Jun 2026 13:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] LA: St. George fire district sues IT company over cyberattack</title>
-      <link>https://databreaches.net/2026/06/10/la-st-george-fire-district-sues-it-company-over-cyberattack/?pk_campaign=feed&amp;pk_kwd=la-st-george-fire-district-sues-it-company-over-cyberattack</link>
-      <description>Deon Guillory reports: St. George Fire Protection District No. 2 filed a lawsuit against its former IT security provider, alleging the company’s failures led to a cyberattack that compromised the fire district’s network. The lawsuit, filed March 20 in the 19th Judicial District Court, claims General Informatics LLC breached its contract and fiduciary duty by...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F10%2Fla-st-george-fire-district-sues-it-company-over-cyberattack%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dla-st-george-fire-district-sues-it-company-over-cyberattack&amp;amp;action_name=LA%3A%20St.%20George%20fire%20district%20sues%20IT%20company%20over%20cyberattack&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/10/la-st-george-fire-district-sues-it-company-over-cyberattack/?pk_campaign=feed&amp;#038;pk_kwd=la-st-george-fire-district-sues-it-company-over-cyberattack"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/10/la-st-george-fire-district-sues-it-company-over-cyberattack/?pk_campaign=feed&amp;pk_kwd=la-st-george-fire-district-sues-it-company-over-cyberattack</description>
-      <guid isPermaLink="false">obsidian-lake:item:54f8ebbb3e481981</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 10 Jun 2026 14:45:34 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Florida Law Firm Data Breach Affects 65,000 Individuals</title>
@@ -248,6 +259,33 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Thu, 11 Jun 2026 22:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/labcorp-amca-data-breach-settlement/</link>
+      <description>&lt;p&gt;A $35,000,000 settlement has been agreed to resolve a long-running class action lawsuit against Labcorp over a 2018 cybersecurity incident [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/labcorp-amca-data-breach-settlement/"&gt;Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 35,000,000 // $ (est.): $35,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/labcorp-amca-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:652b98e46fb8dbac</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 12 Jun 2026 13:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SURVEILLANCE] Major US surveillance program poised to lapse after legislative deadlock</title>
+      <link>https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa</link>
+      <description>It is the first lapse of the spy program, known as Section 702 of the Foreign Intelligence Surveillance Act (FISA), since it was passed into law in 2008.
+
+// Category: surveillance // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,008 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa</description>
+      <guid isPermaLink="false">obsidian-lake:item:4eefc11ffb6256f8</guid>
+      <category>surveillance</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Fri, 12 Jun 2026 17:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

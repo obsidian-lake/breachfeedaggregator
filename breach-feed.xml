@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 18:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:05:40 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -286,6 +286,47 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Fri, 12 Jun 2026 17:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Labcorp reaches $35M settlement over American Medical Collection Agency breach</title>
+      <link>https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&amp;pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach</link>
+      <description>Do you remember the horrific American Medical Collection Agency (Retrieval-Masters Creditors Bureau Inc.) breach in 2019?  You can refresh your memory by scrolling through the Related posts below this one, but TL;DR: LabCorp was one of AMCA&amp;#8217;s clients that was affected by the breach, and in July 2019, they notified HHS that 10,251,784 patients had...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F12%2Flabcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dlabcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach&amp;amp;action_name=Labcorp%20reaches%20%2435M%20settlement%20over%20American%20Medical%20Collection%20Agency%20breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&amp;#038;pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $35,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&amp;pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:1d3e0f5c7e005bda</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 12 Jun 2026 19:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ukrainian national pleads guilty to role in Conti ransomware operation</title>
+      <link>https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&amp;pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation</link>
+      <description>Lawrence Abrams reports: A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. The U.S. Department of Justice announced Thursday that 44-year-old Oleksii Oleksiyovych Lytvynenko pleaded guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks conducted...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F12%2Fukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation&amp;amp;action_name=Ukrainian%20national%20pleads%20guilty%20to%20role%20in%20Conti%20ransomware%20operation&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&amp;#038;pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&amp;pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation</description>
+      <guid isPermaLink="false">obsidian-lake:item:4f9c10ffbf28e6ad</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 12 Jun 2026 19:32:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Maine disables data breach notification portal after fake disclosures</title>
+      <link>https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/</link>
+      <description>Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9de9813e73b79c34</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 12 Jun 2026 19:33:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

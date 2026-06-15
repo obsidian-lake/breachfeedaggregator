@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 20:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:23:37 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,6 +140,19 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
+      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
+      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
+
+// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>tech</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -153,32 +166,30 @@
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] Southern Illinois Ob-Gyn Associates Announces Data Breach Affecting 38,700 Individuals</title>
-      <link>https://www.hipaajournal.com/southern-illinois-ob-gyn-associates-data-breach/</link>
-      <description>&lt;p&gt;A data breach at Southern Illinois Ob-Gyn Associates has affected 38,700 individuals. Data breaches have also been reported by Wellpoint [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/southern-illinois-ob-gyn-associates-data-breach/"&gt;Southern Illinois Ob-Gyn Associates Announces Data Breach Affecting 38,700 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
 
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 38,700 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/southern-illinois-ob-gyn-associates-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:69de941eb2eb714d</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
       <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 08 Jun 2026 15:48:13 +0000</pubDate>
+      <category>info</category>
+      <category>gov</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Senator Seeks Answers from NYC Health &amp; Hospitals About 1.8M Record Breach</title>
-      <link>https://www.hipaajournal.com/senator-seeks-answers-nyc-health-hospitals-cybersecurity/</link>
-      <description>&lt;p&gt;The Senate Health, Education, Labor, and Pensions (HELP) Committee Chair Senator Bill Cassidy, M.D. (R-LA), is seeking answers from NYC [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/senator-seeks-answers-nyc-health-hospitals-cybersecurity/"&gt;Senator Seeks Answers from NYC Health &amp;#038; Hospitals About 1.8M Record Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
 
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,800,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/senator-seeks-answers-nyc-health-hospitals-cybersecurity/</description>
-      <guid isPermaLink="false">obsidian-lake:item:37c425f60728c82c</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
       <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 09 Jun 2026 13:20:28 +0000</pubDate>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Florida Law Firm Data Breach Affects 65,000 Individuals</title>
@@ -209,19 +220,6 @@
       <pubDate>Thu, 11 Jun 2026 11:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Maine breach portal abused to publish fake data breach disclosures</title>
-      <link>https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/</link>
-      <description>In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/</description>
-      <guid isPermaLink="false">obsidian-lake:item:66b97351a4323e45</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 11 Jun 2026 22:44:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/labcorp-amca-data-breach-settlement/</link>
       <description>&lt;p&gt;A $35,000,000 settlement has been agreed to resolve a long-running class action lawsuit against Labcorp over a 2018 cybersecurity incident [&amp;#8230;]&lt;/p&gt;
@@ -234,19 +232,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 12 Jun 2026 13:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SURVEILLANCE] Major US surveillance program poised to lapse after legislative deadlock</title>
-      <link>https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa</link>
-      <description>It is the first lapse of the spy program, known as Section 702 of the Foreign Intelligence Surveillance Act (FISA), since it was passed into law in 2008.
-
-// Category: surveillance // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,008 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa</description>
-      <guid isPermaLink="false">obsidian-lake:item:4eefc11ffb6256f8</guid>
-      <category>surveillance</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 12 Jun 2026 17:08:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Labcorp reaches $35M settlement over American Medical Collection Agency breach</title>
@@ -315,6 +300,61 @@
       <category>education</category>
       <category>bleepingcomputer</category>
       <pubDate>Sat, 13 Jun 2026 20:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Maine Disables Data Breach Portal Due to Fake Submissions</title>
+      <link>https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/</link>
+      <description>&lt;p&gt;Someone posted fake VRChat and Discord data breach reports on the system, prompting the Maine AG to take action.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/"&gt;Maine Disables Data Breach Portal Due to Fake Submissions &lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e652e5b062049514</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 15 Jun 2026 08:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges</title>
+      <link>https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/</link>
+      <description>&lt;p&gt;Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/"&gt;Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b54f3eefa73e8b80</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 15 Jun 2026 11:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Clinical Trial Data Stolen in Novo Nordisk Cyberattack</title>
+      <link>https://www.hipaajournal.com/novo-nordisk-cyberattack/</link>
+      <description>&lt;p&gt;Novo Nordisk, the Danish pharmaceutical firm behind the GLP-1 weight loss drugs Ozempic and Wegovy, has experienced a cyberattack that [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/novo-nordisk-cyberattack/"&gt;Clinical Trial Data Stolen in Novo Nordisk Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/novo-nordisk-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c115b4633ab79bdc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 15 Jun 2026 11:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Chinese hackers breach REDCap servers, steal medical research</title>
+      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/</link>
+      <description>A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5b72e6308533088f</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Mon, 15 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

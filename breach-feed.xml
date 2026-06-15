@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 23:19:01 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,19 +262,6 @@
       <pubDate>Fri, 12 Jun 2026 19:32:48 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Maine disables data breach notification portal after fake disclosures</title>
-      <link>https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/</link>
-      <description>Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9de9813e73b79c34</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 12 Jun 2026 19:33:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] South Korea Hands Coupang a Record-Breaking $409 Million Data Privacy Fine</title>
       <link>https://databreaches.net/2026/06/13/south-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine/?pk_campaign=feed&amp;pk_kwd=south-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine</link>
       <description>DataBreaches has been impressed by South Korea&amp;#8217;s response to data breaches ever since reading about how its financial regulator responded to three credit card companies whose customers suffered a major data leak. Unlike any enforcement action DataBreaches had ever seen levied here in the U.S., the firms had their ability to enroll new customers suspended...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F13%2Fsouth-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dsouth-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine&amp;amp;action_name=South%20Korea%20Hands%20Coupang%20a%20Record-Breaking%20%24409%20Million%20Data%20Privacy%20Fine&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -355,6 +342,19 @@
       <category>healthcare</category>
       <category>bleepingcomputer</category>
       <pubDate>Mon, 15 Jun 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Maine closes data breach portal to the public after fake reports</title>
+      <link>https://therecord.media/maine-turns-off-breach-portal-fake-reports</link>
+      <description>Maine is still allowing companies to report breaches, but won’t make the portal easily available to the public until after it completes an audit of its procedures to stop such incidents, according to a press release from the Maine attorney general’s office.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/maine-turns-off-breach-portal-fake-reports</description>
+      <guid isPermaLink="false">obsidian-lake:item:9318697b8a900049</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Mon, 15 Jun 2026 18:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

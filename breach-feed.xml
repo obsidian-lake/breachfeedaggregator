@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 23:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:14:13 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -276,47 +276,6 @@
       <pubDate>Sat, 13 Jun 2026 13:20:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Ex-school district employee jailed for hacks on former employer</title>
-      <link>https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/</link>
-      <description>A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]
-
-// Category: breach // Severity: critical // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 21,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b4e254a58c589347</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>education</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Sat, 13 Jun 2026 20:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Maine Disables Data Breach Portal Due to Fake Submissions</title>
-      <link>https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/</link>
-      <description>&lt;p&gt;Someone posted fake VRChat and Discord data breach reports on the system, prompting the Maine AG to take action.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/"&gt;Maine Disables Data Breach Portal Due to Fake Submissions &lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e652e5b062049514</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 15 Jun 2026 08:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges</title>
-      <link>https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/</link>
-      <description>&lt;p&gt;Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/"&gt;Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b54f3eefa73e8b80</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 15 Jun 2026 11:33:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Clinical Trial Data Stolen in Novo Nordisk Cyberattack</title>
       <link>https://www.hipaajournal.com/novo-nordisk-cyberattack/</link>
       <description>&lt;p&gt;Novo Nordisk, the Danish pharmaceutical firm behind the GLP-1 weight loss drugs Ozempic and Wegovy, has experienced a cyberattack that [&amp;#8230;]&lt;/p&gt;
@@ -329,19 +288,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 15 Jun 2026 11:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Chinese hackers breach REDCap servers, steal medical research</title>
-      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/</link>
-      <description>A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5b72e6308533088f</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Mon, 15 Jun 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Maine closes data breach portal to the public after fake reports</title>

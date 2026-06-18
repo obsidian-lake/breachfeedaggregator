@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 21:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:58:19 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] Florida Law Firm Data Breach Affects 65,000 Individuals</title>
-      <link>https://www.hipaajournal.com/grayrobinson-c2n-diagnostics-virta-health-data-breach/</link>
-      <description>&lt;p&gt;A cyberattack at the law firm GrayRobinson has affected 65,000 individuals. Data breaches have also been announced by C2N Diagnostics [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/grayrobinson-c2n-diagnostics-virta-health-data-breach/"&gt;Florida Law Firm Data Breach Affects 65,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 65,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/grayrobinson-c2n-diagnostics-virta-health-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ca2f4fb0c2a5beb9</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 11 Jun 2026 10:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] PHI Compromised in Cyber Incidents at Medenet; United Medical Doctors; Stewart Home &amp; School</title>
-      <link>https://www.hipaajournal.com/data-breach-medenet-united-medical-doctors-stewart-home-school/</link>
-      <description>&lt;p&gt;Cybersecurity incidents involving unauthorized access to protected health information have been announced by the revenue cycle management company Medenet, the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-medenet-united-medical-doctors-stewart-home-school/"&gt;PHI Compromised in Cyber Incidents at Medenet; United Medical Doctors; Stewart Home &amp;#038; School&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-medenet-united-medical-doctors-stewart-home-school/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9b87763037931ba1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 11 Jun 2026 11:00:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/labcorp-amca-data-breach-settlement/</link>
       <description>&lt;p&gt;A $35,000,000 settlement has been agreed to resolve a long-running class action lawsuit against Labcorp over a 2018 cybersecurity incident [&amp;#8230;]&lt;/p&gt;
@@ -234,20 +206,6 @@
       <pubDate>Fri, 12 Jun 2026 13:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Clinical Trial Data Stolen in Novo Nordisk Cyberattack</title>
-      <link>https://www.hipaajournal.com/novo-nordisk-cyberattack/</link>
-      <description>&lt;p&gt;Novo Nordisk, the Danish pharmaceutical firm behind the GLP-1 weight loss drugs Ozempic and Wegovy, has experienced a cyberattack that [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/novo-nordisk-cyberattack/"&gt;Clinical Trial Data Stolen in Novo Nordisk Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/novo-nordisk-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c115b4633ab79bdc</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 15 Jun 2026 11:46:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] FMC Services Agrees to $2.15M Settlement to End Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/fmc-services-data-breach-settlement/</link>
       <description>&lt;p&gt;FMC Services LLC, the operator of a network of primary care clinics in Amarillo and Canyon, Texas, experienced a cyberattack [&amp;#8230;]&lt;/p&gt;
@@ -260,6 +218,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 17 Jun 2026 10:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Hackers Claim Responsibility for Novo Nordisk Cyberattack</title>
+      <link>https://www.hipaajournal.com/novo-nordisk-cyberattack/</link>
+      <description>&lt;p&gt;A hacking group has claimed responsibility for the cyberattack on the pharmaceutical company Novo Nordisk and says it exfiltrated more [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/novo-nordisk-cyberattack/"&gt;Hackers Claim Responsibility for Novo Nordisk Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/novo-nordisk-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c115b4633ab79bdc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 18 Jun 2026 08:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] We Didn’t Have a Data Breach. The Internet Disagreed.</title>
+      <link>https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&amp;pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed</link>
+      <description>Esteban Morin, the Head of Legal at VRChat described a recent situation: Last week my company, VRChat, was the subject of multiple articles and social media outrage stemming from a data breach notice that was posted on the Maine Attorney General&amp;#8217;s official website. This situation was unexpected because the company&amp;#8217;s data had not been compromised...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Fwe-didnt-have-a-data-breach-the-internet-disagreed%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dwe-didnt-have-a-data-breach-the-internet-disagreed&amp;amp;action_name=We%20Didn%26%238217%3Bt%20Have%20a%20Data%20Breach.%20The%20Internet%20Disagreed.&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&amp;#038;pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&amp;pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed</description>
+      <guid isPermaLink="false">obsidian-lake:item:bdb6233da9010671</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 18 Jun 2026 11:07:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

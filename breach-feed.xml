@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 20:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:33:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,18 +192,18 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] FMC Services Agrees to $2.15M Settlement to End Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/fmc-services-data-breach-settlement/</link>
-      <description>&lt;p&gt;FMC Services LLC, the operator of a network of primary care clinics in Amarillo and Canyon, Texas, experienced a cyberattack [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/fmc-services-data-breach-settlement/"&gt;FMC Services Agrees to $2.15M Settlement to End Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
+      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
+      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,150,000 // $ (est.): $2,150,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/fmc-services-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:18062c9dd874ab79</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
       <category>breach</category>
-      <category>high</category>
+      <category>info</category>
       <category>healthcare</category>
       <category>hipaajournal</category>
-      <pubDate>Wed, 17 Jun 2026 10:00:54 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 06:30:48 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Hackers Claim Responsibility for Novo Nordisk Cyberattack</title>
@@ -218,20 +218,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 18 Jun 2026 08:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] We Didn’t Have a Data Breach. The Internet Disagreed.</title>
-      <link>https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&amp;pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed</link>
-      <description>Esteban Morin, the Head of Legal at VRChat described a recent situation: Last week my company, VRChat, was the subject of multiple articles and social media outrage stemming from a data breach notice that was posted on the Maine Attorney General&amp;#8217;s official website. This situation was unexpected because the company&amp;#8217;s data had not been compromised...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Fwe-didnt-have-a-data-breach-the-internet-disagreed%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dwe-didnt-have-a-data-breach-the-internet-disagreed&amp;amp;action_name=We%20Didn%26%238217%3Bt%20Have%20a%20Data%20Breach.%20The%20Internet%20Disagreed.&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&amp;#038;pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/18/we-didnt-have-a-data-breach-the-internet-disagreed/?pk_campaign=feed&amp;pk_kwd=we-didnt-have-a-data-breach-the-internet-disagreed</description>
-      <guid isPermaLink="false">obsidian-lake:item:bdb6233da9010671</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 18 Jun 2026 11:07:28 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Heart Monitoring Device Manufacturer Discloses Cyberattack; Data Breach</title>
@@ -273,6 +259,75 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Thu, 18 Jun 2026 18:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] HIPAA Violation Cases: Types &amp; Consequences</title>
+      <link>https://www.hipaajournal.com/hipaa-violation-cases/</link>
+      <description>&lt;p&gt;HIPAA violation cases are compliance investigations that result from a data breach being reported to the Department of Health and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hipaa-violation-cases/"&gt;HIPAA Violation Cases: Types &amp;#038; Consequences&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hipaa-violation-cases/</description>
+      <guid isPermaLink="false">obsidian-lake:item:14ba8a8395ea1048</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 18 Jun 2026 22:17:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports</title>
+      <link>https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&amp;pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports</link>
+      <description>Zack Whittaker reports: A data breach at a Texas state government department allowed hackers to take the driver’s license information and passport numbers of more than 3 million people, according to the state’s attorney general. The incident is one of the largest data breaches to affect the state this year. In a data breach notice on the Texas...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Ftexas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dtexas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports&amp;amp;action_name=Texas%20government%20data%20breach%20allowed%20hackers%20to%20steal%203%20million%20driver%E2%80%99s%20licenses%20and%20passports&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&amp;#038;pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&amp;pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports</description>
+      <guid isPermaLink="false">obsidian-lake:item:591a887372768aff</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 19 Jun 2026 00:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website</title>
+      <link>https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&amp;pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website</link>
+      <description>Alexandra Posadzki reports: Canadian hacker Aubrey Cottle has pleaded guilty to three charges stemming from a cyberattack linked to notorious hacktivist group Anonymous on the Texas Republican Party. Mr. Cottle, who appeared in court in Newmarket, Ont., on Thursday, pleaded guilty to fraudulently obtaining a computer service, namely the systems of web-hosting company Epik, causing mischief...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Fcanadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcanadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website&amp;amp;action_name=Canadian%20hacker%20pleads%20guilty%20to%20charges%20for%20cyberattack%20on%20Texas%20Republican%20website&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&amp;#038;pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&amp;pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website</description>
+      <guid isPermaLink="false">obsidian-lake:item:95db2ee9c9344863</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 19 Jun 2026 00:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</title>
+      <link>https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</link>
+      <description>&lt;p&gt;CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/"&gt;Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 20,253 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6c0a5b6aa04f8766</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 19 Jun 2026 04:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] CISA warns Fortinet users to secure devices after FortiBleed leak</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed "FortiBleed." [...]
+
+// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 74,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f56a50d09465e9bc</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 19 Jun 2026 06:47:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

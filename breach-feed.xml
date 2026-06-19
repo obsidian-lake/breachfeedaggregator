@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 12:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:16:15 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
-      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
-      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 18 Jun 2026 06:30:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Hackers Claim Responsibility for Novo Nordisk Cyberattack</title>
       <link>https://www.hipaajournal.com/novo-nordisk-cyberattack/</link>
       <description>&lt;p&gt;A hacking group has claimed responsibility for the cyberattack on the pharmaceutical company Novo Nordisk and says it exfiltrated more [&amp;#8230;]&lt;/p&gt;
@@ -328,6 +314,33 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 19 Jun 2026 06:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Multi-million-dollar Settlement Agreed to Resolve MCNA Dental Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/mcna-dental-data-breach-settlement/</link>
+      <description>&lt;p&gt;A settlement has been agreed to resolve class action data breach litigation against Managed Care of North America (MCNA), Inc., [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mcna-dental-data-breach-settlement/"&gt;Multi-million-dollar Settlement Agreed to Resolve MCNA Dental Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mcna-dental-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9147fe504f28f9fb</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 19 Jun 2026 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Texas govt data breach exposes over 3 million driver’s licenses</title>
+      <link>https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/</link>
+      <description>The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]
+
+// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 3,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d2023d9e1e1651e7</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 19 Jun 2026 16:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

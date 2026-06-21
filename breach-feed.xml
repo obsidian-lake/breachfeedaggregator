@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 10:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 16:57:31 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 18 Jun 2026 13:44:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Cybersecurity breach includes Crime Stoppers of Hamilton data</title>
-      <link>https://databreaches.net/2026/06/18/cybersecurity-breach-includes-crime-stoppers-of-hamilton-data/?pk_campaign=feed&amp;pk_kwd=cybersecurity-breach-includes-crime-stoppers-of-hamilton-data</link>
-      <description>The Navigate360 (&amp;#8220;P3&amp;#8221;) data breach seems to finally be getting some attention in Canada. Nicole O&amp;#8217;Reilly reports: Hamilton police say they’ve been made aware that a cybersecurity incident earlier this year affecting a U.S.-based online platform includes a breach of Crime Stoppers of Hamilton data. The P3 platform, owned by Navigate360, is under contract with...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Fcybersecurity-breach-includes-crime-stoppers-of-hamilton-data%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcybersecurity-breach-includes-crime-stoppers-of-hamilton-data&amp;amp;action_name=Cybersecurity%20breach%20includes%20Crime%20Stoppers%20of%20Hamilton%20data&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/18/cybersecurity-breach-includes-crime-stoppers-of-hamilton-data/?pk_campaign=feed&amp;#038;pk_kwd=cybersecurity-breach-includes-crime-stoppers-of-hamilton-data"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/18/cybersecurity-breach-includes-crime-stoppers-of-hamilton-data/?pk_campaign=feed&amp;pk_kwd=cybersecurity-breach-includes-crime-stoppers-of-hamilton-data</description>
-      <guid isPermaLink="false">obsidian-lake:item:7339384be3ae2d73</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>tech</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 18 Jun 2026 16:52:46 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Nintendo confirms data stolen in WebMD subsidiary cyberattack</title>

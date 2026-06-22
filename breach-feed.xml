@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 16:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:27:46 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -206,19 +206,6 @@
       <pubDate>Thu, 18 Jun 2026 13:44:39 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Nintendo confirms data stolen in WebMD subsidiary cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/</link>
-      <description>Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:19cb07773d0d2d40</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 18 Jun 2026 18:31:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] HIPAA Violation Cases: Types &amp; Consequences</title>
       <link>https://www.hipaajournal.com/hipaa-violation-cases/</link>
       <description>&lt;p&gt;HIPAA violation cases are compliance investigations that result from a data breach being reported to the Department of Health and [&amp;#8230;]&lt;/p&gt;
@@ -245,19 +232,6 @@
       <category>tech</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 19 Jun 2026 00:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] CISA warns Fortinet users to secure devices after FortiBleed leak</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed "FortiBleed." [...]
-
-// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 74,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f56a50d09465e9bc</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 19 Jun 2026 06:47:55 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Multi-million-dollar Settlement Agreed to Resolve MCNA Dental Data Breach Lawsuit</title>

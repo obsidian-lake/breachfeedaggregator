@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:18:13 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Hackers Claim Responsibility for Novo Nordisk Cyberattack</title>
-      <link>https://www.hipaajournal.com/novo-nordisk-cyberattack/</link>
-      <description>&lt;p&gt;A hacking group has claimed responsibility for the cyberattack on the pharmaceutical company Novo Nordisk and says it exfiltrated more [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/novo-nordisk-cyberattack/"&gt;Hackers Claim Responsibility for Novo Nordisk Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/novo-nordisk-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c115b4633ab79bdc</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 18 Jun 2026 08:46:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Heart Monitoring Device Manufacturer Discloses Cyberattack; Data Breach</title>
       <link>https://www.hipaajournal.com/irhythm-data-breach/</link>
       <description>&lt;p&gt;iRhythm Holdings Inc., a publicly traded heart monitoring device manufacturer, has notified the U.S. Securities and Exchange Commission (SEC) about [&amp;#8230;]&lt;/p&gt;
@@ -247,20 +233,6 @@
       <pubDate>Thu, 18 Jun 2026 22:17:33 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports</title>
-      <link>https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&amp;pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports</link>
-      <description>Zack Whittaker reports: A data breach at a Texas state government department allowed hackers to take the driver’s license information and passport numbers of more than 3 million people, according to the state’s attorney general. The incident is one of the largest data breaches to affect the state this year. In a data breach notice on the Texas...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Ftexas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dtexas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports&amp;amp;action_name=Texas%20government%20data%20breach%20allowed%20hackers%20to%20steal%203%20million%20driver%E2%80%99s%20licenses%20and%20passports&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&amp;#038;pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&amp;pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports</description>
-      <guid isPermaLink="false">obsidian-lake:item:591a887372768aff</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 19 Jun 2026 00:57:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website</title>
       <link>https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&amp;pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website</link>
       <description>Alexandra Posadzki reports: Canadian hacker Aubrey Cottle has pleaded guilty to three charges stemming from a cyberattack linked to notorious hacktivist group Anonymous on the Texas Republican Party. Mr. Cottle, who appeared in court in Newmarket, Ont., on Thursday, pleaded guilty to fraudulently obtaining a computer service, namely the systems of web-hosting company Epik, causing mischief...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Fcanadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcanadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website&amp;amp;action_name=Canadian%20hacker%20pleads%20guilty%20to%20charges%20for%20cyberattack%20on%20Texas%20Republican%20website&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -273,20 +245,6 @@
       <category>tech</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 19 Jun 2026 00:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</title>
-      <link>https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</link>
-      <description>&lt;p&gt;CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/"&gt;Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 20,253 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6c0a5b6aa04f8766</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 19 Jun 2026 04:10:34 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] CISA warns Fortinet users to secure devices after FortiBleed leak</title>
@@ -327,6 +285,76 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 19 Jun 2026 16:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Texas Parks &amp; Wildlife Data Breach Affects 3 Million Individuals</title>
+      <link>https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</link>
+      <description>&lt;p&gt;Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/"&gt;Texas Parks &amp;#038; Wildlife Data Breach Affects 3 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 3,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</description>
+      <guid isPermaLink="false">obsidian-lake:item:25be2d3d7fa84f9d</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 22 Jun 2026 05:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ShinyHunters Data Extortion Group Threatens to Leak 8.8 TB of Stolen One Medical Data</title>
+      <link>https://www.hipaajournal.com/one-medical-data-breach/</link>
+      <description>&lt;p&gt;One Medical, the Amazon-owned primary care provider, has recently announced a cybersecurity incident in which an unauthorized third party gained [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/one-medical-data-breach/"&gt;ShinyHunters Data Extortion Group Threatens to Leak 8.8 TB of Stolen One Medical Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: ShinyHunters // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/one-medical-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5125f652eb4e27d6</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 22 Jun 2026 09:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Blue Fish Pediatrics Data Breach Affects More Than 41,000 Texas Patients</title>
+      <link>https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/</link>
+      <description>&lt;p&gt;Blue Fish Pediatrics in Texas has announced a July 2025 cyberattack that affected more than 41,000 Texas patients. Data breaches [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/"&gt;Blue Fish Pediatrics Data Breach Affects More Than 41,000 Texas Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 41,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:07c4cc4381977676</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 22 Jun 2026 14:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Cherry Health provides preliminary notice of recent data breach</title>
+      <link>https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach</link>
+      <description>On April 19, 2026, Cherry Health in Michigan detected suspicious network activity. Investigation revealed that an unknown person or persons had gained access to its network and copied data. On June 18, Cherry Health published a preliminary notice on its website.  The notice makes no mention of any earlier reporting on the incident that had...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F22%2Fcherry-health-provides-preliminary-notice-of-recent-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcherry-health-provides-preliminary-notice-of-recent-data-breach&amp;amp;action_name=Cherry%20Health%20provides%20preliminary%20notice%20of%20recent%20data%20breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:a7f701e2502269a2</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 22 Jun 2026 15:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Xsolis breach affected 1,396,519 of its clients’ patients</title>
+      <link>https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&amp;pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients</link>
+      <description>Xsolis, Inc. is a business associate in the healthcare sector, providing utilization and case management services. They describe themselves as applying &amp;#8220;industry-leading AI and automation to ensure appropriate care settings and accelerate collaboration across a connected network of providers and payers.&amp;#8221; On June 19, California Attorney General&amp;#8217;s Office posted a copy of a breach notification...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F22%2Fxsolis-breach-affected-1396519-of-its-clients-patients%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dxsolis-breach-affected-1396519-of-its-clients-patients&amp;amp;action_name=Xsolis%20breach%20affected%201%2C396%2C519%20of%20its%20clients%26%238217%3B%20patients&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&amp;#038;pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&amp;pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients</description>
+      <guid isPermaLink="false">obsidian-lake:item:456175ade7dbc735</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 22 Jun 2026 16:04:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

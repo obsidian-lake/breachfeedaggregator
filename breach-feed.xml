@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 22:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:48:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Heart Monitoring Device Manufacturer Discloses Cyberattack; Data Breach</title>
-      <link>https://www.hipaajournal.com/irhythm-data-breach/</link>
-      <description>&lt;p&gt;iRhythm Holdings Inc., a publicly traded heart monitoring device manufacturer, has notified the U.S. Securities and Exchange Commission (SEC) about [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/irhythm-data-breach/"&gt;Heart Monitoring Device Manufacturer Discloses Cyberattack; Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/irhythm-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a137ee6fe6d4c08c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 18 Jun 2026 13:44:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] HIPAA Violation Cases: Types &amp; Consequences</title>
       <link>https://www.hipaajournal.com/hipaa-violation-cases/</link>
       <description>&lt;p&gt;HIPAA violation cases are compliance investigations that result from a data breach being reported to the Department of Health and [&amp;#8230;]&lt;/p&gt;
@@ -259,20 +245,6 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 19 Jun 2026 16:12:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Texas Parks &amp; Wildlife Data Breach Affects 3 Million Individuals</title>
-      <link>https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</link>
-      <description>&lt;p&gt;Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/"&gt;Texas Parks &amp;#038; Wildlife Data Breach Affects 3 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 3,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</description>
-      <guid isPermaLink="false">obsidian-lake:item:25be2d3d7fa84f9d</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 22 Jun 2026 05:33:39 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] ShinyHunters Data Extortion Group Threatens to Leak 8.8 TB of Stolen One Medical Data</title>
@@ -329,6 +301,34 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 22 Jun 2026 16:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Xsolis Data Breach Affects 1.4M Individuals</title>
+      <link>https://www.hipaajournal.com/xsolis-data-breach/</link>
+      <description>&lt;p&gt;Xsolis, a business associate of HIPAA-covered entities that provides AI-powered solutions for improving case and utilization management to achieve more [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/xsolis-data-breach/"&gt;Xsolis Data Breach Affects 1.4M Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,400,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/xsolis-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:514ab9ce0384ca2d</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 23 Jun 2026 09:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] LifePoint Health; Southwest Behavioral &amp; Health Services; Nottingham Village Report Data Breaches</title>
+      <link>https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Lifepoint Health, Southwest Behavioral &amp;#38; Health Services, and Nottingham Village. Lifepoint Health Lifepoint Health [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/"&gt;LifePoint Health; Southwest Behavioral &amp;#038; Health Services; Nottingham Village Report Data Breaches&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d28ac5aaa0a1e65d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 23 Jun 2026 10:00:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

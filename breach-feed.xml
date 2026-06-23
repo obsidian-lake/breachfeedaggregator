@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 10:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:31:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] HIPAA Violation Cases: Types &amp; Consequences</title>
-      <link>https://www.hipaajournal.com/hipaa-violation-cases/</link>
-      <description>&lt;p&gt;HIPAA violation cases are compliance investigations that result from a data breach being reported to the Department of Health and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hipaa-violation-cases/"&gt;HIPAA Violation Cases: Types &amp;#038; Consequences&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hipaa-violation-cases/</description>
-      <guid isPermaLink="false">obsidian-lake:item:14ba8a8395ea1048</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 18 Jun 2026 22:17:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website</title>
       <link>https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&amp;pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website</link>
       <description>Alexandra Posadzki reports: Canadian hacker Aubrey Cottle has pleaded guilty to three charges stemming from a cyberattack linked to notorious hacktivist group Anonymous on the Texas Republican Party. Mr. Cottle, who appeared in court in Newmarket, Ont., on Thursday, pleaded guilty to fraudulently obtaining a computer service, namely the systems of web-hosting company Epik, causing mischief...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F18%2Fcanadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcanadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website&amp;amp;action_name=Canadian%20hacker%20pleads%20guilty%20to%20charges%20for%20cyberattack%20on%20Texas%20Republican%20website&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -232,19 +218,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 19 Jun 2026 14:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Texas govt data breach exposes over 3 million driver’s licenses</title>
-      <link>https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/</link>
-      <description>The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]
-
-// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 3,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d2023d9e1e1651e7</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 19 Jun 2026 16:12:41 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] ShinyHunters Data Extortion Group Threatens to Leak 8.8 TB of Stolen One Medical Data</title>
@@ -329,6 +302,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 23 Jun 2026 10:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] April 2026 Healthcare Data Breach Report</title>
+      <link>https://www.hipaajournal.com/april-2026-healthcare-data-breach-report/</link>
+      <description>&lt;p&gt;In April 2026, 47 healthcare data breaches affecting 500 or more individuals were reported to the HHS’ Office for Civil [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/april-2026-healthcare-data-breach-report/"&gt;April 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/april-2026-healthcare-data-breach-report/</description>
+      <guid isPermaLink="false">obsidian-lake:item:50130e2ea20e1c93</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 23 Jun 2026 16:19:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

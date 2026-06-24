@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 10:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:12:53 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] ShinyHunters Data Extortion Group Threatens to Leak 8.8 TB of Stolen One Medical Data</title>
-      <link>https://www.hipaajournal.com/one-medical-data-breach/</link>
-      <description>&lt;p&gt;One Medical, the Amazon-owned primary care provider, has recently announced a cybersecurity incident in which an unauthorized third party gained [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/one-medical-data-breach/"&gt;ShinyHunters Data Extortion Group Threatens to Leak 8.8 TB of Stolen One Medical Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: ShinyHunters // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/one-medical-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5125f652eb4e27d6</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 22 Jun 2026 09:05:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Blue Fish Pediatrics Data Breach Affects More Than 41,000 Texas Patients</title>
       <link>https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/</link>
       <description>&lt;p&gt;Blue Fish Pediatrics in Texas has announced a July 2025 cyberattack that affected more than 41,000 Texas patients. Data breaches [&amp;#8230;]&lt;/p&gt;
@@ -302,6 +288,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 24 Jun 2026 10:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] British Scattered Spider Hacker Pleads Guilty to Cyberattacks on TfL; SSM Health Care; Sutter Health</title>
+      <link>https://www.hipaajournal.com/british-scattered-spider-hacker-cyberattacks-on-tfl-ssm-health-care-sutter-health/</link>
+      <description>&lt;p&gt;Two British hackers have pleaded guilty to a cyberattack on Transport for London (TfL), one of whom also admitted to [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/british-scattered-spider-hacker-cyberattacks-on-tfl-ssm-health-care-sutter-health/"&gt;British Scattered Spider Hacker Pleads Guilty to Cyberattacks on TfL; SSM Health Care; Sutter Health&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Scattered Spider // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/british-scattered-spider-hacker-cyberattacks-on-tfl-ssm-health-care-sutter-health/</description>
+      <guid isPermaLink="false">obsidian-lake:item:57ddcad13a2d352e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 24 Jun 2026 12:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Hillcrest Convalescent Center Settles Class Action Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/hillcrest-convalescent-center-data-breach-settlement/</link>
+      <description>&lt;p&gt;Hillcrest Convalescent Center, a short-term inpatient rehabilitation and skilled nursing facility in Durham, North Carolina, has agreed to settle class [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hillcrest-convalescent-center-data-breach-settlement/"&gt;Hillcrest Convalescent Center Settles Class Action Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hillcrest-convalescent-center-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7e282888106ffa56</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 24 Jun 2026 13:54:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

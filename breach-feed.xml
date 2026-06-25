@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:28:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Cherry Health provides preliminary notice of recent data breach</title>
-      <link>https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach</link>
-      <description>On April 19, 2026, Cherry Health in Michigan detected suspicious network activity. Investigation revealed that an unknown person or persons had gained access to its network and copied data. On June 18, Cherry Health published a preliminary notice on its website.  The notice makes no mention of any earlier reporting on the incident that had...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F22%2Fcherry-health-provides-preliminary-notice-of-recent-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcherry-health-provides-preliminary-notice-of-recent-data-breach&amp;amp;action_name=Cherry%20Health%20provides%20preliminary%20notice%20of%20recent%20data%20breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:a7f701e2502269a2</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 22 Jun 2026 15:22:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Xsolis breach affected 1,396,519 of its clients’ patients</title>
-      <link>https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&amp;pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients</link>
-      <description>Xsolis, Inc. is a business associate in the healthcare sector, providing utilization and case management services. They describe themselves as applying &amp;#8220;industry-leading AI and automation to ensure appropriate care settings and accelerate collaboration across a connected network of providers and payers.&amp;#8221; On June 19, California Attorney General&amp;#8217;s Office posted a copy of a breach notification...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F22%2Fxsolis-breach-affected-1396519-of-its-clients-patients%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dxsolis-breach-affected-1396519-of-its-clients-patients&amp;amp;action_name=Xsolis%20breach%20affected%201%2C396%2C519%20of%20its%20clients%26%238217%3B%20patients&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&amp;#038;pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&amp;pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients</description>
-      <guid isPermaLink="false">obsidian-lake:item:456175ade7dbc735</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 22 Jun 2026 16:04:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Xsolis Data Breach Affects 1.4M Individuals</title>
-      <link>https://www.hipaajournal.com/xsolis-data-breach/</link>
-      <description>&lt;p&gt;Xsolis, a business associate of HIPAA-covered entities that provides AI-powered solutions for improving case and utilization management to achieve more [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/xsolis-data-breach/"&gt;Xsolis Data Breach Affects 1.4M Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,400,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/xsolis-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:514ab9ce0384ca2d</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 23 Jun 2026 09:00:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] LifePoint Health; Southwest Behavioral &amp; Health Services; Nottingham Village Report Data Breaches</title>
       <link>https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/</link>
       <description>&lt;p&gt;Data breaches have been announced by Lifepoint Health, Southwest Behavioral &amp;#38; Health Services, and Nottingham Village. Lifepoint Health Lifepoint Health [&amp;#8230;]&lt;/p&gt;
@@ -330,6 +288,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 25 Jun 2026 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</title>
+      <link>https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</link>
+      <description>&lt;p&gt;Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/"&gt;Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6a9af0c82c03f413</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Thu, 25 Jun 2026 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed</title>
+      <link>https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed</link>
+      <description>In August 2025, DataBreaches added the Colorado Health Network (CHN) to our non-public worksheets after threat actors called Cephalus added the provider to its&amp;#8217; dark web leak site with a claim that they had acquired 900 GB of data. Cephalus disappeared from public view days later, and never leaked the data on any server that...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F25%2Fcolorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcolorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed&amp;amp;action_name=Colorado%20Health%20Network%20Notifies%20Patients%20of%20Last%20Year%26%238217%3Bs%20Breach%E2%80%94But%20Key%20Details%20Remain%20Undisclosed&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;#038;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 94,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed</description>
+      <guid isPermaLink="false">obsidian-lake:item:4704a168471c7525</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 25 Jun 2026 16:23:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

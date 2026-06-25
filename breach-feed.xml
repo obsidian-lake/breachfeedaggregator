@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 22:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:24:00 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Blue Fish Pediatrics Data Breach Affects More Than 41,000 Texas Patients</title>
-      <link>https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/</link>
-      <description>&lt;p&gt;Blue Fish Pediatrics in Texas has announced a July 2025 cyberattack that affected more than 41,000 Texas patients. Data breaches [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/"&gt;Blue Fish Pediatrics Data Breach Affects More Than 41,000 Texas Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 41,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/blue-fish-pediatrics-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:07c4cc4381977676</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 22 Jun 2026 14:11:15 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Cherry Health provides preliminary notice of recent data breach</title>
       <link>https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&amp;pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach</link>
       <description>On April 19, 2026, Cherry Health in Michigan detected suspicious network activity. Investigation revealed that an unknown person or persons had gained access to its network and copied data. On June 18, Cherry Health published a preliminary notice on its website.  The notice makes no mention of any earlier reporting on the incident that had...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F22%2Fcherry-health-provides-preliminary-notice-of-recent-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcherry-health-provides-preliminary-notice-of-recent-data-breach&amp;amp;action_name=Cherry%20Health%20provides%20preliminary%20notice%20of%20recent%20data%20breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -316,6 +302,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 24 Jun 2026 13:54:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Healthcare Report Highlights Growing Vendor Risk and Lack of Cyberattack Readiness</title>
+      <link>https://www.hipaajournal.com/2026-healthcare-landscape-report-vendor-risk-cyberattack-readiness/</link>
+      <description>&lt;p&gt;Cybersecurity risk is growing, and healthcare organizations are struggling to defend a rapidly increasing attack surface. AI tools are being [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/2026-healthcare-landscape-report-vendor-risk-cyberattack-readiness/"&gt;Healthcare Report Highlights Growing Vendor Risk and Lack of Cyberattack Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/2026-healthcare-landscape-report-vendor-risk-cyberattack-readiness/</description>
+      <guid isPermaLink="false">obsidian-lake:item:325014d083e49c49</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 25 Jun 2026 09:31:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Bradford Health Services; Bradford Health Partners Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/bradford-health-services-partners-data-breach-settlement/</link>
+      <description>&lt;p&gt;Bradford Health Services, LLC, and Bradford Health Partners, LLC, were sued over a December 2023 cybersecurity incident that exposed the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/bradford-health-services-partners-data-breach-settlement/"&gt;Bradford Health Services; Bradford Health Partners Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/bradford-health-services-partners-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:74a5cbab4e5ac39d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 25 Jun 2026 10:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

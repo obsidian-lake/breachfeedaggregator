@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 10:38:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:22:59 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] LifePoint Health; Southwest Behavioral &amp; Health Services; Nottingham Village Report Data Breaches</title>
-      <link>https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Lifepoint Health, Southwest Behavioral &amp;#38; Health Services, and Nottingham Village. Lifepoint Health Lifepoint Health [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/"&gt;LifePoint Health; Southwest Behavioral &amp;#038; Health Services; Nottingham Village Report Data Breaches&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-lifepoint-health-southwest-behavioral-nottingham-village/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d28ac5aaa0a1e65d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 23 Jun 2026 10:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] April 2026 Healthcare Data Breach Report</title>
-      <link>https://www.hipaajournal.com/april-2026-healthcare-data-breach-report/</link>
-      <description>&lt;p&gt;In April 2026, 47 healthcare data breaches affecting 500 or more individuals were reported to the HHS’ Office for Civil [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/april-2026-healthcare-data-breach-report/"&gt;April 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/april-2026-healthcare-data-breach-report/</description>
-      <guid isPermaLink="false">obsidian-lake:item:50130e2ea20e1c93</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 23 Jun 2026 16:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Data Breaches Announced by Florida Retina Center; Acadia Healthcare Company</title>
-      <link>https://www.hipaajournal.com/data-breaches-announced-by-florida-retina-center-acadia-healthcare-company/</link>
-      <description>&lt;p&gt;Florida Retina Center has identified unauthorized access to systems containing the protected health information of more than 13,600 patients. Acadia [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-announced-by-florida-retina-center-acadia-healthcare-company/"&gt;Data Breaches Announced by Florida Retina Center; Acadia Healthcare Company&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 13,600 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-announced-by-florida-retina-center-acadia-healthcare-company/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ac166958c32943b9</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 24 Jun 2026 10:00:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] British Scattered Spider Hacker Pleads Guilty to Cyberattacks on TfL; SSM Health Care; Sutter Health</title>
       <link>https://www.hipaajournal.com/british-scattered-spider-hacker-cyberattacks-on-tfl-ssm-health-care-sutter-health/</link>
       <description>&lt;p&gt;Two British hackers have pleaded guilty to a cyberattack on Transport for London (TfL), one of whom also admitted to [&amp;#8230;]&lt;/p&gt;
@@ -290,20 +248,6 @@
       <pubDate>Thu, 25 Jun 2026 10:00:36 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</title>
-      <link>https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</link>
-      <description>&lt;p&gt;Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/"&gt;Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6a9af0c82c03f413</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Thu, 25 Jun 2026 12:07:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed</title>
       <link>https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed</link>
       <description>In August 2025, DataBreaches added the Colorado Health Network (CHN) to our non-public worksheets after threat actors called Cephalus added the provider to its&amp;#8217; dark web leak site with a claim that they had acquired 900 GB of data. Cephalus disappeared from public view days later, and never leaked the data on any server that...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F25%2Fcolorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcolorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed&amp;amp;action_name=Colorado%20Health%20Network%20Notifies%20Patients%20of%20Last%20Year%26%238217%3Bs%20Breach%E2%80%94But%20Key%20Details%20Remain%20Undisclosed&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -316,6 +260,20 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 25 Jun 2026 16:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Okanogan Behavioral Healthcare Settles Class Action Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/okanogan-behavioral-healthcare-settles-data-breach-settlement/</link>
+      <description>&lt;p&gt;Okanogan Behavioral Healthcare, a provider of holistic behavioral health services in Okanogan County, Washington, has agreed to settle a class [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/okanogan-behavioral-healthcare-settles-data-breach-settlement/"&gt;Okanogan Behavioral Healthcare Settles Class Action Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/okanogan-behavioral-healthcare-settles-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:212eaafefe4c06a3</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 26 Jun 2026 12:10:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

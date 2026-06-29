@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 22:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:36:46 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -246,20 +246,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 25 Jun 2026 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed</title>
-      <link>https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed</link>
-      <description>In August 2025, DataBreaches added the Colorado Health Network (CHN) to our non-public worksheets after threat actors called Cephalus added the provider to its&amp;#8217; dark web leak site with a claim that they had acquired 900 GB of data. Cephalus disappeared from public view days later, and never leaked the data on any server that...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F25%2Fcolorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcolorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed&amp;amp;action_name=Colorado%20Health%20Network%20Notifies%20Patients%20of%20Last%20Year%26%238217%3Bs%20Breach%E2%80%94But%20Key%20Details%20Remain%20Undisclosed&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;#038;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 94,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&amp;pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed</description>
-      <guid isPermaLink="false">obsidian-lake:item:4704a168471c7525</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 25 Jun 2026 16:23:16 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Okanogan Behavioral Healthcare Settles Class Action Data Breach Lawsuit</title>

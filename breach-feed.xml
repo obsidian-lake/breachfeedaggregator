@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:30:17 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -206,34 +206,6 @@
       <pubDate>Fri, 26 Jun 2026 12:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] NZ pharmacy scrambles to scrub internet of patients’ private messages</title>
-      <link>https://databreaches.net/2026/06/28/nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages/?pk_campaign=feed&amp;pk_kwd=nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages</link>
-      <description>Mary Argue reports: A Wellington pharmacy at the centre of a data leak says sensitive patient information has now been scrubbed from the internet. Unichem Petone said it was contacting 29 patients affected by what it described as an error on the website that saw patients&amp;#8217; private messages to the pharmacy via its &amp;#8216;contact us&amp;#8217;...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F28%2Fnz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dnz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages&amp;amp;action_name=NZ%20pharmacy%20scrambles%20to%20scrub%20internet%20of%20patients%26%238217%3B%20private%20messages&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/28/nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages/?pk_campaign=feed&amp;#038;pk_kwd=nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/28/nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages/?pk_campaign=feed&amp;pk_kwd=nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages</description>
-      <guid isPermaLink="false">obsidian-lake:item:bb45d6ff933a41b3</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Sun, 28 Jun 2026 13:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] AssuranceAmerica breach may have affected more than 1.1 million people in seven states</title>
-      <link>https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&amp;pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states</link>
-      <description>Krys Shahin and Christopher Buchanan report: State officials are warning at least 1.1 million people across seven states may be impacted by an AssuranceAmerica data breach. Notices about the breach were sent to California, Massachusetts, Nebraska, South Carolina, Texas, Vermont, and Washington residents Friday. AssuranceAmerica Managing General Agency, LLC, said they detected &amp;#8220;suspicious activity&amp;#8221; on...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F28%2Fassuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dassuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states&amp;amp;action_name=AssuranceAmerica%20breach%20may%20have%20affected%20more%20than%201.1%20million%20people%20in%20seven%20states&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&amp;#038;pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&amp;pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states</description>
-      <guid isPermaLink="false">obsidian-lake:item:3d2b9221eb72522b</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Sun, 28 Jun 2026 13:52:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] South Florida Injury Centers; Chickasaw Nation Department of Health Report Data Breaches</title>
       <link>https://www.hipaajournal.com/south-florida-injury-centers-chackasaw-bation-doh-data-breach/</link>
       <description>&lt;p&gt;A hacking incident has been reported by South Florida Injury Centers, and Chickasaw Nation Department of Health has discovered that [&amp;#8230;]&lt;/p&gt;
@@ -314,6 +286,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 30 Jun 2026 10:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SURVEILLANCE] Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History</title>
+      <link>https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/</link>
+      <description>&lt;p&gt;The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/"&gt;Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users&amp;#8217; Location History&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: surveillance // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/</description>
+      <guid isPermaLink="false">obsidian-lake:item:05c8c70207dacf3b</guid>
+      <category>surveillance</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>securityweek</category>
+      <pubDate>Tue, 30 Jun 2026 11:48:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

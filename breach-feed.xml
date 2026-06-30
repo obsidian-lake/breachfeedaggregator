@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 21:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:36:25 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Healthcare Report Highlights Growing Vendor Risk and Lack of Cyberattack Readiness</title>
-      <link>https://www.hipaajournal.com/2026-healthcare-landscape-report-vendor-risk-cyberattack-readiness/</link>
-      <description>&lt;p&gt;Cybersecurity risk is growing, and healthcare organizations are struggling to defend a rapidly increasing attack surface. AI tools are being [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/2026-healthcare-landscape-report-vendor-risk-cyberattack-readiness/"&gt;Healthcare Report Highlights Growing Vendor Risk and Lack of Cyberattack Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/2026-healthcare-landscape-report-vendor-risk-cyberattack-readiness/</description>
-      <guid isPermaLink="false">obsidian-lake:item:325014d083e49c49</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 25 Jun 2026 09:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Bradford Health Services; Bradford Health Partners Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/bradford-health-services-partners-data-breach-settlement/</link>
-      <description>&lt;p&gt;Bradford Health Services, LLC, and Bradford Health Partners, LLC, were sued over a December 2023 cybersecurity incident that exposed the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/bradford-health-services-partners-data-breach-settlement/"&gt;Bradford Health Services; Bradford Health Partners Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/bradford-health-services-partners-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:74a5cbab4e5ac39d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 25 Jun 2026 10:00:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Okanogan Behavioral Healthcare Settles Class Action Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/okanogan-behavioral-healthcare-settles-data-breach-settlement/</link>
       <description>&lt;p&gt;Okanogan Behavioral Healthcare, a provider of holistic behavioral health services in Okanogan County, Washington, has agreed to settle a class [&amp;#8230;]&lt;/p&gt;
@@ -301,6 +273,47 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Mon, 29 Jun 2026 18:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Washington Dept. Health &amp; Social Services Insider Breach Affects 8,600 Individuals</title>
+      <link>https://www.hipaajournal.com/washington-dept-health-social-services-insider-breach-2026/</link>
+      <description>&lt;p&gt;The Washington Department of Social and Health Services (DSHS) has identified an insider data breach involving unauthorized access to the protected [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/washington-dept-health-social-services-insider-breach-2026/"&gt;Washington Dept. Health &amp;#038; Social Services Insider Breach Affects 8,600 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Insider // Records (est.): 8,600 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/washington-dept-health-social-services-insider-breach-2026/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7ed134561d14bb0b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 30 Jun 2026 08:39:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA: Windows BlueHammer flaw now exploited by ransomware gangs</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/</link>
+      <description>CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ed314e8ae03aa2e9</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 30 Jun 2026 08:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Data Breaches Reported by Amicus Solutions: Huntsville Hospital Health System</title>
+      <link>https://www.hipaajournal.com/data-breaches-amicus-solutions-huntsville-hospital-health-system/</link>
+      <description>&lt;p&gt;Amicus Solutions (Fedora Solutions) has been affected by a cybersecurity incident, and Huntsville Hospital has confirmed it was affected by [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-amicus-solutions-huntsville-hospital-health-system/"&gt;Data Breaches Reported by Amicus Solutions: Huntsville Hospital Health System&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-amicus-solutions-huntsville-hospital-health-system/</description>
+      <guid isPermaLink="false">obsidian-lake:item:463fb1acddc6215a</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 30 Jun 2026 10:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:25:15 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -273,6 +273,19 @@
       <category>gov</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 01 Jul 2026 17:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Teen suspect in Scattered Spider hacks is extradited to US</title>
+      <link>https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us</link>
+      <description>A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a "luxury-jewelry retailer" in 2025.
+
+// Category: breach // Severity: info // Sector: other // Actor: Scattered Spider // Vector: Under investigation // Records (est.): 2,025 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us</description>
+      <guid isPermaLink="false">obsidian-lake:item:265338b962546c90</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 01 Jul 2026 20:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:58:58 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -206,20 +206,6 @@
       <pubDate>Mon, 29 Jun 2026 17:56:32 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Data Breaches Reported by Amicus Solutions: Huntsville Hospital Health System</title>
-      <link>https://www.hipaajournal.com/data-breaches-amicus-solutions-huntsville-hospital-health-system/</link>
-      <description>&lt;p&gt;Amicus Solutions (Fedora Solutions) has been affected by a cybersecurity incident, and Huntsville Hospital has confirmed it was affected by [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-amicus-solutions-huntsville-hospital-health-system/"&gt;Data Breaches Reported by Amicus Solutions: Huntsville Hospital Health System&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-amicus-solutions-huntsville-hospital-health-system/</description>
-      <guid isPermaLink="false">obsidian-lake:item:463fb1acddc6215a</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 30 Jun 2026 10:00:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Medtronic Starts Notifying Individuals Affected by April 2026 Cyberattack</title>
       <link>https://www.hipaajournal.com/medical-device-maker-medtronic-data-breach/</link>
       <description>&lt;p&gt;Medtronic has started issuing notifications to individuals affected by an April 2026 cyberattack. The ShinyHunters threat group claimed responsibility for [&amp;#8230;]&lt;/p&gt;
@@ -261,6 +247,19 @@
       <pubDate>Wed, 01 Jul 2026 17:32:22 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · INFO] Teen suspect in Scattered Spider hacks is extradited to US</title>
+      <link>https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us</link>
+      <description>A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a "luxury-jewelry retailer" in 2025.
+
+// Category: breach // Severity: info // Sector: other // Actor: Scattered Spider // Vector: Under investigation // Records (est.): 2,025 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us</description>
+      <guid isPermaLink="false">obsidian-lake:item:265338b962546c90</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 01 Jul 2026 20:13:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · HIGH] Serviceaide Pays $1.8 Million to Settle Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/serviceaide-data-breach-settlement/</link>
       <description>&lt;p&gt;Serviceaide, Inc., a provider of AI-powered solutions to boost productivity and enhance service delivery, has agreed to pay $1.8 million [&amp;#8230;]&lt;/p&gt;
@@ -273,6 +272,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 02 Jul 2026 10:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Greater Rochester Independent Practice Association Settles MOVEit Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/greater-rochester-independent-practice-association-moveit-data-breach-settlement/</link>
+      <description>&lt;p&gt;A settlement has been agreed to resolve claims against Greater Rochester Independent Practice Association (GRIPA) arising from the May 2023 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/greater-rochester-independent-practice-association-moveit-data-breach-settlement/"&gt;Greater Rochester Independent Practice Association Settles MOVEit Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/greater-rochester-independent-practice-association-moveit-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:add84f41cf9c7283</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 02 Jul 2026 10:45:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

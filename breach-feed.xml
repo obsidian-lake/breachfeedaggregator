@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 19:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 21:07:37 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -190,20 +190,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] MOVEit Breach Defendants Lose 2nd Bid to Toss Negligence Claims</title>
-      <link>https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&amp;pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims</link>
-      <description>Christopher Brown reports: Bellwether defendants in multi-district litigation over a massive data breach of Progress Software’s MOVEit file-transfer application failed to convince a federal court to toss negligence claims against them under the laws of California, Indiana, Michigan, and Ohio. The defendants—Progress and several of its customers—argued that the claims were barred under the economic-loss...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F29%2Fmoveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dmoveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims&amp;amp;action_name=MOVEit%20Breach%20Defendants%20Lose%202nd%20Bid%20to%20Toss%20Negligence%20Claims&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&amp;#038;pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&amp;pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims</description>
-      <guid isPermaLink="false">obsidian-lake:item:6602130584bee576</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>tech</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 29 Jun 2026 17:56:32 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Verizon Releases Inaugural Breach Impact Study</title>

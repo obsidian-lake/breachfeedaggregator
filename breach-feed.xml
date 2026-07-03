@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 08:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:32:33 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -206,20 +206,6 @@
       <pubDate>Mon, 29 Jun 2026 17:56:32 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Medtronic Starts Notifying Individuals Affected by April 2026 Cyberattack</title>
-      <link>https://www.hipaajournal.com/medical-device-maker-medtronic-data-breach/</link>
-      <description>&lt;p&gt;Medtronic has started issuing notifications to individuals affected by an April 2026 cyberattack. The ShinyHunters threat group claimed responsibility for [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/medical-device-maker-medtronic-data-breach/"&gt;Medtronic Starts Notifying Individuals Affected by April 2026 Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/medical-device-maker-medtronic-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:92d2bac62d12a038</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 01 Jul 2026 12:00:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Verizon Releases Inaugural Breach Impact Study</title>
       <link>https://www.hipaajournal.com/verizon-2026-breach-impact-study/</link>
       <description>&lt;p&gt;Verizon Business has released the findings from its inaugural Breach Impact Study, which focuses on the financial impact of data [&amp;#8230;]&lt;/p&gt;
@@ -286,6 +272,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 02 Jul 2026 10:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Employees Drop Class Action Lawsuit Against Stryker Over Hamdala Cyberattack</title>
+      <link>https://www.hipaajournal.com/employees-drop-class-action-lawsuit-against-stryker-cyberattack/</link>
+      <description>&lt;p&gt;A consolidated class action lawsuit against the medtech company Stryker over a March 2026 cyberattack has been voluntarily dismissed by [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/employees-drop-class-action-lawsuit-against-stryker-cyberattack/"&gt;Employees Drop Class Action Lawsuit Against Stryker Over Hamdala Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/employees-drop-class-action-lawsuit-against-stryker-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6e7ba38ff1503a97</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 03 Jul 2026 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] AdaptHealth Reports Material Cybersecurity Incident and Theft of Patient Data</title>
+      <link>https://www.hipaajournal.com/adapthealth-data-breach/</link>
+      <description>&lt;p&gt;AdaptHealth, a publicly traded healthcare company that provides home medical equipment, diabetes supplies, and sleep therapy products, has informed the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/adapthealth-data-breach/"&gt;AdaptHealth Reports Material Cybersecurity Incident and Theft of Patient Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/adapthealth-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:207c2eacc0b903ca</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 03 Jul 2026 11:07:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

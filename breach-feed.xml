@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 04:11:25 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -204,6 +204,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 01 Jul 2026 15:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Teen suspect in Scattered Spider hacks is extradited to US</title>
+      <link>https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us</link>
+      <description>A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a "luxury-jewelry retailer" in 2025.
+
+// Category: breach // Severity: info // Sector: other // Actor: Scattered Spider // Vector: Under investigation // Records (est.): 2,025 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us</description>
+      <guid isPermaLink="false">obsidian-lake:item:265338b962546c90</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 01 Jul 2026 20:13:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · HIGH] Serviceaide Pays $1.8 Million to Settle Data Breach Litigation</title>

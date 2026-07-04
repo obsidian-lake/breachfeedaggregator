@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 12:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:37:41 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -273,6 +273,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 03 Jul 2026 11:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data</title>
+      <link>https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&amp;pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data</link>
+      <description>Connor Jones reports: AdaptHealth says attackers used social engineering to breach its systems and steal sensitive patient data, including passwords associated with insurance billing. The medical equipment company disclosed the attack to the Securities and Exchange Commission (SEC) on Thursday, noting that attackers accessed internal patient management systems, document storage platforms, and external electronic health record system...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F04%2Fadapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dadapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data&amp;amp;action_name=AdaptHealth%20says%20attackers%20sweet-talked%20their%20way%20into%20cloud%20systems%20and%20stole%20patient%20data&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&amp;#038;pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&amp;pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data</description>
+      <guid isPermaLink="false">obsidian-lake:item:96cf41fc4c56b665</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 04 Jul 2026 12:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

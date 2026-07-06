@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 09:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:56:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -287,6 +287,20 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 04 Jul 2026 12:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Almost 30,000 Texas Residents Affected by Data Breach at The Texas Hearing Institute</title>
+      <link>https://www.hipaajournal.com/data-breach-round-up-july-6-2026/</link>
+      <description>&lt;p&gt;The Texas Hearing Institute has notified the Texas Attorney General about a data breach impacting more than 29, 000 state [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-round-up-july-6-2026/"&gt;Almost 30,000 Texas Residents Affected by Data Breach at The Texas Hearing Institute&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 30,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-round-up-july-6-2026/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4cb8b2a933dab2ef</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 06 Jul 2026 10:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

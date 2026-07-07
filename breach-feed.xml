@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 15:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:33:29 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -302,6 +302,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 07 Jul 2026 13:52:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] County Government Reportedly Paid $1 Million to Cyber Extortion Group</title>
+      <link>https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/</link>
+      <description>&lt;p&gt;The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/"&gt;County Government Reportedly Paid $1 Million to Cyber Extortion Group&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,000,000 // $ (est.): $1,000,000 // Source: securityweek // Original: https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3ff981e895dbb108</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>gov</category>
+      <category>securityweek</category>
+      <pubDate>Tue, 07 Jul 2026 17:31:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

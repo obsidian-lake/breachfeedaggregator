@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:27:32 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Verizon Releases Inaugural Breach Impact Study</title>
-      <link>https://www.hipaajournal.com/verizon-2026-breach-impact-study/</link>
-      <description>&lt;p&gt;Verizon Business has released the findings from its inaugural Breach Impact Study, which focuses on the financial impact of data [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/verizon-2026-breach-impact-study/"&gt;Verizon Releases Inaugural Breach Impact Study&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/verizon-2026-breach-impact-study/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0de0a2c54714dbb2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 01 Jul 2026 15:51:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Serviceaide Pays $1.8 Million to Settle Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/serviceaide-data-breach-settlement/</link>
-      <description>&lt;p&gt;Serviceaide, Inc., a provider of AI-powered solutions to boost productivity and enhance service delivery, has agreed to pay $1.8 million [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/serviceaide-data-breach-settlement/"&gt;Serviceaide Pays $1.8 Million to Settle Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,800,000 // $ (est.): $1,800,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/serviceaide-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:277d1916a2267633</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 02 Jul 2026 10:37:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Greater Rochester Independent Practice Association Settles MOVEit Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/greater-rochester-independent-practice-association-moveit-data-breach-settlement/</link>
-      <description>&lt;p&gt;A settlement has been agreed to resolve claims against Greater Rochester Independent Practice Association (GRIPA) arising from the May 2023 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/greater-rochester-independent-practice-association-moveit-data-breach-settlement/"&gt;Greater Rochester Independent Practice Association Settles MOVEit Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/greater-rochester-independent-practice-association-moveit-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:add84f41cf9c7283</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 02 Jul 2026 10:45:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Employees Drop Class Action Lawsuit Against Stryker Over Hamdala Cyberattack</title>
       <link>https://www.hipaajournal.com/employees-drop-class-action-lawsuit-against-stryker-cyberattack/</link>
       <description>&lt;p&gt;A consolidated class action lawsuit against the medtech company Stryker over a March 2026 cyberattack has been voluntarily dismissed by [&amp;#8230;]&lt;/p&gt;
@@ -302,6 +260,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 06 Jul 2026 13:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] North Los Angeles County Regional Center Notifies Individuals About November 2024 Ransomware Attack</title>
+      <link>https://www.hipaajournal.com/north-los-angeles-county-regional-center-ransomware-attack/</link>
+      <description>&lt;p&gt;North Los Angeles County Regional Center has started mailing notification letters to individuals affected by a November 2024 ransomware attack, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/north-los-angeles-county-regional-center-ransomware-attack/"&gt;North Los Angeles County Regional Center Notifies Individuals About November 2024 Ransomware Attack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/north-los-angeles-county-regional-center-ransomware-attack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:228d4ec7cbdff73f</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 07 Jul 2026 10:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

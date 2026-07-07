@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 12:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:27:15 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -274,6 +274,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 07 Jul 2026 10:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Jacksonville, Texas, keeps some city systems offline after cyber incident</title>
+      <link>https://databreaches.net/2026/07/07/jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident/?pk_campaign=feed&amp;pk_kwd=jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident</link>
+      <description>DysruptionHub reports: Jacksonville, Texas, took some city systems offline after detecting suspicious network activity Friday, leaving some online services unavailable Monday as officials investigated a cybersecurity incident. The city said it detected the activity July 3 and later determined it was related to a cybersecurity incident. Officials took affected systems offline, disabled some systems as...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F07%2Fjacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Djacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident&amp;amp;action_name=Jacksonville%2C%20Texas%2C%20keeps%20some%20city%20systems%20offline%20after%20cyber%20incident&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/07/jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident/?pk_campaign=feed&amp;#038;pk_kwd=jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/07/jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident/?pk_campaign=feed&amp;pk_kwd=jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident</description>
+      <guid isPermaLink="false">obsidian-lake:item:2400717a27200717</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 07 Jul 2026 12:46:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Calibrated Healthcare Settles Class Action Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/calibrated-healthcare-data-breach-settlement/</link>
+      <description>&lt;p&gt;Calibrated Healthcare Systems, LLC, and Calibrated Healthcare, LLC, have agreed to settle a class action lawsuit stemming from a February [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/calibrated-healthcare-data-breach-settlement/"&gt;Calibrated Healthcare Settles Class Action Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/calibrated-healthcare-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:28beab27d60787c4</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 07 Jul 2026 13:52:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

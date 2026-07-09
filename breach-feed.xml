@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:27:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] AI Agent Conducts First Fully Autonomous Ransomware Attack</title>
-      <link>https://www.hipaajournal.com/ai-agent-conducts-first-fully-autonomous-ransomware-attack/</link>
-      <description>&lt;p&gt;Researchers have identified what they believe to be the first agentic ransomware attack. An autonomous large language model (LLM) agent [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ai-agent-conducts-first-fully-autonomous-ransomware-attack/"&gt;AI Agent Conducts First Fully Autonomous Ransomware Attack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Researchers (whitehat) // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ai-agent-conducts-first-fully-autonomous-ransomware-attack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c0523890abc7154c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 06 Jul 2026 13:47:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] North Los Angeles County Regional Center Notifies Individuals About November 2024 Ransomware Attack</title>
       <link>https://www.hipaajournal.com/north-los-angeles-county-regional-center-ransomware-attack/</link>
       <description>&lt;p&gt;North Los Angeles County Regional Center has started mailing notification letters to individuals affected by a November 2024 ransomware attack, [&amp;#8230;]&lt;/p&gt;
@@ -302,6 +288,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 09 Jul 2026 11:02:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Accenture Confirms Intrusion After Hacker Claims 35GB Data Breach</title>
+      <link>https://www.hipaajournal.com/accenture-intrusion-july-2026/</link>
+      <description>&lt;p&gt;Accenture, one of the world’s largest consulting firms, has confirmed it has experienced a security breach, shortly after a hacker [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/accenture-intrusion-july-2026/"&gt;Accenture Confirms Intrusion After Hacker Claims 35GB Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/accenture-intrusion-july-2026/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1e07a2509240f759</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 09 Jul 2026 15:09:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 18:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:19:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,19 +140,6 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
-      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
-      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
-
-// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>tech</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -164,32 +151,6 @@
       <category>other</category>
       <category>upguard</category>
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
-      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
-      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
-      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
-      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] North Los Angeles County Regional Center Notifies Individuals About November 2024 Ransomware Attack</title>

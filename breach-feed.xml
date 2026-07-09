@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:50:21 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data</title>
-      <link>https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&amp;pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data</link>
-      <description>Connor Jones reports: AdaptHealth says attackers used social engineering to breach its systems and steal sensitive patient data, including passwords associated with insurance billing. The medical equipment company disclosed the attack to the Securities and Exchange Commission (SEC) on Thursday, noting that attackers accessed internal patient management systems, document storage platforms, and external electronic health record system...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F04%2Fadapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dadapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data&amp;amp;action_name=AdaptHealth%20says%20attackers%20sweet-talked%20their%20way%20into%20cloud%20systems%20and%20stole%20patient%20data&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&amp;#038;pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&amp;pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data</description>
-      <guid isPermaLink="false">obsidian-lake:item:96cf41fc4c56b665</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 04 Jul 2026 12:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Almost 30,000 Texas Residents Affected by Data Breach at The Texas Hearing Institute</title>
-      <link>https://www.hipaajournal.com/data-breach-round-up-july-6-2026/</link>
-      <description>&lt;p&gt;The Texas Hearing Institute has notified the Texas Attorney General about a data breach impacting more than 29, 000 state [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-round-up-july-6-2026/"&gt;Almost 30,000 Texas Residents Affected by Data Breach at The Texas Hearing Institute&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 30,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-round-up-july-6-2026/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4cb8b2a933dab2ef</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 06 Jul 2026 10:00:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] AI Agent Conducts First Fully Autonomous Ransomware Attack</title>
       <link>https://www.hipaajournal.com/ai-agent-conducts-first-fully-autonomous-ransomware-attack/</link>
       <description>&lt;p&gt;Researchers have identified what they believe to be the first agentic ransomware attack. An autonomous large language model (LLM) agent [&amp;#8230;]&lt;/p&gt;
@@ -316,6 +288,20 @@
       <category>finance</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 09 Jul 2026 01:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Drug and Alcohol Treatment Services Settles Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/drug-and-alcohol-treatment-services-class-action-data-breach-litigation/</link>
+      <description>&lt;p&gt;Drug and Alcohol Treatment Services, Inc., a Scranton, Pennsylvania-based provider of drug and alcohol addiction services, has agreed to settle [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/drug-and-alcohol-treatment-services-class-action-data-breach-litigation/"&gt;Drug and Alcohol Treatment Services Settles Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/drug-and-alcohol-treatment-services-class-action-data-breach-litigation/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f2fcd2a99bd75da6</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 09 Jul 2026 11:02:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

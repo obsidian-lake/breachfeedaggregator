@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 15:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:18:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -343,6 +343,32 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SURVEILLANCE] License plate cameras may be next target after Supreme Court reins in location tracking</title>
+      <link>https://therecord.media/license-plate-cameras-may-be-next-target-after-supreme-court-reins-in-location-tracking</link>
+      <description>If a warrant is ultimately needed for ALPR searches, experts say, it would radically limit how the networks of cameras can be used and would change modern policing.
+
+// Category: surveillance // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/license-plate-cameras-may-be-next-target-after-supreme-court-reins-in-location-tracking</description>
+      <guid isPermaLink="false">obsidian-lake:item:3b30652011fa3503</guid>
+      <category>surveillance</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Fri, 10 Jul 2026 16:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ryuk operator pleads guilty; Blackcat/AlphV conspirator gets nearly 6-year sentence</title>
+      <link>https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced</link>
+      <description>One man accused of deploying Ryuk ransomware pleaded guilty Wednesday in an Oregon federal court to conspiracy and computer fraud, while another man received a 70-month federal prison sentence in a Florida court for helping the Blackcat/AlphV gang extort multiple victims.
+
+// Category: breach // Severity: info // Sector: other // Actor: Blackcat // Vector: Ransomware // Records (est.): 70 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced</description>
+      <guid isPermaLink="false">obsidian-lake:item:6d0a765905993f33</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Fri, 10 Jul 2026 17:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

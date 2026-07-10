@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 17:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:00:53 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -369,6 +369,19 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Fri, 10 Jul 2026 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ryuk ransomware member pleads guilty in the US, faces 15 years in prison</title>
+      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/</link>
+      <description>A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 34 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d52e0e6da47f0f79</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 10 Jul 2026 17:46:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

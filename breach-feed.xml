@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 13:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 14:34:46 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,19 +140,6 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
-      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
-      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
-
-// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>tech</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -164,46 +151,6 @@
       <category>other</category>
       <category>upguard</category>
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
-      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
-      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
-      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
-      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Jacksonville, Texas, keeps some city systems offline after cyber incident</title>
-      <link>https://databreaches.net/2026/07/07/jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident/?pk_campaign=feed&amp;pk_kwd=jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident</link>
-      <description>DysruptionHub reports: Jacksonville, Texas, took some city systems offline after detecting suspicious network activity Friday, leaving some online services unavailable Monday as officials investigated a cybersecurity incident. The city said it detected the activity July 3 and later determined it was related to a cybersecurity incident. Officials took affected systems offline, disabled some systems as...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F07%2Fjacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Djacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident&amp;amp;action_name=Jacksonville%2C%20Texas%2C%20keeps%20some%20city%20systems%20offline%20after%20cyber%20incident&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/07/jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident/?pk_campaign=feed&amp;#038;pk_kwd=jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/07/jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident/?pk_campaign=feed&amp;pk_kwd=jacksonville-texas-keeps-some-city-systems-offline-after-cyber-incident</description>
-      <guid isPermaLink="false">obsidian-lake:item:2400717a27200717</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 07 Jul 2026 12:46:37 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Calibrated Healthcare Settles Class Action Data Breach Lawsuit</title>
@@ -382,6 +329,34 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 10 Jul 2026 17:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] TikTok class action alleges data breach affected 2.4B users</title>
+      <link>https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&amp;pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users</link>
+      <description>Brandon Richards reports: California resident Sean Mortazi filed a class action lawsuit against TikTok Inc. on June 11, 2026, alleging a data breach exposed the personal data of more than 2.4 billion users worldwide. The complaint, filed in the U.S. District Court for the Central District of California, claims TikTok stored unencrypted data and skipped basic...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F11%2Ftiktok-class-action-alleges-data-breach-affected-2-4b-users%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dtiktok-class-action-alleges-data-breach-affected-2-4b-users&amp;amp;action_name=TikTok%20class%20action%20alleges%20data%20breach%20affected%202.4B%20users&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&amp;#038;pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 202,400,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&amp;pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users</description>
+      <guid isPermaLink="false">obsidian-lake:item:a510aabd84b1a4e7</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 11 Jul 2026 12:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Armenian National Extradited to the United States Pleads Guilty to Ransomware Extortion Conspiracy</title>
+      <link>https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy</link>
+      <description>PORTLAND, Ore.— An Armenian national extradited from Ukraine to the United States pleaded guilty yesterday for his role in Ryuk ransomware attacks and an extortion conspiracy targeting companies throughout the United States, including a technology company operating in Oregon. Karen Serobovich Vardanyan, 34, pleaded guilty to conspiracy and computer fraud. According to court documents, between...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F11%2Farmenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Darmenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy&amp;amp;action_name=Armenian%20National%20Extradited%20to%20the%20United%20States%20Pleads%20Guilty%20to%20Ransomware%20Extortion%20Conspiracy&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;#038;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy</description>
+      <guid isPermaLink="false">obsidian-lake:item:2ccfac36cf0a70c9</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 11 Jul 2026 13:06:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

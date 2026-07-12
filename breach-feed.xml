@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 14:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:02:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -204,20 +204,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 07 Jul 2026 13:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Washington Dept. of Social and Health Services announces massive data breach</title>
-      <link>https://databreaches.net/2026/07/07/washington-dept-of-social-and-health-services-announces-massive-data-breach/?pk_campaign=feed&amp;pk_kwd=washington-dept-of-social-and-health-services-announces-massive-data-breach</link>
-      <description>KIRO7 reports: The Washington Department of Social and Health Services (DSHS) is issuing a notice of a massive data breach that happened in March, potentially compromising the personal data of around 8,600 people. An internal investigation revealed that a former DSHS employee accessed the data without authorization. Some of the data the employee improperly potentially...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F07%2Fwashington-dept-of-social-and-health-services-announces-massive-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dwashington-dept-of-social-and-health-services-announces-massive-data-breach&amp;amp;action_name=Washington%20Dept.%20of%20Social%20and%20Health%20Services%20announces%20massive%20data%20breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/07/washington-dept-of-social-and-health-services-announces-massive-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=washington-dept-of-social-and-health-services-announces-massive-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/07/washington-dept-of-social-and-health-services-announces-massive-data-breach/?pk_campaign=feed&amp;pk_kwd=washington-dept-of-social-and-health-services-announces-massive-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:d6c314176315a44b</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 07 Jul 2026 22:17:55 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Data Security Incidents Announced by Park Dental Research Corp; Wabi Sabi Behavioral Health Center</title>

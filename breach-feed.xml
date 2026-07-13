@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:29:00 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,32 +262,6 @@
       <pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ryuk operator pleads guilty; Blackcat/AlphV conspirator gets nearly 6-year sentence</title>
-      <link>https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced</link>
-      <description>One man accused of deploying Ryuk ransomware pleaded guilty Wednesday in an Oregon federal court to conspiracy and computer fraud, while another man received a 70-month federal prison sentence in a Florida court for helping the Blackcat/AlphV gang extort multiple victims.
-
-// Category: breach // Severity: info // Sector: other // Actor: Blackcat // Vector: Ransomware // Records (est.): 70 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced</description>
-      <guid isPermaLink="false">obsidian-lake:item:6d0a765905993f33</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 10 Jul 2026 17:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ryuk ransomware member pleads guilty in the US, faces 15 years in prison</title>
-      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/</link>
-      <description>A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 34 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d52e0e6da47f0f79</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 10 Jul 2026 17:46:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] TikTok class action alleges data breach affected 2.4B users</title>
       <link>https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&amp;pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users</link>
       <description>Brandon Richards reports: California resident Sean Mortazi filed a class action lawsuit against TikTok Inc. on June 11, 2026, alleging a data breach exposed the personal data of more than 2.4 billion users worldwide. The complaint, filed in the U.S. District Court for the Central District of California, claims TikTok stored unencrypted data and skipped basic...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F11%2Ftiktok-class-action-alleges-data-breach-affected-2-4b-users%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dtiktok-class-action-alleges-data-breach-affected-2-4b-users&amp;amp;action_name=TikTok%20class%20action%20alleges%20data%20breach%20affected%202.4B%20users&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -356,19 +330,6 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 13 Jul 2026 11:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
-      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7112bb85f69498e7</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] NG: Zenith Bank, Others To Be Arraigned Over Alleged Data Breach</title>

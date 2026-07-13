@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 14:35:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,20 +262,6 @@
       <pubDate>Fri, 10 Jul 2026 11:33:26 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</title>
-      <link>https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/</link>
-      <description>&lt;p&gt;Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/"&gt;Third US Security Expert Sentenced to Prison for Helping Ransomware Gang&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: BlackCat // Vector: Ransomware // Records (est.): 70,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6af7d1de05ef1b26</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 10 Jul 2026 12:58:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</title>
       <link>https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/</link>
       <description>&lt;p&gt;Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.&lt;/p&gt;
@@ -383,6 +369,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 13 Jul 2026 11:05:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] A cyberattack in March resulted in ZEGO filing for insolvency</title>
+      <link>https://databreaches.net/2026/07/13/a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency/?pk_campaign=feed&amp;pk_kwd=a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency</link>
+      <description>A statement on ZEGO Textilveredelungszentrum GmbH&amp;#8217;s website explains why they are filing for insolvency: Insolvency proceedings have been initiated – and why we are still looking ahead Ladies and gentlemen,  dear business partners, Today we are contacting you with a message that is very difficult for us personally. ZEGO Textilveredelungszentrum GmbH has filed for insolvency....&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F13%2Fa-cyberattack-in-march-resulted-in-zego-filing-for-insolvency%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Da-cyberattack-in-march-resulted-in-zego-filing-for-insolvency&amp;amp;action_name=A%20cyberattack%20in%20March%20resulted%20in%20ZEGO%20filing%20for%20insolvency&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/13/a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency/?pk_campaign=feed&amp;#038;pk_kwd=a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/13/a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency/?pk_campaign=feed&amp;pk_kwd=a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency</description>
+      <guid isPermaLink="false">obsidian-lake:item:e2ea076e892fadd7</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 13 Jul 2026 11:49:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

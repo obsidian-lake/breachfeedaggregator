@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 17:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:55:23 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -206,20 +206,6 @@
       <pubDate>Wed, 08 Jul 2026 10:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Nayax investigating breach; The Syndicate claims it acquired 1 billion card records and other important data</title>
-      <link>https://databreaches.net/2026/07/08/nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data/?pk_campaign=feed&amp;pk_kwd=nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data</link>
-      <description>Nayax is a global fintech company headquartered in Israel that provides cashless payment and management solutions for unattended retail and self-service machines. The firm is publicly traded on both the Tel Aviv and Nasdaq stock exchanges. This month, Nayax submitted a Form 6-K to the Securities and Exchange Commission. The form contained an &amp;#8220;Explanatory Statement:&amp;#8221;...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F08%2Fnayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dnayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data&amp;amp;action_name=Nayax%20investigating%20breach%3B%20The%20Syndicate%20claims%20it%20acquired%201%20billion%20card%20records%20and%20other%20important%20data&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/08/nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data/?pk_campaign=feed&amp;#038;pk_kwd=nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/08/nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data/?pk_campaign=feed&amp;pk_kwd=nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data</description>
-      <guid isPermaLink="false">obsidian-lake:item:ab675e4f82b98efe</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>finance</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 09 Jul 2026 01:01:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Drug and Alcohol Treatment Services Settles Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/drug-and-alcohol-treatment-services-class-action-data-breach-litigation/</link>
       <description>&lt;p&gt;Drug and Alcohol Treatment Services, Inc., a Scranton, Pennsylvania-based provider of drug and alcohol addiction services, has agreed to settle [&amp;#8230;]&lt;/p&gt;
@@ -385,17 +371,18 @@
       <pubDate>Mon, 13 Jul 2026 11:49:23 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
-      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
+      <title>[BREACH · CRITICAL] NG: Zenith Bank, Others To Be Arraigned Over Alleged Data Breach</title>
+      <link>https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach</link>
+      <description>Fatima Abdullahi reports: The Federal High Court in Abuja has fixed July 21, 2026, for the arraignment of Zenith Bank Plc and three other defendants over allegations of illegally accessing and disclosing the confidential financial records of Makers Island Company Limited. The other defendants are Oluwaseyi Famousa, Paul Oku and Yesu-Felix Abosede Alice. Justice Hauwa...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F13%2Fng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach&amp;amp;action_name=NG%3A%20Zenith%20Bank%2C%20Others%20To%20Be%20Arraigned%20Over%20Alleged%20Data%20Breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7112bb85f69498e7</guid>
+// Category: breach // Severity: critical // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:a677dc96a6b1a242</guid>
       <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
+      <category>critical</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 13 Jul 2026 18:36:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

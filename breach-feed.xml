@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 18:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:16:08 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,19 +262,6 @@
       <pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>[SURVEILLANCE] License plate cameras may be next target after Supreme Court reins in location tracking</title>
-      <link>https://therecord.media/license-plate-cameras-may-be-next-target-after-supreme-court-reins-in-location-tracking</link>
-      <description>If a warrant is ultimately needed for ALPR searches, experts say, it would radically limit how the networks of cameras can be used and would change modern policing.
-
-// Category: surveillance // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/license-plate-cameras-may-be-next-target-after-supreme-court-reins-in-location-tracking</description>
-      <guid isPermaLink="false">obsidian-lake:item:3b30652011fa3503</guid>
-      <category>surveillance</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 10 Jul 2026 16:50:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Ryuk operator pleads guilty; Blackcat/AlphV conspirator gets nearly 6-year sentence</title>
       <link>https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced</link>
       <description>One man accused of deploying Ryuk ransomware pleaded guilty Wednesday in an Oregon federal court to conspiracy and computer fraud, while another man received a 70-month federal prison sentence in a Florida court for helping the Blackcat/AlphV gang extort multiple victims.
@@ -371,6 +358,19 @@
       <pubDate>Mon, 13 Jul 2026 11:49:23 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
+      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7112bb85f69498e7</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · CRITICAL] NG: Zenith Bank, Others To Be Arraigned Over Alleged Data Breach</title>
       <link>https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach</link>
       <description>Fatima Abdullahi reports: The Federal High Court in Abuja has fixed July 21, 2026, for the arraignment of Zenith Bank Plc and three other defendants over allegations of illegally accessing and disclosing the confidential financial records of Makers Island Company Limited. The other defendants are Oluwaseyi Famousa, Paul Oku and Yesu-Felix Abosede Alice. Justice Hauwa...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F13%2Fng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach&amp;amp;action_name=NG%3A%20Zenith%20Bank%2C%20Others%20To%20Be%20Arraigned%20Over%20Alleged%20Data%20Breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
@@ -383,6 +383,19 @@
       <category>finance</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 13 Jul 2026 18:36:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] VPN service favored by ransomware groups is sanctioned by US</title>
+      <link>https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups</link>
+      <description>The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware "cryptors."
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 1 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups</description>
+      <guid isPermaLink="false">obsidian-lake:item:37e6df0e952c31df</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Mon, 13 Jul 2026 18:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

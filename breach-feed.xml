@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 21:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:30:23 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -232,20 +232,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 10 Jul 2026 11:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Armenian National Extradited to the United States Pleads Guilty to Ransomware Extortion Conspiracy</title>
-      <link>https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy</link>
-      <description>PORTLAND, Ore.— An Armenian national extradited from Ukraine to the United States pleaded guilty yesterday for his role in Ryuk ransomware attacks and an extortion conspiracy targeting companies throughout the United States, including a technology company operating in Oregon. Karen Serobovich Vardanyan, 34, pleaded guilty to conspiracy and computer fraud. According to court documents, between...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F11%2Farmenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Darmenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy&amp;amp;action_name=Armenian%20National%20Extradited%20to%20the%20United%20States%20Pleads%20Guilty%20to%20Ransomware%20Extortion%20Conspiracy&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;#038;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy</description>
-      <guid isPermaLink="false">obsidian-lake:item:2ccfac36cf0a70c9</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 11 Jul 2026 13:06:42 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] California Gay &amp; Lesbian Services Center Data Breach Affects 75,500 Individuals</title>

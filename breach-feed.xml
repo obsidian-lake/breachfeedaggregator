@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:16:54 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Data Security Incidents Announced by Park Dental Research Corp; Wabi Sabi Behavioral Health Center</title>
-      <link>https://www.hipaajournal.com/data-breach-park-dental-research-wabi-sabi-behavioral-health-center/</link>
-      <description>&lt;p&gt;Employee data has been compromised in data security incidents at Park Dental Research Corporation in Oklahoma and Wabi Sabi Behavioral [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-park-dental-research-wabi-sabi-behavioral-health-center/"&gt;Data Security Incidents Announced by Park Dental Research Corp; Wabi Sabi Behavioral Health Center&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-park-dental-research-wabi-sabi-behavioral-health-center/</description>
-      <guid isPermaLink="false">obsidian-lake:item:90eac00b05b21dc8</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 08 Jul 2026 10:00:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Drug and Alcohol Treatment Services Settles Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/drug-and-alcohol-treatment-services-class-action-data-breach-litigation/</link>
       <description>&lt;p&gt;Drug and Alcohol Treatment Services, Inc., a Scranton, Pennsylvania-based provider of drug and alcohol addiction services, has agreed to settle [&amp;#8230;]&lt;/p&gt;
@@ -370,6 +356,33 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 13 Jul 2026 21:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] US sanctions VPN, malware providers for enabling ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/</link>
+      <description>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7a41883e7ad246b2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 14 Jul 2026 09:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Lucent Health Solutions to Pay Up to 1.95M to Settle Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/</link>
+      <description>&lt;p&gt;A settlement has been agreed to resolve a class action lawsuit against the Nashville, TN-based health plan administration service provider, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/"&gt;Lucent Health Solutions to Pay Up to 1.95M to Settle Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,950,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c642207bdb7f649c</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 14 Jul 2026 10:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

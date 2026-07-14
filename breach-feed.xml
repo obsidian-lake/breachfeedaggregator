@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 02:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:31:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -357,6 +357,19 @@
       <category>finance</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 13 Jul 2026 18:36:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] VPN service favored by ransomware groups is sanctioned by US</title>
+      <link>https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups</link>
+      <description>The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware "cryptors."
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 1 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups</description>
+      <guid isPermaLink="false">obsidian-lake:item:37e6df0e952c31df</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Mon, 13 Jul 2026 18:50:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] VPN service favored by ransomware groups is sanctioned by US</title>

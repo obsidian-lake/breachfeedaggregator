@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 05:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:11:16 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -356,6 +356,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 14 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] US charges alleged operators of Russian bulletproof hosting service</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/</link>
+      <description>U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]
+
+// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Ransomware // Records (est.): 62,000,000 // $ (est.): $62,000,000 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/</description>
+      <guid isPermaLink="false">obsidian-lake:item:228009902beaa09c</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>tech</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 15 Jul 2026 07:45:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:20:09 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -317,19 +317,6 @@
       <pubDate>Mon, 13 Jul 2026 21:15:31 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] US sanctions VPN, malware providers for enabling ransomware attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/</link>
-      <description>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7a41883e7ad246b2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 14 Jul 2026 09:40:13 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] Lucent Health Solutions to Pay Up to 1.95M to Settle Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/</link>
       <description>&lt;p&gt;A settlement has been agreed to resolve a class action lawsuit against the Nashville, TN-based health plan administration service provider, [&amp;#8230;]&lt;/p&gt;
@@ -369,6 +356,33 @@
       <category>tech</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 15 Jul 2026 07:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA warns admins to patch actively exploited SharePoint flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/</description>
+      <guid isPermaLink="false">obsidian-lake:item:51db287e860725a5</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 15 Jul 2026 09:44:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Physicians Primary Care of Southwest Florida Agrees to Data Breach Settlement</title>
+      <link>https://www.hipaajournal.com/physicians-primary-care-southwest-florida-data-breach-settlement/</link>
+      <description>&lt;p&gt;Physicians Primary Care of Southwest Florida was the victim of a targeted cyberattack in September 2024 that exposed patient data. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/physicians-primary-care-southwest-florida-data-breach-settlement/"&gt;Physicians Primary Care of Southwest Florida Agrees to Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/physicians-primary-care-southwest-florida-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d015f0184eab20e0</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 15 Jul 2026 10:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

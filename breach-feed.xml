@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:01:42 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -248,20 +248,6 @@
       <pubDate>Mon, 13 Jul 2026 11:05:35 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] A cyberattack in March resulted in ZEGO filing for insolvency</title>
-      <link>https://databreaches.net/2026/07/13/a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency/?pk_campaign=feed&amp;pk_kwd=a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency</link>
-      <description>A statement on ZEGO Textilveredelungszentrum GmbH&amp;#8217;s website explains why they are filing for insolvency: Insolvency proceedings have been initiated – and why we are still looking ahead Ladies and gentlemen,  dear business partners, Today we are contacting you with a message that is very difficult for us personally. ZEGO Textilveredelungszentrum GmbH has filed for insolvency....&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F13%2Fa-cyberattack-in-march-resulted-in-zego-filing-for-insolvency%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Da-cyberattack-in-march-resulted-in-zego-filing-for-insolvency&amp;amp;action_name=A%20cyberattack%20in%20March%20resulted%20in%20ZEGO%20filing%20for%20insolvency&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/13/a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency/?pk_campaign=feed&amp;#038;pk_kwd=a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/13/a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency/?pk_campaign=feed&amp;pk_kwd=a-cyberattack-in-march-resulted-in-zego-filing-for-insolvency</description>
-      <guid isPermaLink="false">obsidian-lake:item:e2ea076e892fadd7</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 13 Jul 2026 11:49:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
       <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
@@ -369,6 +355,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 15 Jul 2026 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SURVEILLANCE] LAPD sidelines relationship with license-plate reader company Flock Safety</title>
+      <link>https://therecord.media/lapd-halts-flock-safety-alpr-contract</link>
+      <description>The Los Angeles Police Department is the latest U.S. municipal agency to rethink its relationship to ALPR company Flock Safety.
+
+// Category: surveillance // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/lapd-halts-flock-safety-alpr-contract</description>
+      <guid isPermaLink="false">obsidian-lake:item:c36be534c1150b48</guid>
+      <category>surveillance</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>therecord</category>
+      <pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

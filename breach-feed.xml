@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:47:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -259,20 +259,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] NG: Zenith Bank, Others To Be Arraigned Over Alleged Data Breach</title>
-      <link>https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach</link>
-      <description>Fatima Abdullahi reports: The Federal High Court in Abuja has fixed July 21, 2026, for the arraignment of Zenith Bank Plc and three other defendants over allegations of illegally accessing and disclosing the confidential financial records of Makers Island Company Limited. The other defendants are Oluwaseyi Famousa, Paul Oku and Yesu-Felix Abosede Alice. Justice Hauwa...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F13%2Fng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach&amp;amp;action_name=NG%3A%20Zenith%20Bank%2C%20Others%20To%20Be%20Arraigned%20Over%20Alleged%20Data%20Breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&amp;pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:a677dc96a6b1a242</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>finance</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 13 Jul 2026 18:36:19 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] VPN service favored by ransomware groups is sanctioned by US</title>

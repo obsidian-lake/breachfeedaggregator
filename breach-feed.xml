@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 20:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:32:25 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -261,19 +261,6 @@
       <pubDate>Tue, 14 Jul 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] CISA warns admins to patch actively exploited SharePoint flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/</description>
-      <guid isPermaLink="false">obsidian-lake:item:51db287e860725a5</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 15 Jul 2026 09:44:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Physicians Primary Care of Southwest Florida Agrees to Data Breach Settlement</title>
       <link>https://www.hipaajournal.com/physicians-primary-care-southwest-florida-data-breach-settlement/</link>
       <description>&lt;p&gt;Physicians Primary Care of Southwest Florida was the victim of a targeted cyberattack in September 2024 that exposed patient data. [&amp;#8230;]&lt;/p&gt;
@@ -302,19 +289,6 @@
       <pubDate>Wed, 15 Jul 2026 18:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies</title>
-      <link>https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc</link>
-      <description>Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.
-
-// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc</description>
-      <guid isPermaLink="false">obsidian-lake:item:22b68765e24cad05</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>retail</category>
-      <category>therecord</category>
-      <pubDate>Wed, 15 Jul 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Vision Care Providers Settle Data Breach Class Actions</title>
       <link>https://www.hipaajournal.com/vision-care-providers-data-breach-settlements/</link>
       <description>&lt;p&gt;Settlements have been agreed to resolve class action lawsuits against two vision care providers: Total Vision in California and Naper [&amp;#8230;]&lt;/p&gt;
@@ -327,6 +301,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 16 Jul 2026 10:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Coca-Cola says Fairlife ransomware attack halts US dairy production</title>
+      <link>https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/</link>
+      <description>The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ef1e407414236b9e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Thu, 16 Jul 2026 21:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

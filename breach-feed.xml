@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:47:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] California Gay &amp; Lesbian Services Center Data Breach Affects 75,500 Individuals</title>
-      <link>https://www.hipaajournal.com/california-gay-lesbian-services-center-data-breach/</link>
-      <description>&lt;p&gt;Gay &amp;#38; Lesbian Community Services Center of Orange County, California, a provider of mental health, HIV testing, education and outreach, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/california-gay-lesbian-services-center-data-breach/"&gt;California Gay &amp;#038; Lesbian Services Center Data Breach Affects 75,500 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 75,500 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-gay-lesbian-services-center-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8c77bcd41c3479d1</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 13 Jul 2026 11:00:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Marlboro-Chesterfield Pathology Agrees to Settle Lawsuit Over 2025 Ransomware Attack</title>
       <link>https://www.hipaajournal.com/marlboro-chesterfield-pathology-data-breach-settlement/</link>
       <description>&lt;p&gt;A settlement has been agreed to resolve a class action lawsuit against the Pinehurst, North Carolina-based molecular, cytology, and pathology [&amp;#8230;]&lt;/p&gt;
@@ -318,7 +304,7 @@
     <item>
       <title>[BREACH · INFO] Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack</title>
       <link>https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/</link>
-      <description>&lt;p&gt;The company says the incident has not affected product quality and safety, nor Fairlife’s Canada production.&lt;/p&gt;
+      <description>&lt;p&gt;The company has yet to determine the full scope, nature, and impact of the incident.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"&gt;Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
 
 // Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/</description>
@@ -328,6 +314,20 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Fri, 17 Jul 2026 06:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Atrium Health Pays Up to $1.8M to Resolve Pixel Lawsuit</title>
+      <link>https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/</link>
+      <description>&lt;p&gt;Charlotte-Mecklenburg Hospital Authority, doing business as Atrium Health, has agreed to pay up to $1,800,000 to settle a class action [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/"&gt;Atrium Health Pays Up to $1.8M to Resolve Pixel Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,800,000 // $ (est.): $1,800,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:773cfdbfb6825e59</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 17 Jul 2026 10:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

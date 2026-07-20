@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:55:54 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] May 2026 Healthcare Data Breach Report</title>
-      <link>https://www.hipaajournal.com/may-2026-healthcare-data-breach-report/</link>
-      <description>&lt;p&gt;Based on the current data on the HHS’ Office for Civil Rights (OCR) breach portal, 61 healthcare data breaches affecting [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/may-2026-healthcare-data-breach-report/"&gt;May 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/may-2026-healthcare-data-breach-report/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f44439d475912fa0</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 14 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Physicians Primary Care of Southwest Florida Agrees to Data Breach Settlement</title>
       <link>https://www.hipaajournal.com/physicians-primary-care-southwest-florida-data-breach-settlement/</link>
       <description>&lt;p&gt;Physicians Primary Care of Southwest Florida was the victim of a targeted cyberattack in September 2024 that exposed patient data. [&amp;#8230;]&lt;/p&gt;
@@ -341,6 +327,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 20 Jul 2026 15:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Abbott Investigating Cyberattack Claims From Two Threat Actors</title>
+      <link>https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/</link>
+      <description>&lt;p&gt;The healthcare giant Abbott is investigating claims from two threat groups who allege cyberattacks and data theft, one involving legacy [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/"&gt;Abbott Investigating Cyberattack Claims From Two Threat Actors&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4d0e8750dfa2a8f2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 20 Jul 2026 15:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] 23andMe Pays $18 Million to Settle Multistate Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/</link>
+      <description>&lt;p&gt;A coalition of 42 state attorneys general has agreed to a $18 million settlement with 23andMe (now Chrome Holding Co.) [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/"&gt;23andMe Pays $18 Million to Settle Multistate Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 18,000,000 // $ (est.): $18,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e19c80a8bb0c2f51</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 20 Jul 2026 15:21:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

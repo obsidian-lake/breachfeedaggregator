@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 18:53:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -273,19 +273,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 17 Jul 2026 11:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Dairy company Fairlife suspends production in US after cyber incident</title>
-      <link>https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident</link>
-      <description>Fairlife’s U.S. operation includes plants in Michigan, New York and Arizona, and the company's retail sales passed $1 billion in 2022.
-
-// Category: breach // Severity: critical // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,000,000,000 // $ (est.): $1,000,000,000 // Source: therecord // Original: https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident</description>
-      <guid isPermaLink="false">obsidian-lake:item:57738e5a1b5f55a9</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>retail</category>
-      <category>therecord</category>
-      <pubDate>Fri, 17 Jul 2026 13:40:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Software provider to more than 2,000 US hospitals says hackers stole employee and customer data</title>

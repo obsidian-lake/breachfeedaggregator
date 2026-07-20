@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:11:50 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Lucent Health Solutions to Pay Up to 1.95M to Settle Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/</link>
-      <description>&lt;p&gt;A settlement has been agreed to resolve a class action lawsuit against the Nashville, TN-based health plan administration service provider, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/"&gt;Lucent Health Solutions to Pay Up to 1.95M to Settle Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,950,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/lucent-health-solutions-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c642207bdb7f649c</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 14 Jul 2026 10:00:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] May 2026 Healthcare Data Breach Report</title>
       <link>https://www.hipaajournal.com/may-2026-healthcare-data-breach-report/</link>
       <description>&lt;p&gt;Based on the current data on the HHS’ Office for Civil Rights (OCR) breach portal, 61 healthcare data breaches affecting [&amp;#8230;]&lt;/p&gt;
@@ -316,20 +302,6 @@
       <pubDate>Fri, 17 Jul 2026 13:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</title>
-      <link>https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/</link>
-      <description>&lt;p&gt;Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/"&gt;In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/</description>
-      <guid isPermaLink="false">obsidian-lake:item:87103d96afcbf31b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 17 Jul 2026 14:27:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Software provider to more than 2,000 US hospitals says hackers stole employee and customer data</title>
       <link>https://therecord.media/software-provider-for-us-hospitals-customer-data-breach</link>
       <description>Craneware, which is headquartered in Edinburgh and listed on London's AIM market, told investors it detected unauthorized access to a “subset” of its data environment and has since brought in outside forensic investigators.
@@ -355,6 +327,20 @@
       <category>tech</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 20 Jul 2026 11:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Centers Laboratory Discloses Data Breach Affecting 542K Individuals</title>
+      <link>https://www.hipaajournal.com/centers-lab-data-breach/</link>
+      <description>&lt;p&gt;Centers Lab NJ LLC, a Hanover, New Jersey-based diagnostic testing laboratory that provides medical and diagnostic testing services to healthcare [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/centers-lab-data-breach/"&gt;Centers Laboratory Discloses Data Breach Affecting 542K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 542,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/centers-lab-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:dd80701d423b498b</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 20 Jul 2026 15:04:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

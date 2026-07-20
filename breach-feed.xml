@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 06:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:11:47 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -273,33 +273,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 16 Jul 2026 10:10:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Coca-Cola says Fairlife ransomware attack halts US dairy production</title>
-      <link>https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/</link>
-      <description>The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ef1e407414236b9e</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 16 Jul 2026 21:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack</title>
-      <link>https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/</link>
-      <description>&lt;p&gt;The company has yet to determine the full scope, nature, and impact of the incident.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"&gt;Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:fd258b3cdc861806</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 17 Jul 2026 06:23:08 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · HIGH] Atrium Health Pays Up to $1.8M to Resolve Pixel Lawsuit</title>

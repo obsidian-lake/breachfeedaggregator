@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:31:51 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -328,6 +328,33 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Fri, 17 Jul 2026 14:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Software provider to more than 2,000 US hospitals says hackers stole employee and customer data</title>
+      <link>https://therecord.media/software-provider-for-us-hospitals-customer-data-breach</link>
+      <description>Craneware, which is headquartered in Edinburgh and listed on London's AIM market, told investors it detected unauthorized access to a “subset” of its data environment and has since brought in outside forensic investigators.
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/software-provider-for-us-hospitals-customer-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:2002595598bd20b4</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>therecord</category>
+      <pubDate>Mon, 20 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.</title>
+      <link>https://databreaches.net/2026/07/20/broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability/?pk_campaign=feed&amp;pk_kwd=broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability</link>
+      <description>On March 18, 2026, Navigate360 learned that 8.3 million anonymous tips had been exposed. The company&amp;#8217;s response—and the silence of the programs that depend on its platform—has persisted for months. We&amp;#8217;re now seeking accountability through state and federal regulators. A DataBreaches.net Editorial In March 2026, the world learned that a hacktivist had acquired 8.3 million...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F20%2Fbroken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dbroken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability&amp;amp;action_name=Broken%20Promises%20of%20Anonymity%3A%20Four%20Months%20Later%2C%20Still%20No%20Transparency.%20Now%20We%26%238217%3Bre%20Seeking%20Accountability.&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/20/broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability/?pk_campaign=feed&amp;#038;pk_kwd=broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/20/broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability/?pk_campaign=feed&amp;pk_kwd=broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability</description>
+      <guid isPermaLink="false">obsidian-lake:item:546de15de8315823</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>tech</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 20 Jul 2026 11:36:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

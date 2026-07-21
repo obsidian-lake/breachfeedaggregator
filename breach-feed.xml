@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:34:17 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] WilmerHale Sued Over Client Personal Information Data Breach</title>
-      <link>https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&amp;pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach</link>
-      <description>Alex Ebert reports: Wilmer Cutler Pickering Hale &amp;#38; Dorr should pay millions of dollars in damages for loss of clients’ personal information in a May data breach, a putative class action claims. The lawsuit, filed Tuesday in the US District Court for the District of Columbia, seeks negligence and contract damages on behalf of “thousands” of...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F15%2Fwilmerhale-sued-over-client-personal-information-data-breach%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dwilmerhale-sued-over-client-personal-information-data-breach&amp;amp;action_name=WilmerHale%20Sued%20Over%20Client%20Personal%20Information%20Data%20Breach&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&amp;#038;pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&amp;pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:63e9b3f041c95566</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 15 Jul 2026 18:08:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Vision Care Providers Settle Data Breach Class Actions</title>
       <link>https://www.hipaajournal.com/vision-care-providers-data-breach-settlements/</link>
       <description>&lt;p&gt;Settlements have been agreed to resolve class action lawsuits against two vision care providers: Total Vision in California and Naper [&amp;#8230;]&lt;/p&gt;
@@ -329,6 +315,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 21 Jul 2026 10:39:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] NYSDFS Secures $50 Million Penalty from Swedbank for Withholding Information from Investigators</title>
+      <link>https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&amp;pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators</link>
+      <description>One of the biggest breaches of 2016 was the Panama Papers leak. The law firm at the heart of it, Mossack Fonseca, closed its doors in 2018, unable to recover from all the damage. But while the law firm folded, investigations continued. The New York Department of Financial Services announced that it has settled charges...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F21%2Fnysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dnysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators&amp;amp;action_name=NYSDFS%20Secures%20%2450%20Million%20Penalty%20from%20Swedbank%20for%20Withholding%20Information%20from%20Investigators&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&amp;#038;pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 50,000,000 // $ (est.): $50,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&amp;pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators</description>
+      <guid isPermaLink="false">obsidian-lake:item:26811997a175b9c0</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 21 Jul 2026 12:53:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

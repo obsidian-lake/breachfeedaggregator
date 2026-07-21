@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 20:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:03:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -343,6 +343,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 21 Jul 2026 16:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Cyberattack against Maine telecom disrupted municipal internet service in 23 towns</title>
+      <link>https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&amp;pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns</link>
+      <description>Colin Wood reports: At least one municipal government was among those to see their internet service disrupted after a cyberattack against a Maine telecommunications firm Sunday caused an outage affecting 23 towns along the state’s midcoastal region. A local NBC affiliate reported that the government office of Damariscotta, a tourist town of roughly 2,300 inhabitants, known for...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F21%2Fcyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dcyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns&amp;amp;action_name=Cyberattack%20against%20Maine%20telecom%20disrupted%20municipal%20internet%20service%20in%2023%20towns&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&amp;#038;pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&amp;pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns</description>
+      <guid isPermaLink="false">obsidian-lake:item:865b7749606fa975</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>telecom</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 21 Jul 2026 19:07:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:53:22 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -329,6 +329,20 @@
       <category>finance</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 21 Jul 2026 12:53:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Major Healthcare Software Vendor Investigating Cyberattack</title>
+      <link>https://www.hipaajournal.com/craneware-cyberattack-data-breach/</link>
+      <description>&lt;p&gt;The healthcare technology company Craneware is investigating a cybersecurity incident and has confirmed that a significant amount of data was [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/craneware-cyberattack-data-breach/"&gt;Major Healthcare Software Vendor Investigating Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/craneware-cyberattack-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7494725c2e39d5cc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 21 Jul 2026 16:38:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

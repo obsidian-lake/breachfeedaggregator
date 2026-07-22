@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 00:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 04:25:30 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -357,6 +357,20 @@
       <category>telecom</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 21 Jul 2026 19:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack</title>
+      <link>https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&amp;pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack</link>
+      <description>Milford, New Hampshire is a quintessential New England town. But charm is no defense against cyberattackers, and it appears that the town may have been attacked last week. As DysruptionHub was the first to report, the town began experiencing problems early on July 15.  Town email alerts, shared with DataBreaches by a town resident, reveal...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F21%2Fmilford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dmilford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack&amp;amp;action_name=Milford%2C%20New%20Hampshire%20Confirms%20Unauthorized%20Activity%2C%20Withholds%20Details%20of%20Suspected%20Cyberattack&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&amp;#038;pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&amp;pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack</description>
+      <guid isPermaLink="false">obsidian-lake:item:abb45be693592ecc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 22 Jul 2026 00:01:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

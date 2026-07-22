@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:57:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:08:30 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Atrium Health Pays Up to $1.8M to Resolve Pixel Lawsuit</title>
-      <link>https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/</link>
-      <description>&lt;p&gt;Charlotte-Mecklenburg Hospital Authority, doing business as Atrium Health, has agreed to pay up to $1,800,000 to settle a class action [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/"&gt;Atrium Health Pays Up to $1.8M to Resolve Pixel Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,800,000 // $ (est.): $1,800,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:773cfdbfb6825e59</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 17 Jul 2026 10:00:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] All About Women’s Care Data Breach Affects Up to 12,000 Patients</title>
       <link>https://www.hipaajournal.com/all-about-womens-care-data-breach/</link>
       <description>&lt;p&gt;All About Women&amp;#8217;s Care in Colorado has notified 12,000 patients that their data has been compromised in a data breach, [&amp;#8230;]&lt;/p&gt;
@@ -371,6 +357,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 22 Jul 2026 10:23:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Clover Health Assessing Impact of Social Engineering Incident</title>
+      <link>https://www.hipaajournal.com/clover-health-data-breach/</link>
+      <description>&lt;p&gt;Clover Health Investments has notified the U.S. Securities and Exchange Commission (SEC) about a cybersecurity incident first identified on July [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/clover-health-data-breach/"&gt;Clover Health Assessing Impact of Social Engineering Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/clover-health-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:540bdee4bebf4440</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 22 Jul 2026 12:32:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] TriWest Healthcare Alliance Announced Breach Affecting Almost 12,000 Tricare Beneficiaries</title>
+      <link>https://www.hipaajournal.com/triwest-healthcare-alliance-data-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by TriWest Healthcare Alliance, Texas Medicaid and Healthcare Partnership, the Minnesota Health Insurance Network, and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/triwest-healthcare-alliance-data-breach/"&gt;TriWest Healthcare Alliance Announced Breach Affecting Almost 12,000 Tricare Beneficiaries&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 12,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/triwest-healthcare-alliance-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:cc0488eb5ab9d57b</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 22 Jul 2026 12:40:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

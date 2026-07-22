@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 09:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:57:04 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Vision Care Providers Settle Data Breach Class Actions</title>
-      <link>https://www.hipaajournal.com/vision-care-providers-data-breach-settlements/</link>
-      <description>&lt;p&gt;Settlements have been agreed to resolve class action lawsuits against two vision care providers: Total Vision in California and Naper [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/vision-care-providers-data-breach-settlements/"&gt;Vision Care Providers Settle Data Breach Class Actions&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/vision-care-providers-data-breach-settlements/</description>
-      <guid isPermaLink="false">obsidian-lake:item:407df31ebc040f3f</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 16 Jul 2026 10:10:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] Atrium Health Pays Up to $1.8M to Resolve Pixel Lawsuit</title>
       <link>https://www.hipaajournal.com/atrium-health-pixel-data-breach-settlement/</link>
       <description>&lt;p&gt;Charlotte-Mecklenburg Hospital Authority, doing business as Atrium Health, has agreed to pay up to $1,800,000 to settle a class action [&amp;#8230;]&lt;/p&gt;
@@ -371,6 +357,20 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 22 Jul 2026 00:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] $3 Million Settlement Agreed to Resolve Healthcare Services Group Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/healthcare-services-group-data-breach-settlement/</link>
+      <description>&lt;p&gt;Healthcare Services Group has agreed to pay $3,000,000 to settle litigation arising from a September 2024 cybersecurity incident that involved [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-services-group-data-breach-settlement/"&gt;$3 Million Settlement Agreed to Resolve Healthcare Services Group Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000 // $ (est.): $3,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-services-group-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:44ef79959f5a544f</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 22 Jul 2026 10:23:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

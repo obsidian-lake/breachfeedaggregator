@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 04:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:33:18 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -371,6 +371,20 @@
       <category>education</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 23 Jul 2026 00:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices</title>
+      <link>https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/</link>
+      <description>&lt;p&gt;An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/"&gt;US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6a2ab8b5191d3ed8</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Thu, 23 Jul 2026 05:28:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

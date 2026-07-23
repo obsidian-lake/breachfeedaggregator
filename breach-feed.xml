@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 12:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 14:40:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] 23andMe Pays $18 Million to Settle Multistate Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/</link>
-      <description>&lt;p&gt;A coalition of 42 state attorneys general has agreed to a $18 million settlement with 23andMe (now Chrome Holding Co.) [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/"&gt;23andMe Pays $18 Million to Settle Multistate Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 18,000,000 // $ (est.): $18,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e19c80a8bb0c2f51</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 20 Jul 2026 15:21:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] ApolloMD Agrees to Pay $4.02M to Settle Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/apollomd-data-breach-settlement/</link>
       <description>&lt;p&gt;ApolloMD Business Services, a business associate that provides integrated, multispecialty physician, APC, and practice management services, has agreed to settle [&amp;#8230;]&lt;/p&gt;
@@ -231,20 +217,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 21 Jul 2026 10:39:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] NYSDFS Secures $50 Million Penalty from Swedbank for Withholding Information from Investigators</title>
-      <link>https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&amp;pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators</link>
-      <description>One of the biggest breaches of 2016 was the Panama Papers leak. The law firm at the heart of it, Mossack Fonseca, closed its doors in 2018, unable to recover from all the damage. But while the law firm folded, investigations continued. The New York Department of Financial Services announced that it has settled charges...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F21%2Fnysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dnysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators&amp;amp;action_name=NYSDFS%20Secures%20%2450%20Million%20Penalty%20from%20Swedbank%20for%20Withholding%20Information%20from%20Investigators&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&amp;#038;pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 50,000,000 // $ (est.): $50,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&amp;pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators</description>
-      <guid isPermaLink="false">obsidian-lake:item:26811997a175b9c0</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>finance</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 21 Jul 2026 12:53:29 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Major Healthcare Software Vendor Investigating Cyberattack</title>
@@ -373,6 +345,20 @@
       <pubDate>Thu, 23 Jul 2026 10:00:19 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · CRITICAL] DentaQuest Starts Notifying 15 Million+ Individuals About May 2026 Cyber Incident</title>
+      <link>https://www.hipaajournal.com/dentaquest-data-breach/</link>
+      <description>&lt;p&gt;The dental benefits administrator DentaQuest has started issuing notification letters to individuals affected by a May 2026 cybersecurity incident.  The [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/dentaquest-data-breach/"&gt;DentaQuest Starts Notifying 15 Million+ Individuals About May 2026 Cyber Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 15,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/dentaquest-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5c18f7a77814268e</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 23 Jul 2026 10:00:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] Heart Care Centers of Illinois Discovers Historic Phishing Attack Exposed Patient Data</title>
       <link>https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/</link>
       <description>&lt;p&gt;The cardiovascular medical practice, Heart Care Centers of Illinois (HCCI), announced on July 18, 2026, that certain patients had some [&amp;#8230;]&lt;/p&gt;
@@ -385,6 +371,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 23 Jul 2026 11:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Colorado Behavioral Healthcare Provider Discovers Insider Data Breach</title>
+      <link>https://www.hipaajournal.com/colorado-behavioral-healthcare-provider-insider-data-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by NAS Recovery Solutions, Entyre Care Massachusetts, Carle Health, and Brown Health Medical Group-MA. NAS [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/colorado-behavioral-healthcare-provider-insider-data-breach/"&gt;Colorado Behavioral Healthcare Provider Discovers Insider Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Insider // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/colorado-behavioral-healthcare-provider-insider-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:90d9e5d0fdfe7f19</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 23 Jul 2026 13:55:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

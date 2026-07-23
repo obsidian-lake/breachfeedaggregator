@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 10:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:09:56 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Abbott Investigating Cyberattack Claims From Two Threat Actors</title>
-      <link>https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/</link>
-      <description>&lt;p&gt;The healthcare giant Abbott is investigating claims from two threat groups who allege cyberattacks and data theft, one involving legacy [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/"&gt;Abbott Investigating Cyberattack Claims From Two Threat Actors&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4d0e8750dfa2a8f2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 20 Jul 2026 15:18:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] 23andMe Pays $18 Million to Settle Multistate Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/23andme-settlement-multistate-data-breach-lawsuit/</link>
       <description>&lt;p&gt;A coalition of 42 state attorneys general has agreed to a $18 million settlement with 23andMe (now Chrome Holding Co.) [&amp;#8230;]&lt;/p&gt;
@@ -385,6 +371,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 23 Jul 2026 10:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Heart Care Centers of Illinois Discovers Historic Phishing Attack Exposed Patient Data</title>
+      <link>https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/</link>
+      <description>&lt;p&gt;The cardiovascular medical practice, Heart Care Centers of Illinois (HCCI), announced on July 18, 2026, that certain patients had some [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/"&gt;Heart Care Centers of Illinois Discovers Historic Phishing Attack Exposed Patient Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:240505bdd30190ea</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 23 Jul 2026 11:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

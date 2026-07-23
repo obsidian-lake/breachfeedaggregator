@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 01:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 04:51:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -357,6 +357,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 22 Jul 2026 12:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] TN: Data breach delays start of Sumner County school year</title>
+      <link>https://databreaches.net/2026/07/22/tn-data-breach-delays-start-of-sumner-county-school-year/?pk_campaign=feed&amp;pk_kwd=tn-data-breach-delays-start-of-sumner-county-school-year</link>
+      <description>Camellia Burris reports: One Middle Tennessee school district is delaying the start of the school year due to a data breach in its computer network. School officials in Sumner County discovered the breach in its computer network earlier this week and subsequently revised the district calendar so the problem could be resolved before students return...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F22%2Ftn-data-breach-delays-start-of-sumner-county-school-year%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dtn-data-breach-delays-start-of-sumner-county-school-year&amp;amp;action_name=TN%3A%20Data%20breach%20delays%20start%20of%20Sumner%20County%20school%20year&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/22/tn-data-breach-delays-start-of-sumner-county-school-year/?pk_campaign=feed&amp;#038;pk_kwd=tn-data-breach-delays-start-of-sumner-county-school-year"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/22/tn-data-breach-delays-start-of-sumner-county-school-year/?pk_campaign=feed&amp;pk_kwd=tn-data-breach-delays-start-of-sumner-county-school-year</description>
+      <guid isPermaLink="false">obsidian-lake:item:ee1033ad96900739</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 23 Jul 2026 00:25:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

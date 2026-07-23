@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 07:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:23:18 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Centers Laboratory Discloses Data Breach Affecting 542K Individuals</title>
-      <link>https://www.hipaajournal.com/centers-lab-data-breach/</link>
-      <description>&lt;p&gt;Centers Lab NJ LLC, a Hanover, New Jersey-based diagnostic testing laboratory that provides medical and diagnostic testing services to healthcare [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/centers-lab-data-breach/"&gt;Centers Laboratory Discloses Data Breach Affecting 542K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 542,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/centers-lab-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:dd80701d423b498b</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 20 Jul 2026 15:04:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Abbott Investigating Cyberattack Claims From Two Threat Actors</title>
       <link>https://www.hipaajournal.com/abbott-investigating-cyberattack-claims/</link>
       <description>&lt;p&gt;The healthcare giant Abbott is investigating claims from two threat groups who allege cyberattacks and data theft, one involving legacy [&amp;#8230;]&lt;/p&gt;
@@ -385,6 +371,20 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Thu, 23 Jul 2026 05:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Patient Data Exposed in Cybersecurity Incident at Ohio Revenue Cycle Management Company</title>
+      <link>https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</link>
+      <description>&lt;p&gt;Security incidents have resulted in the exposure of patient data at United Technology Systems, Meridian Health Plan of Illinois, and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/"&gt;Patient Data Exposed in Cybersecurity Incident at Ohio Revenue Cycle Management Company&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8f78e8291a8c02d8</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 23 Jul 2026 10:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

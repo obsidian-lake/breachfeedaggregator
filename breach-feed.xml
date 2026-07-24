@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:42:47 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] ApolloMD Agrees to Pay $4.02M to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/apollomd-data-breach-settlement/</link>
-      <description>&lt;p&gt;ApolloMD Business Services, a business associate that provides integrated, multispecialty physician, APC, and practice management services, has agreed to settle [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/apollomd-data-breach-settlement/"&gt;ApolloMD Agrees to Pay $4.02M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,019,999 // $ (est.): $4,019,999 // Source: hipaajournal // Original: https://www.hipaajournal.com/apollomd-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1effd722be6cb093</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 21 Jul 2026 10:39:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Major Healthcare Software Vendor Investigating Cyberattack</title>
       <link>https://www.hipaajournal.com/craneware-cyberattack-data-breach/</link>
       <description>&lt;p&gt;The healthcare technology company Craneware is investigating a cybersecurity incident and has confirmed that a significant amount of data was [&amp;#8230;]&lt;/p&gt;
@@ -317,20 +303,6 @@
       <pubDate>Thu, 23 Jul 2026 00:25:52 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices</title>
-      <link>https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/</link>
-      <description>&lt;p&gt;An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/"&gt;US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6a2ab8b5191d3ed8</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Thu, 23 Jul 2026 05:28:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Patient Data Exposed in Cybersecurity Incident at Ohio Revenue Cycle Management Company</title>
       <link>https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</link>
       <description>&lt;p&gt;Security incidents have resulted in the exposure of patient data at United Technology Systems, Meridian Health Plan of Illinois, and [&amp;#8230;]&lt;/p&gt;
@@ -399,6 +371,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 23 Jul 2026 15:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Tennessee Pathology Group Announces 170K-record Data Breach</title>
+      <link>https://www.hipaajournal.com/tennessee-pathology-group-data-breach/</link>
+      <description>&lt;p&gt;Anatomic and Clinical Laboratory Associates is notifying almost 170,000 patients about a recent cybersecurity incident. Data breaches have also been [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/tennessee-pathology-group-data-breach/"&gt;Tennessee Pathology Group Announces 170K-record Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 170,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/tennessee-pathology-group-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5fa0fdecc5bdd3be</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 24 Jul 2026 10:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

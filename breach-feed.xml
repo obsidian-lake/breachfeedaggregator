@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 13:53:43 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,34 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] $3 Million Settlement Agreed to Resolve Healthcare Services Group Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/healthcare-services-group-data-breach-settlement/</link>
-      <description>&lt;p&gt;Healthcare Services Group has agreed to pay $3,000,000 to settle litigation arising from a September 2024 cybersecurity incident that involved [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-services-group-data-breach-settlement/"&gt;$3 Million Settlement Agreed to Resolve Healthcare Services Group Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000 // $ (est.): $3,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-services-group-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:44ef79959f5a544f</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 22 Jul 2026 10:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Clover Health Assessing Impact of Social Engineering Incident</title>
-      <link>https://www.hipaajournal.com/clover-health-data-breach/</link>
-      <description>&lt;p&gt;Clover Health Investments has notified the U.S. Securities and Exchange Commission (SEC) about a cybersecurity incident first identified on July [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/clover-health-data-breach/"&gt;Clover Health Assessing Impact of Social Engineering Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/clover-health-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:540bdee4bebf4440</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 22 Jul 2026 12:32:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] TriWest Healthcare Alliance Announced Breach Affecting Almost 12,000 Tricare Beneficiaries</title>
       <link>https://www.hipaajournal.com/triwest-healthcare-alliance-data-breach/</link>
       <description>&lt;p&gt;Data breaches have been announced by TriWest Healthcare Alliance, Texas Medicaid and Healthcare Partnership, the Minnesota Health Insurance Network, and [&amp;#8230;]&lt;/p&gt;
@@ -331,18 +303,32 @@
       <pubDate>Fri, 24 Jul 2026 10:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] T-Mobile violated WA data breach notification law, judge rules</title>
-      <link>https://databreaches.net/2026/07/24/t-mobile-violated-wa-data-breach-notification-law-judge-rules/?pk_campaign=feed&amp;pk_kwd=t-mobile-violated-wa-data-breach-notification-law-judge-rules</link>
-      <description>Mirandah Davis-Powell reports: T-Mobile failed to properly notify customers of a data breach in which 40 million people had sensitive personal information stolen and sold on the dark web, a King County Superior Court judge ruled Friday. The Washington attorney general’s office filed the civil lawsuit against the Bellevue-based company in January 2025. The lawsuit alleged that T-Mobile...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F24%2Ft-mobile-violated-wa-data-breach-notification-law-judge-rules%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dt-mobile-violated-wa-data-breach-notification-law-judge-rules&amp;amp;action_name=T-Mobile%20violated%20WA%20data%20breach%20notification%20law%2C%20judge%20rules&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/24/t-mobile-violated-wa-data-breach-notification-law-judge-rules/?pk_campaign=feed&amp;#038;pk_kwd=t-mobile-violated-wa-data-breach-notification-law-judge-rules"&gt;Source&lt;/a&gt;&lt;/p&gt;
+      <title>[BREACH · HIGH] MCBS Announces Cybersecurity Incident Impacting 1.26M Individuals</title>
+      <link>https://www.hipaajournal.com/mcbs-cyberattack-data-breach/</link>
+      <description>&lt;p&gt;MCBS, LLC, an Augusta, Georgia-based healthcare management and revenue cycle management company, has announced a major data incident involving the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mcbs-cyberattack-data-breach/"&gt;MCBS Announces Cybersecurity Incident Impacting 1.26M Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/24/t-mobile-violated-wa-data-breach-notification-law-judge-rules/?pk_campaign=feed&amp;pk_kwd=t-mobile-violated-wa-data-breach-notification-law-judge-rules</description>
-      <guid isPermaLink="false">obsidian-lake:item:846d81827fe0d80a</guid>
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,260,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mcbs-cyberattack-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9f114fa0ba750b15</guid>
       <category>breach</category>
-      <category>critical</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 24 Jul 2026 12:08:06 +0000</pubDate>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 27 Jul 2026 11:59:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] AnMed Closes Almost 80 Facilities While it Grapples with Cyberattack</title>
+      <link>https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/</link>
+      <description>&lt;p&gt;AnMed, formerly AnMed Health, a nonprofit health system serving patients in upstate South Carolina and Northeast Georgia, has been forced [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/"&gt;AnMed Closes Almost 80 Facilities While it Grapples with Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c1bc4d4076b71b28</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 27 Jul 2026 12:15:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

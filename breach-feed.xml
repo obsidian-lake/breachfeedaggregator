@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:06:26 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,74 +205,18 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Patient Data Exposed in Cybersecurity Incident at Ohio Revenue Cycle Management Company</title>
-      <link>https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</link>
-      <description>&lt;p&gt;Security incidents have resulted in the exposure of patient data at United Technology Systems, Meridian Health Plan of Illinois, and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/"&gt;Patient Data Exposed in Cybersecurity Incident at Ohio Revenue Cycle Management Company&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] How to Choose HIPAA Compliance Software</title>
+      <link>https://www.hipaajournal.com/best-hipaa-compliance-software/</link>
+      <description>&lt;p&gt;At smaller organizations with under 100 employees, responsibility for HIPAA compliance normally falls to an administrator or practice manager who usually won’t have deep knowledge of compliance matters. For these multitasking individuals, the best HIPAA compliance software reduces the administrative burden and lessens the likelihood of an expensive HIPAA breach. In this article we discuss how to choose a suitable HIPAA compliance software tool.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/best-hipaa-compliance-software/"&gt;How to Choose HIPAA Compliance Software&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8f78e8291a8c02d8</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 100 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/best-hipaa-compliance-software/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ec980bb4ac94bdb2</guid>
       <category>breach</category>
       <category>info</category>
       <category>healthcare</category>
       <category>hipaajournal</category>
-      <pubDate>Thu, 23 Jul 2026 10:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] DentaQuest Starts Notifying 15 Million+ Individuals About May 2026 Cyber Incident</title>
-      <link>https://www.hipaajournal.com/dentaquest-data-breach/</link>
-      <description>&lt;p&gt;The dental benefits administrator DentaQuest has started issuing notification letters to individuals affected by a May 2026 cybersecurity incident.  The [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/dentaquest-data-breach/"&gt;DentaQuest Starts Notifying 15 Million+ Individuals About May 2026 Cyber Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 15,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/dentaquest-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5c18f7a77814268e</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 23 Jul 2026 10:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Heart Care Centers of Illinois Discovers Historic Phishing Attack Exposed Patient Data</title>
-      <link>https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/</link>
-      <description>&lt;p&gt;The cardiovascular medical practice, Heart Care Centers of Illinois (HCCI), announced on July 18, 2026, that certain patients had some [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/"&gt;Heart Care Centers of Illinois Discovers Historic Phishing Attack Exposed Patient Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/heart-care-centers-of-illinois-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:240505bdd30190ea</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 23 Jul 2026 11:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Colorado Behavioral Healthcare Provider Discovers Insider Data Breach</title>
-      <link>https://www.hipaajournal.com/colorado-behavioral-healthcare-provider-insider-data-breach/</link>
-      <description>&lt;p&gt;Data breaches have been announced by NAS Recovery Solutions, Entyre Care Massachusetts, Carle Health, and Brown Health Medical Group-MA. NAS [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/colorado-behavioral-healthcare-provider-insider-data-breach/"&gt;Colorado Behavioral Healthcare Provider Discovers Insider Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Insider // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/colorado-behavioral-healthcare-provider-insider-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:90d9e5d0fdfe7f19</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 23 Jul 2026 13:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Report Shows Surge in Malicious Insider Incidents; Mega Data Breaches</title>
-      <link>https://www.hipaajournal.com/itrc-h1-2026-data-breach-report/</link>
-      <description>&lt;p&gt;There has been a general trend of increasing data breaches over the past decade, with this year on track to [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/itrc-h1-2026-data-breach-report/"&gt;Report Shows Surge in Malicious Insider Incidents; Mega Data Breaches&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Insider // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/itrc-h1-2026-data-breach-report/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5ba98c45f751e1c2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 23 Jul 2026 15:55:41 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 08:16:03 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Tennessee Pathology Group Announces 170K-record Data Breach</title>
@@ -342,6 +286,20 @@
       <category>healthcare</category>
       <category>therecord</category>
       <pubDate>Mon, 27 Jul 2026 17:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Florida SUD Treatment Provider Announces 145,700-record Data Breach</title>
+      <link>https://www.hipaajournal.com/operation-par-eyemart-express-vanderbilt-health-data-breaches/</link>
+      <description>&lt;p&gt;Operation PAR, a Florida-based SUD treatment provider, has announced a data breach affecting more than 145,700 individuals. Data breaches have [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/operation-par-eyemart-express-vanderbilt-health-data-breaches/"&gt;Florida SUD Treatment Provider Announces 145,700-record Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 145,700 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/operation-par-eyemart-express-vanderbilt-health-data-breaches/</description>
+      <guid isPermaLink="false">obsidian-lake:item:335706736b897355</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 28 Jul 2026 10:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

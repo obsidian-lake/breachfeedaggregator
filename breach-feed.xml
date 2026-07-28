@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 18:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:00:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -300,6 +300,19 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 28 Jul 2026 12:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA shares advice on isolating vital systems during cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/</link>
+      <description>The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/</description>
+      <guid isPermaLink="false">obsidian-lake:item:76bd11dc1fb33c2b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 28 Jul 2026 18:41:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

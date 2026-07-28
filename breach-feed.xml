@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 21:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:59:45 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -259,19 +259,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 27 Jul 2026 14:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Health system in South Carolina, Georgia closes offices after malware affects networks</title>
-      <link>https://therecord.media/health-system-south-carolina-georgia-disruptions-malware</link>
-      <description>On Sunday, AnMed published a statement online saying they were “experiencing a cybersecurity disruption involving malware” and were working to restore systems and determine the scope of the incident.
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/health-system-south-carolina-georgia-disruptions-malware</description>
-      <guid isPermaLink="false">obsidian-lake:item:46bf72e8fc829f21</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>therecord</category>
-      <pubDate>Mon, 27 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Florida SUD Treatment Provider Announces 145,700-record Data Breach</title>

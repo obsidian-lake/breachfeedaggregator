@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:00:59 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] Tennessee Pathology Group Announces 170K-record Data Breach</title>
-      <link>https://www.hipaajournal.com/tennessee-pathology-group-data-breach/</link>
-      <description>&lt;p&gt;Anatomic and Clinical Laboratory Associates is notifying almost 170,000 patients about a recent cybersecurity incident. Data breaches have also been [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/tennessee-pathology-group-data-breach/"&gt;Tennessee Pathology Group Announces 170K-record Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 170,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/tennessee-pathology-group-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5fa0fdecc5bdd3be</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 24 Jul 2026 10:00:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] MCBS Announces Cybersecurity Incident Impacting 1.26M Individuals</title>
       <link>https://www.hipaajournal.com/mcbs-cyberattack-data-breach/</link>
       <description>&lt;p&gt;MCBS, LLC, an Augusta, Georgia-based healthcare management and revenue cycle management company, has announced a major data incident involving the [&amp;#8230;]&lt;/p&gt;
@@ -299,6 +285,20 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 28 Jul 2026 18:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Global Data Breach Costs Rise 12% to Almost $5 Million</title>
+      <link>https://www.hipaajournal.com/2026-cost-data-breach-study-ibm/</link>
+      <description>&lt;p&gt;The IBM 2026 Cost of a Data Breach Study shows data breach costs have risen by 12% in a year [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/2026-cost-data-breach-study-ibm/"&gt;Global Data Breach Costs Rise 12% to Almost $5 Million&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 5,000,000 // $ (est.): $5,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/2026-cost-data-breach-study-ibm/</description>
+      <guid isPermaLink="false">obsidian-lake:item:339fa22883ecd4d1</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 29 Jul 2026 11:13:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

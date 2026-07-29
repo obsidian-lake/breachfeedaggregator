@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:21:41 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,6 +140,19 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
+      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
+      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
+
+// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>tech</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -153,18 +166,43 @@
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] MCBS Announces Cybersecurity Incident Impacting 1.26M Individuals</title>
-      <link>https://www.hipaajournal.com/mcbs-cyberattack-data-breach/</link>
-      <description>&lt;p&gt;MCBS, LLC, an Augusta, Georgia-based healthcare management and revenue cycle management company, has announced a major data incident involving the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mcbs-cyberattack-data-breach/"&gt;MCBS Announces Cybersecurity Incident Impacting 1.26M Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
 
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,260,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mcbs-cyberattack-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9f114fa0ba750b15</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
       <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 27 Jul 2026 11:59:18 +0000</pubDate>
+      <category>info</category>
+      <category>gov</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
+      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7112bb85f69498e7</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] AnMed Closes Almost 80 Facilities While it Grapples with Cyberattack</title>
@@ -248,6 +286,33 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 29 Jul 2026 12:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Hackers target over 30 Minnesota water utilities in coordinated OT attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/</link>
+      <description>The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in "a coordinated cyberattack." [...]
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 30,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:65abd9d4a633f693</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 29 Jul 2026 14:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Former CPA Sentenced for Laundering Stolen Children’s Healthcare of Atlanta Funds</title>
+      <link>https://www.hipaajournal.com/former-cpa-sentenced-laundering-childrens-healthcare-atlanta-funds/</link>
+      <description>&lt;p&gt;A business email compromise (BEC) attack on a vendor of Children’s Healthcare of Atlanta in 2023 resulted in $5.3 million [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/former-cpa-sentenced-laundering-childrens-healthcare-atlanta-funds/"&gt;Former CPA Sentenced for Laundering Stolen Children’s Healthcare of Atlanta Funds&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 5,300,000 // $ (est.): $5,300,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/former-cpa-sentenced-laundering-childrens-healthcare-atlanta-funds/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6c8c82e67a147d68</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 29 Jul 2026 16:14:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 03:49:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -286,20 +286,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 28 Jul 2026 10:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible</title>
-      <link>https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/?pk_campaign=feed&amp;pk_kwd=multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible</link>
-      <description>On June 16, media reported that Iran-linked Handala had attacked Cal Water. There was no evidence that they tampered with the water supply, but the group warned it would be increasing attacks on U.S. critical infrastructure. On July 23, the Iran-linked WANA News reported:  Following a cyberattack by the hacking group “Handala” on Maryland’s Operational...&lt;img alt="" height="0" src="https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;amp;rec=1&amp;amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F07%2F28%2Fmultiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dmultiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible&amp;amp;action_name=Multiple%20water%20facilities%20in%20Minnesota%20attacked%3B%20%20Iranian%20hackers%20may%20be%20responsible&amp;amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F" style="border: 0; width: 0; height: 0;" width="0" /&gt;
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/?pk_campaign=feed&amp;#038;pk_kwd=multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/?pk_campaign=feed&amp;pk_kwd=multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible</description>
-      <guid isPermaLink="false">obsidian-lake:item:5aa0e4cdc830e29a</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 28 Jul 2026 12:02:45 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] CISA shares advice on isolating vital systems during cyberattacks</title>

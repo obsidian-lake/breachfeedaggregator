@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 18:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:16:36 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -272,6 +272,19 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 30 Jul 2026 11:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Semiconductor chip titan Analog Devices reports data breach</title>
+      <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
+      <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/analog-devices-semiconductor-company-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:ecd0cf366963fdf2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Thu, 30 Jul 2026 19:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

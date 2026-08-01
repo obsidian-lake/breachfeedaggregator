@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 16:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:32:15 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -247,20 +247,6 @@
       <pubDate>Wed, 29 Jul 2026 16:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] HHS OCR Settles Ransomware Investigation of OSF Healthcare System and Affiliated Covered Entities</title>
-      <link>https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/</link>
-      <description>In June 2021, DataBreaches reported on a ransomware attack affecting OSF Healthcare by a little-known gang called Xing Team. Our reporting noted OSF&amp;#8217;s lack or response to inquiries and lack of timely notification. When OSF issued a statement in October, DataBreaches reported on that, too, commenting that we did not find their incident response timely...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Xing // Vector: Ransomware // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/</description>
-      <guid isPermaLink="false">obsidian-lake:item:aa6d919dbaca5bb6</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 30 Jul 2026 11:26:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Semiconductor chip titan Analog Devices reports data breach</title>
       <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
       <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.
@@ -326,6 +312,34 @@
       <category>finance</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 01 Aug 2026 01:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Suspected cyberattack disrupts Oceanside, California, school district systems</title>
+      <link>https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/</link>
+      <description>DysruptionHub reports: A suspected cyberattack disrupted work email, internet access, Google Drive and other applications at Oceanside Unified School District in California as officials investigated and worked to restore service. The district confirmed a computer network disruption but did not identify its cause. NC Pipeline reported that a separate district text described the incident as a cyberattack....
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1af78e8310041ffb</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 01 Aug 2026 14:18:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Sixth Circuit to Rehear Case on FCC Data Breach Rules Case</title>
+      <link>https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/</link>
+      <description>Jake Neenan reports: A full panel of federal judges will rehear a case that upheld expanded telecom data breach rules. The Federal Communications Commission, now under Republican control, has indicated it’s likely to reverse the rules anyway. But industry groups and GOP lawmakers want the case’s precedent gone too. They told judges on the U.S....
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4547dc4bc39fd900</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>telecom</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 01 Aug 2026 14:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

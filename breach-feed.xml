@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:21:45 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -272,20 +272,6 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Thu, 30 Jul 2026 19:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs</title>
-      <link>https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/</link>
-      <description>&lt;p&gt;CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/"&gt;CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/</description>
-      <guid isPermaLink="false">obsidian-lake:item:43a3e0ec55a07d69</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Thu, 30 Jul 2026 22:18:36 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Health-ISAC Warns of Increasing ShinyHunters Healthcare Data Theft Attacks</title>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 12:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 14:36:17 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -300,20 +300,6 @@
       <pubDate>Fri, 31 Jul 2026 17:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] AMGEN reports breach to SEC</title>
-      <link>https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/</link>
-      <description>From Amgen&amp;#8217;s filing on July 29 to the Securities and Exchange Commission: Item 1.05 Material Cybersecurity Incidents. In July 2026, Amgen Inc. (the &amp;#8220;Company&amp;#8221;) identified unauthorized activity involving data stored in cloud environments hosted by third-party cloud service providers. Upon detecting the activity, the Company activated its cybersecurity response plan, implemented containment measures, and engaged...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: finance // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 1,050,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0b8ea1dde01b85ea</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>finance</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 01 Aug 2026 01:45:25 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Suspected cyberattack disrupts Oceanside, California, school district systems</title>
       <link>https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/</link>
       <description>DysruptionHub reports: A suspected cyberattack disrupted work email, internet access, Google Drive and other applications at Oceanside Unified School District in California as officials investigated and worked to restore service. The district confirmed a computer network disruption but did not identify its cause. NC Pipeline reported that a separate district text described the incident as a cyberattack....
@@ -340,6 +326,20 @@
       <category>telecom</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 01 Aug 2026 14:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Brinks Home Confirms Data Breach Following ShinyHunters Claim</title>
+      <link>https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/</link>
+      <description>Guru Baran reports: Brinks Home, one of North America’s largest residential security providers, has confirmed that hackers breached its IT systems after the notorious ShinyHunters extortion group claimed responsibility for stealing nearly five million records tied to the company’s Salesforce environment. The confirmation comes after the threat actors listed “BH Security, LLC (brinkshome.com)” on their...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9ee511ac48b39ff8</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sun, 02 Aug 2026 14:03:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

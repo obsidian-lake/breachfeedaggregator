@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 14:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 16:02:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -247,19 +247,6 @@
       <pubDate>Wed, 29 Jul 2026 16:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Semiconductor chip titan Analog Devices reports data breach</title>
-      <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
-      <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/analog-devices-semiconductor-company-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:ecd0cf366963fdf2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Thu, 30 Jul 2026 19:10:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Health-ISAC Warns of Increasing ShinyHunters Healthcare Data Theft Attacks</title>
       <link>https://www.hipaajournal.com/health-isac-warning-shinyhunters-healthcare/</link>
       <description>&lt;p&gt;Health sector organizations have been warned about an increase in successful attacks by the ShinyHunters threat group. In contrast to [&amp;#8230;]&lt;/p&gt;
@@ -285,19 +272,6 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 31 Jul 2026 16:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA warns of spike in attacks on water systems as Minnesota incidents probed</title>
-      <link>https://therecord.media/cisa-warns-of-spike-in-water-system-attacks</link>
-      <description>The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible."
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/cisa-warns-of-spike-in-water-system-attacks</description>
-      <guid isPermaLink="false">obsidian-lake:item:f77c233a4adb1bab</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 31 Jul 2026 17:47:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Suspected cyberattack disrupts Oceanside, California, school district systems</title>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 16:02:22 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,34 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Soniva Dental Care Data Breach Affects At Least 30,000 Patients</title>
-      <link>https://www.hipaajournal.com/soniva-dental-care-carecloud-optalis-management-data-breach/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Soniva Dental Care in Texas, Optalis Management Solutions in Michigan, and Hudson Valley Medical [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/soniva-dental-care-carecloud-optalis-management-data-breach/"&gt;Soniva Dental Care Data Breach Affects At Least 30,000 Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 30,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/soniva-dental-care-carecloud-optalis-management-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c59440c5ad435dbe</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 29 Jul 2026 12:27:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Former CPA Sentenced for Laundering Stolen Children’s Healthcare of Atlanta Funds</title>
-      <link>https://www.hipaajournal.com/former-cpa-sentenced-laundering-childrens-healthcare-atlanta-funds/</link>
-      <description>&lt;p&gt;A business email compromise (BEC) attack on a vendor of Children’s Healthcare of Atlanta in 2023 resulted in $5.3 million [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/former-cpa-sentenced-laundering-childrens-healthcare-atlanta-funds/"&gt;Former CPA Sentenced for Laundering Stolen Children’s Healthcare of Atlanta Funds&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 5,300,000 // $ (est.): $5,300,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/former-cpa-sentenced-laundering-childrens-healthcare-atlanta-funds/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6c8c82e67a147d68</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 29 Jul 2026 16:14:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Health-ISAC Warns of Increasing ShinyHunters Healthcare Data Theft Attacks</title>
       <link>https://www.hipaajournal.com/health-isac-warning-shinyhunters-healthcare/</link>
       <description>&lt;p&gt;Health sector organizations have been warned about an increase in successful attacks by the ShinyHunters threat group. In contrast to [&amp;#8230;]&lt;/p&gt;
@@ -341,6 +313,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 03 Aug 2026 06:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] AmGen Announces Cyberattack and Data Breach Involving Patient Data</title>
+      <link>https://www.hipaajournal.com/amgen-cyberattack-data-breach/</link>
+      <description>&lt;p&gt;Amgen Inc., a Thousand Oaks, CA-based biopharmaceutical company that develops and manufactures pharmaceutical products for oncological, hematological, and cardiovascular diseases, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/amgen-cyberattack-data-breach/"&gt;AmGen Announces Cyberattack and Data Breach Involving Patient Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/amgen-cyberattack-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9fb083b1002d6bb6</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 03 Aug 2026 13:43:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 06:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:12:46 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Global Data Breach Cost Rises 12% to Almost $5 Million</title>
-      <link>https://www.hipaajournal.com/2026-cost-data-breach-study-ibm/</link>
-      <description>&lt;p&gt;The IBM 2026 Cost of a Data Breach Study shows data breach costs have risen by 12% in a year [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/2026-cost-data-breach-study-ibm/"&gt;Global Data Breach Cost Rises 12% to Almost $5 Million&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 5,000,000 // $ (est.): $5,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/2026-cost-data-breach-study-ibm/</description>
-      <guid isPermaLink="false">obsidian-lake:item:339fa22883ecd4d1</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 29 Jul 2026 11:13:16 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Soniva Dental Care Data Breach Affects At Least 30,000 Patients</title>
       <link>https://www.hipaajournal.com/soniva-dental-care-carecloud-optalis-management-data-breach/</link>
       <description>&lt;p&gt;Data breaches have been announced by Soniva Dental Care in Texas, Optalis Management Solutions in Michigan, and Hudson Valley Medical [&amp;#8230;]&lt;/p&gt;
@@ -340,6 +326,34 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Sun, 02 Aug 2026 14:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Patients Warned About AnMed Communications After Cyberattack Closes 83 Facilities</title>
+      <link>https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/</link>
+      <description>&lt;p&gt;The Anderson, South Carolina-based nonprofit health system AnMed said it is continuing to make progress restoring its systems after a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/"&gt;Patients Warned About AnMed Communications After Cyberattack Closes 83 Facilities&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c1bc4d4076b71b28</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 03 Aug 2026 06:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] CareCloud Notifies More Than 345,000 Patients About Cyberattack Data Theft</title>
+      <link>https://www.hipaajournal.com/carecloud-data-breach/</link>
+      <description>&lt;p&gt;CareCloud Inc., a Somerset, New Jersey-based provider of cloud-based and AI-powered EHR, RCM, PM, and clinical documentation solutions, has determined [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/carecloud-data-breach/"&gt;CareCloud Notifies More Than 345,000 Patients About Cyberattack Data Theft&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 345,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/carecloud-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ac5a20ea5c2c44f2</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 03 Aug 2026 06:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

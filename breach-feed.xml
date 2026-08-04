@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 12:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 15:01:43 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -219,33 +219,6 @@
       <pubDate>Fri, 31 Jul 2026 14:48:27 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] CISA warns of spike in attacks on water systems as Minnesota incidents probed</title>
-      <link>https://therecord.media/cisa-warns-of-spike-in-water-system-attacks</link>
-      <description>The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible."
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/cisa-warns-of-spike-in-water-system-attacks</description>
-      <guid isPermaLink="false">obsidian-lake:item:f77c233a4adb1bab</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 31 Jul 2026 17:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Suspected cyberattack disrupts Oceanside, California, school district systems</title>
-      <link>https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/</link>
-      <description>DysruptionHub reports: A suspected cyberattack disrupted work email, internet access, Google Drive and other applications at Oceanside Unified School District in California as officials investigated and worked to restore service. The district confirmed a computer network disruption but did not identify its cause. NC Pipeline reported that a separate district text described the incident as a cyberattack....
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1af78e8310041ffb</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>education</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 01 Aug 2026 14:18:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Sixth Circuit to Rehear Case on FCC Data Breach Rules Case</title>
       <link>https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/</link>
       <description>Jake Neenan reports: A full panel of federal judges will rehear a case that upheld expanded telecom data breach rules. The Federal Communications Commission, now under Republican control, has indicated it’s likely to reverse the rules anyway. But industry groups and GOP lawmakers want the case’s precedent gone too. They told judges on the U.S....
@@ -314,6 +287,61 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 03 Aug 2026 13:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Swiss federal IT office hit by cyberattack</title>
+      <link>https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/</link>
+      <description>SwissInfo.ch reports: Following a cyberattack on the SharePoint servers operated by the Federal Office of Information Technology, Systems and Telecommunication (FOITT), access via the internet has been blocked for people outside the federal administration. Around 200 accounts were compromised in the incident. There are no indications of any further data breaches. The unknown attackers are...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:81aa45bdfdb0b514</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 04 Aug 2026 12:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Republican attorneys general urge OpenAI to preserve records on Hugging Face breach</title>
+      <link>https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/</link>
+      <description>Miranda Nazzaro reports: More than a dozen Republican attorneys general are calling on OpenAI to preserve records on its models’ recent breach of another company, suggesting the AI firm may have violated state or federal laws in the incident. In a letter sent Monday to OpenAI CEO Sam Altman, 15 attorneys general wrote the ChatGPT-maker may have...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0b1cc8f21edc1e08</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 04 Aug 2026 12:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected</title>
+      <link>https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities</link>
+      <description>The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 200 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities</description>
+      <guid isPermaLink="false">obsidian-lake:item:3305fd13b7fc0efd</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Tue, 04 Aug 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Brown Health Medical Group-MA Data Breach Affects 312,000 Individuals</title>
+      <link>https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/</link>
+      <description>&lt;p&gt;Lifespan Physicians Group of Massachusetts, doing business as Brown Health Medical Group-MA, has confirmed that the protected health information of [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/"&gt;Brown Health Medical Group-MA Data Breach Affects 312,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 312,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ed57c50f807e50f2</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 04 Aug 2026 14:10:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

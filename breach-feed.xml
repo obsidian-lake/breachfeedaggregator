@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:38:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -273,6 +273,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 03 Aug 2026 13:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Is Your Organization Ready for a HIPAA Security Incident?</title>
+      <link>https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/</link>
+      <description>&lt;p&gt;A HIPAA security risk assessment assesses threats to the privacy and security of PHI, the likelihood of a threat occurring, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/"&gt;Is Your Organization Ready for a HIPAA Security Incident?&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:907af5b504306c29</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 03 Aug 2026 15:09:14 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Swiss federal IT office hit by cyberattack</title>

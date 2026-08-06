@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:10:30 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Patients Warned About AnMed Communications After Cyberattack Closes 83 Facilities</title>
-      <link>https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/</link>
-      <description>&lt;p&gt;The Anderson, South Carolina-based nonprofit health system AnMed said it is continuing to make progress restoring its systems after a [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/"&gt;Patients Warned About AnMed Communications After Cyberattack Closes 83 Facilities&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c1bc4d4076b71b28</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 03 Aug 2026 06:15:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] CareCloud Notifies More Than 345,000 Patients About Cyberattack Data Theft</title>
       <link>https://www.hipaajournal.com/carecloud-data-breach/</link>
       <description>&lt;p&gt;CareCloud Inc., a Somerset, New Jersey-based provider of cloud-based and AI-powered EHR, RCM, PM, and clinical documentation solutions, has determined [&amp;#8230;]&lt;/p&gt;
@@ -315,6 +301,47 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 05 Aug 2026 12:18:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</title>
+      <link>https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/</link>
+      <description>There is an update to the case of Maksim Silnikau, who was extradited from Poland to the U.S. in August 2024 to stand trial here.  Ionut Arghire reports: The Belarusian creator and administrator of the Ransom Cartel ransomware was sentenced to 16 years in prison in the US. Maksim Silnikau, 40, built the ransomware operation...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 40,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5498a4b3aec84936</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 06 Aug 2026 12:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Settlements Resolve Data Breach Lawsuits Against McKenzie Health System &amp; Aspire Health Alliance</title>
+      <link>https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/</link>
+      <description>&lt;p&gt;Settlements have been agreed to resolve class action data breach lawsuits against McKenzie Health System in Michigan and Aspire Health [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/"&gt;Settlements Resolve Data Breach Lawsuits Against McKenzie Health System &amp;#038; Aspire Health Alliance&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e85b2910481994e0</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 06 Aug 2026 12:19:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence</title>
+      <link>https://therecord.media/belarus-hacker-ransomware-sentenced</link>
+      <description>A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 16 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/belarus-hacker-ransomware-sentenced</description>
+      <guid isPermaLink="false">obsidian-lake:item:a705dc9714c3a37b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Thu, 06 Aug 2026 13:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

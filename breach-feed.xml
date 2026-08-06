@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:40:39 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -203,20 +203,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Health-ISAC Warns of Increasing ShinyHunters Healthcare Data Theft Attacks</title>
-      <link>https://www.hipaajournal.com/health-isac-warning-shinyhunters-healthcare/</link>
-      <description>&lt;p&gt;Health sector organizations have been warned about an increase in successful attacks by the ShinyHunters threat group. In contrast to [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/health-isac-warning-shinyhunters-healthcare/"&gt;Health-ISAC Warns of Increasing ShinyHunters Healthcare Data Theft Attacks&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/health-isac-warning-shinyhunters-healthcare/</description>
-      <guid isPermaLink="false">obsidian-lake:item:bc9fedda15ecbfc2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 31 Jul 2026 14:48:27 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Patients Warned About AnMed Communications After Cyberattack Closes 83 Facilities</title>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:33:44 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -396,6 +396,20 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 07 Aug 2026 20:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] US cloud ‘kill switch’ is as dangerous as ransomware, European businesses fear</title>
+      <link>https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/</link>
+      <description>Emma Woollacott reports: European firms are more concerned about a potential US government-imposed &amp;#8216;kill switch&amp;#8217; for cloud services than almost anything else. In a survey of 1,500 businesses in the UK, France, and Germany, Proton found that with many having built their operations around a small number of US-based providers, they&amp;#8217;re worried that access to those platforms could be...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 1,500,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a4911b70cf4578a6</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 07 Aug 2026 23:08:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

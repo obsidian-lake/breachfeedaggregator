@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:50:31 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -289,19 +289,6 @@
       <pubDate>Thu, 06 Aug 2026 12:19:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence</title>
-      <link>https://therecord.media/belarus-hacker-ransomware-sentenced</link>
-      <description>A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 16 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/belarus-hacker-ransomware-sentenced</description>
-      <guid isPermaLink="false">obsidian-lake:item:a705dc9714c3a37b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Thu, 06 Aug 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Ransom Cartel Mastermind Sentenced to 16 Years in Prison</title>
       <link>https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/</link>
       <description>&lt;p&gt;The Belarusian cybercriminal behind the Ransom Cartel ransomware group has been sentenced to 16 years in prison for his role [&amp;#8230;]&lt;/p&gt;
@@ -314,19 +301,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 06 Aug 2026 16:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate</title>
-      <link>https://therecord.media/cyberattack-north-carolina-ports</link>
-      <description>North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/cyberattack-north-carolina-ports</description>
-      <guid isPermaLink="false">obsidian-lake:item:5dd921c4aae27210</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Thu, 06 Aug 2026 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Swiss government SharePoint breach compromised 200 accounts</title>
@@ -395,6 +369,19 @@
       <category>education</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 07 Aug 2026 13:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Military device manufacturer discloses cyber incident to SEC</title>
+      <link>https://therecord.media/military-device-manufacturer-discloses-cyber-incident</link>
+      <description>IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/military-device-manufacturer-discloses-cyber-incident</description>
+      <guid isPermaLink="false">obsidian-lake:item:92076282f4a5b15b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Fri, 07 Aug 2026 16:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

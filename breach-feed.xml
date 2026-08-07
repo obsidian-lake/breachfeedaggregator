@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:31:58 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] AmGen Announces Cyberattack and Data Breach Involving Patient Data</title>
-      <link>https://www.hipaajournal.com/amgen-cyberattack-data-breach/</link>
-      <description>&lt;p&gt;Amgen Inc., a Thousand Oaks, CA-based biopharmaceutical company that develops and manufactures pharmaceutical products for oncological, hematological, and cardiovascular diseases, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/amgen-cyberattack-data-breach/"&gt;AmGen Announces Cyberattack and Data Breach Involving Patient Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/amgen-cyberattack-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9fb083b1002d6bb6</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 03 Aug 2026 13:43:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Is Your Organization Ready for a HIPAA Security Incident?</title>
       <link>https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/</link>
       <description>&lt;p&gt;A HIPAA security risk assessment assesses threats to the privacy and security of PHI, the likelihood of a threat occurring, [&amp;#8230;]&lt;/p&gt;
@@ -231,34 +217,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 03 Aug 2026 15:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Swiss federal IT office hit by cyberattack</title>
-      <link>https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/</link>
-      <description>SwissInfo.ch reports: Following a cyberattack on the SharePoint servers operated by the Federal Office of Information Technology, Systems and Telecommunication (FOITT), access via the internet has been blocked for people outside the federal administration. Around 200 accounts were compromised in the incident. There are no indications of any further data breaches. The unknown attackers are...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:81aa45bdfdb0b514</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 04 Aug 2026 12:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Republican attorneys general urge OpenAI to preserve records on Hugging Face breach</title>
-      <link>https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/</link>
-      <description>Miranda Nazzaro reports: More than a dozen Republican attorneys general are calling on OpenAI to preserve records on its models’ recent breach of another company, suggesting the AI firm may have violated state or federal laws in the incident. In a letter sent Monday to OpenAI CEO Sam Altman, 15 attorneys general wrote the ChatGPT-maker may have...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0b1cc8f21edc1e08</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 04 Aug 2026 12:39:49 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Brown Health Medical Group-MA Data Breach Affects 312,000 Individuals</title>
@@ -384,7 +342,7 @@
       <pubDate>Thu, 06 Aug 2026 18:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June.</title>
+      <title>[BREACH · INFO] Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June. (1)</title>
       <link>https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/</link>
       <description>There have been approximately 4 dozen new threat actor groups targeting U.S. medical entities in the first half of 2026. One of them calls itself &amp;#8220;Orova.&amp;#8221; They have no &amp;#8220;About&amp;#8221; page or information about themselves on their dark web leak site, so seeing that they had recently listed two U.S. medical entities, DataBreaches contacted them...
 &lt;p&gt;&lt;a href="https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/"&gt;Source&lt;/a&gt;&lt;/p&gt;
@@ -396,6 +354,47 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 06 Aug 2026 19:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] North Carolina Ports confirms cyberattack disrupting operations</title>
+      <link>https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/</link>
+      <description>The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/</description>
+      <guid isPermaLink="false">obsidian-lake:item:13e5a320829d93e5</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 07 Aug 2026 13:34:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Unlimited Technology Systems Data Breach Affects 3.8 Million Patients</title>
+      <link>https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/</link>
+      <description>HIPAA Journal reports an update to the Unlimited Technology Systems breach that occurred between October 10 &amp;#8211; 15, 2025, and was discovered on October 19, 2025: On July 23, 2026, the HIPAA Journal reported on a data breach at Unlimited Technology Systems, a Montgomery, Ohio-based provider of revenue cycle management services. At the time, the...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,800,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9c4ef5b2ff24d810</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 07 Aug 2026 13:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] What Canvas learned from a massive cyberattack</title>
+      <link>https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/</link>
+      <description>Alcino Donadel reports: &amp;#8230;. Instructure, the edtech company behind learning management system Canvas, suffered one of the largest data breaches in the U.S. this year after cybercriminals gained access through a third-party vendor—an increasingly common occurrence in higher ed. Higher education’s more meditative, governed approach to technological change is useful for reviewing rigor and long-term quality assurance, Pendleton...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8ac301b2bb5948f1</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 07 Aug 2026 13:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

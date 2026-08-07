@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:23:50 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] CareCloud Notifies More Than 345,000 Patients About Cyberattack Data Theft</title>
-      <link>https://www.hipaajournal.com/carecloud-data-breach/</link>
-      <description>&lt;p&gt;CareCloud Inc., a Somerset, New Jersey-based provider of cloud-based and AI-powered EHR, RCM, PM, and clinical documentation solutions, has determined [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/carecloud-data-breach/"&gt;CareCloud Notifies More Than 345,000 Patients About Cyberattack Data Theft&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 345,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/carecloud-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ac5a20ea5c2c44f2</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 03 Aug 2026 06:19:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] AmGen Announces Cyberattack and Data Breach Involving Patient Data</title>
       <link>https://www.hipaajournal.com/amgen-cyberattack-data-breach/</link>
       <description>&lt;p&gt;Amgen Inc., a Thousand Oaks, CA-based biopharmaceutical company that develops and manufactures pharmaceutical products for oncological, hematological, and cardiovascular diseases, [&amp;#8230;]&lt;/p&gt;
@@ -303,6 +289,20 @@
       <pubDate>Wed, 05 Aug 2026 12:18:47 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · CRITICAL] Unlimited Technology Systems Data Breach Affects 3.8 Million Patients</title>
+      <link>https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</link>
+      <description>&lt;p&gt;On July 23, 2026, the HIPAA Journal reported on a data breach at Unlimited Technology Systems, a Montgomery, Ohio-based provider [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/"&gt;Unlimited Technology Systems Data Breach Affects 3.8 Million Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,800,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8f78e8291a8c02d8</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 06 Aug 2026 10:00:19 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · CRITICAL] Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</title>
       <link>https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/</link>
       <description>There is an update to the case of Maksim Silnikau, who was extradited from Poland to the U.S. in August 2024 to stand trial here.  Ionut Arghire reports: The Belarusian creator and administrator of the Ransom Cartel ransomware was sentenced to 16 years in prison in the US. Maksim Silnikau, 40, built the ransomware operation...
@@ -342,6 +342,60 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Thu, 06 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ransom Cartel Mastermind Sentenced to 16 Years in Prison</title>
+      <link>https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/</link>
+      <description>&lt;p&gt;The Belarusian cybercriminal behind the Ransom Cartel ransomware group has been sentenced to 16 years in prison for his role [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/"&gt;Ransom Cartel Mastermind Sentenced to 16 Years in Prison&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9a1deea1b9551ee9</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 06 Aug 2026 16:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate</title>
+      <link>https://therecord.media/cyberattack-north-carolina-ports</link>
+      <description>North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/cyberattack-north-carolina-ports</description>
+      <guid isPermaLink="false">obsidian-lake:item:5dd921c4aae27210</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Thu, 06 Aug 2026 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Swiss government SharePoint breach compromised 200 accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/</link>
+      <description>Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 200 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b858fc78ad958224</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Thu, 06 Aug 2026 18:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June.</title>
+      <link>https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/</link>
+      <description>There have been approximately 4 dozen new threat actor groups targeting U.S. medical entities in the first half of 2026. One of them calls itself &amp;#8220;Orova.&amp;#8221; They have no &amp;#8220;About&amp;#8221; page or information about themselves on their dark web leak site, so seeing that they had recently listed two U.S. medical entities, DataBreaches contacted them...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5a565b8257a7c404</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 06 Aug 2026 19:29:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

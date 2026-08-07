@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 19:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:41:03 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -382,6 +382,20 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Fri, 07 Aug 2026 16:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] City of Coweta hit with system-wide ransomware attack, has backup</title>
+      <link>https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/</link>
+      <description>KTUL in Oklahoma reports: The City of Coweta says they are currently responding to a ransomware attack. According to officials, on Werdnesday, August 5, the City experienced at system-wide attack and immediately contacted their contracted IT provider and additional cycbersecurity professionals to secure their systems to prevent any further intrusion and to begin a recovery...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1e01e283b6eebba5</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 07 Aug 2026 20:26:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

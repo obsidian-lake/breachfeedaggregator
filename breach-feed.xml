@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 23:29:00 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -259,20 +259,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 06 Aug 2026 10:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</title>
-      <link>https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/</link>
-      <description>There is an update to the case of Maksim Silnikau, who was extradited from Poland to the U.S. in August 2024 to stand trial here.  Ionut Arghire reports: The Belarusian creator and administrator of the Ransom Cartel ransomware was sentenced to 16 years in prison in the US. Maksim Silnikau, 40, built the ransomware operation...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 40,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5498a4b3aec84936</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 06 Aug 2026 12:11:40 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Settlements Resolve Data Breach Lawsuits Against McKenzie Health System &amp; Aspire Health Alliance</title>

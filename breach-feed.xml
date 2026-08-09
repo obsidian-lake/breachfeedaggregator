@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 13:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 14:06:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -313,20 +313,6 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 07 Aug 2026 13:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Unlimited Technology Systems Data Breach Affects 3.8 Million Patients</title>
-      <link>https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/</link>
-      <description>HIPAA Journal reports an update to the Unlimited Technology Systems breach that occurred between October 10 &amp;#8211; 15, 2025, and was discovered on October 19, 2025: On July 23, 2026, the HIPAA Journal reported on a data breach at Unlimited Technology Systems, a Montgomery, Ohio-based provider of revenue cycle management services. At the time, the...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,800,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/unlimited-technology-systems-data-breach-affects-3-8-million-patients/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9c4ef5b2ff24d810</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 07 Aug 2026 13:38:52 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] What Canvas learned from a massive cyberattack</title>

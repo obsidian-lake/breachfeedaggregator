@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:04:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -300,20 +300,6 @@
       <category>gov</category>
       <category>bleepingcomputer</category>
       <pubDate>Thu, 06 Aug 2026 18:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June. (1)</title>
-      <link>https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/</link>
-      <description>There have been approximately 4 dozen new threat actor groups targeting U.S. medical entities in the first half of 2026. One of them calls itself &amp;#8220;Orova.&amp;#8221; They have no &amp;#8220;About&amp;#8221; page or information about themselves on their dark web leak site, so seeing that they had recently listed two U.S. medical entities, DataBreaches contacted them...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5a565b8257a7c404</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 06 Aug 2026 19:29:26 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] North Carolina Ports confirms cyberattack disrupting operations</title>

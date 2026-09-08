@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 14:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:06:55 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -140,19 +140,6 @@
       <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</title>
-      <link>https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</link>
-      <description>The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
-
-// Category: breach // Severity: high // Sector: tech // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 3,000,000 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7cdaa10e2b283bad</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>tech</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 01 Sep 2025 21:55:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
       <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
@@ -205,169 +192,156 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Is Your Organization Ready for a HIPAA Security Incident?</title>
-      <link>https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/</link>
-      <description>&lt;p&gt;Is your organization ready for a HIPAA security incident? Completing a security risk assessment is essential for HIPAA compliance and can help identify vulnerabilities.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/"&gt;Is Your Organization Ready for a HIPAA Security Incident?&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] Five Healthcare Providers Report Ransomware-Related Data Breaches</title>
+      <link>https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/</link>
+      <description>&lt;p&gt;Data breaches have been confirmed by Alta Orthopaedics in California, Cornerstone Behavioral Healthcare in Maine, Cameron Regional Medical Center in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/"&gt;Five Healthcare Providers Report Ransomware-Related Data Breaches&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/is-your-organization-ready-for-a-hipaa-security-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:907af5b504306c29</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/</description>
+      <guid isPermaLink="false">obsidian-lake:item:fd111a16f3ad7b6d</guid>
       <category>breach</category>
       <category>info</category>
       <category>healthcare</category>
       <category>hipaajournal</category>
-      <pubDate>Mon, 03 Aug 2026 15:09:14 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 14:19:07 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] Brown Health Medical Group-MA Data Breach Affects 312,000 Individuals</title>
-      <link>https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/</link>
-      <description>&lt;p&gt;Lifespan Physicians Group of Massachusetts, doing business as Brown Health Medical Group-MA, has confirmed that the protected health information of [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/"&gt;Brown Health Medical Group-MA Data Breach Affects 312,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
+      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
+      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 312,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ed57c50f807e50f2</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 04 Sep 2026 06:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Midwest Spine and Brain Institute Impacted by Vendor Ransomware Attack</title>
+      <link>https://www.hipaajournal.com/midwest-spine-brain-institute-3c-care-systems-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Midwest Spine and Brain Institute, Brookhaven ENT Allergy and Facial Surgery, Digestive Disease Center [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/midwest-spine-brain-institute-3c-care-systems-breach/"&gt;Midwest Spine and Brain Institute Impacted by Vendor Ransomware Attack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/midwest-spine-brain-institute-3c-care-systems-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:54e0050bc0fd3726</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 04 Sep 2026 10:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Resource Center of Dallas Notifies 12,500 Patients About Cyber Incident</title>
+      <link>https://www.hipaajournal.com/resource-center-dallas-data-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Resource Center of Dallas, Kern Psychiatric Health and Wellness Center, The Asthma Center, Integrative [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/resource-center-dallas-data-breach/"&gt;Resource Center of Dallas Notifies 12,500 Patients About Cyber Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 12,500 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/resource-center-dallas-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b5d81ff8c0371636</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 04 Sep 2026 11:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Trezor data breach impact now reaches 81,000 customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/</link>
+      <description>Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]
+
+// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 81,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/</description>
+      <guid isPermaLink="false">obsidian-lake:item:043bf3ced982844d</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Mon, 07 Sep 2026 12:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] June 2026 Healthcare Data Breach Report</title>
+      <link>https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/</link>
+      <description>&lt;p&gt;In June 2026, 66 large healthcare data breaches – data breaches involving the protected health information of 500 or more [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/"&gt;June 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4d4418a8d1e53424</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 07 Sep 2026 13:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Luminis Health Working to Restore Systems After Cyberattack</title>
+      <link>https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/</link>
+      <description>&lt;p&gt;Luminis Health in Maryland is investigating a cyberattack that has taken certain systems offline. Data breaches have been announced by [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/"&gt;Luminis Health Working to Restore Systems After Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/</description>
+      <guid isPermaLink="false">obsidian-lake:item:50da58880a0c0697</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 07 Sep 2026 15:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] NFI North Data Breach Affects Almost 50,000 Individuals</title>
+      <link>https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/</link>
+      <description>&lt;p&gt;Data breaches have been announced by NFI North in New Hampshire, Nephrology Associates in Kansas, PAMCAH-UA Local 675 Health and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/"&gt;NFI North Data Breach Affects Almost 50,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 50,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a16213e3764ba439</guid>
       <category>breach</category>
       <category>medium</category>
       <category>healthcare</category>
       <category>hipaajournal</category>
-      <pubDate>Tue, 04 Aug 2026 14:10:21 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 10:00:53 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Data Breach Lawsuits Settled by Omni Healthcare &amp; Western Montana Clinic</title>
-      <link>https://www.hipaajournal.com/omni-healthcare-western-montana-clinic-data-breach-settlements/</link>
-      <description>&lt;p&gt;Settlements have been agreed to resolve class action data breach lawsuits against Omni Healthcare Financial Holdings and its subsidiaries, and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/omni-healthcare-western-montana-clinic-data-breach-settlements/"&gt;Data Breach Lawsuits Settled by Omni Healthcare &amp;#038; Western Montana Clinic&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] OneTouchPoint Agrees to Multi-Million Dollar Data Breach Settlement</title>
+      <link>https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/</link>
+      <description>&lt;p&gt;The Wisconsin mailing and printing vendor OneTouchPoint Corp. has agreed to settle class action litigation over a 2022 ransomware attack [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/"&gt;OneTouchPoint Agrees to Multi-Million Dollar Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/omni-healthcare-western-montana-clinic-data-breach-settlements/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2962e5db676b38e2</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:02c3bc94a2f12073</guid>
       <category>breach</category>
       <category>info</category>
       <category>healthcare</category>
       <category>hipaajournal</category>
-      <pubDate>Wed, 05 Aug 2026 12:18:47 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:58:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Unlimited Technology Systems Data Breach Affects 3.8 Million Patients</title>
-      <link>https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</link>
-      <description>&lt;p&gt;On July 23, 2026, the HIPAA Journal reported on a data breach at Unlimited Technology Systems, a Montgomery, Ohio-based provider [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/"&gt;Unlimited Technology Systems Data Breach Affects 3.8 Million Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] Everett, Massachusetts, closes City Hall after cybersecurity incident</title>
+      <link>https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/</link>
+      <description>DysruptionHub reports: Everett, Massachusetts, closed City Hall to the public Tuesday after a cybersecurity incident affected its internal network and technology systems, shifting most essential employees to another municipal building. The city said in a Monday announcement that it discovered the incident Sunday evening and began working with its technology team and cybersecurity professionals. It did not...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,800,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/patient-data-exposed-ohio-revenue-cycle-management-company/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8f78e8291a8c02d8</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 06 Aug 2026 10:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Settlements Resolve Data Breach Lawsuits Against McKenzie Health System &amp; Aspire Health Alliance</title>
-      <link>https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/</link>
-      <description>&lt;p&gt;Settlements have been agreed to resolve class action data breach lawsuits against McKenzie Health System in Michigan and Aspire Health [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/"&gt;Settlements Resolve Data Breach Lawsuits Against McKenzie Health System &amp;#038; Aspire Health Alliance&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e85b2910481994e0</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 06 Aug 2026 12:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ransom Cartel Mastermind Sentenced to 16 Years in Prison</title>
-      <link>https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/</link>
-      <description>&lt;p&gt;The Belarusian cybercriminal behind the Ransom Cartel ransomware group has been sentenced to 16 years in prison for his role [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/"&gt;Ransom Cartel Mastermind Sentenced to 16 Years in Prison&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9a1deea1b9551ee9</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 06 Aug 2026 16:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Swiss government SharePoint breach compromised 200 accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/</link>
-      <description>Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 200 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b858fc78ad958224</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:38e8902aef3f5835</guid>
       <category>breach</category>
       <category>info</category>
       <category>gov</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 06 Aug 2026 18:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] North Carolina Ports confirms cyberattack disrupting operations</title>
-      <link>https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/</link>
-      <description>The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/</description>
-      <guid isPermaLink="false">obsidian-lake:item:13e5a320829d93e5</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 07 Aug 2026 13:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] What Canvas learned from a massive cyberattack</title>
-      <link>https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/</link>
-      <description>Alcino Donadel reports: &amp;#8230;. Instructure, the edtech company behind learning management system Canvas, suffered one of the largest data breaches in the U.S. this year after cybercriminals gained access through a third-party vendor—an increasingly common occurrence in higher ed. Higher education’s more meditative, governed approach to technological change is useful for reviewing rigor and long-term quality assurance, Pendleton...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8ac301b2bb5948f1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>education</category>
       <category>databreaches.net</category>
-      <pubDate>Fri, 07 Aug 2026 13:39:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 13:51:57 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Military device manufacturer discloses cyber incident to SEC</title>
-      <link>https://therecord.media/military-device-manufacturer-discloses-cyber-incident</link>
-      <description>IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.
+      <title>[SURVEILLANCE] Where the backlash against Flock Safety is having the biggest impact</title>
+      <link>https://therecord.media/flock-safety-backlash-places-with-biggest-impact</link>
+      <description>Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs).
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/military-device-manufacturer-discloses-cyber-incident</description>
-      <guid isPermaLink="false">obsidian-lake:item:92076282f4a5b15b</guid>
-      <category>breach</category>
+// Category: surveillance // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/flock-safety-backlash-places-with-biggest-impact</description>
+      <guid isPermaLink="false">obsidian-lake:item:6e2837cb92bb1eb7</guid>
+      <category>surveillance</category>
       <category>info</category>
       <category>other</category>
       <category>therecord</category>
-      <pubDate>Fri, 07 Aug 2026 16:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] City of Coweta hit with system-wide ransomware attack, has backup</title>
-      <link>https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/</link>
-      <description>KTUL in Oklahoma reports: The City of Coweta says they are currently responding to a ransomware attack. According to officials, on Werdnesday, August 5, the City experienced at system-wide attack and immediately contacted their contracted IT provider and additional cycbersecurity professionals to secure their systems to prevent any further intrusion and to begin a recovery...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1e01e283b6eebba5</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 07 Aug 2026 20:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] US cloud ‘kill switch’ is as dangerous as ransomware, European businesses fear</title>
-      <link>https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/</link>
-      <description>Emma Woollacott reports: European firms are more concerned about a potential US government-imposed &amp;#8216;kill switch&amp;#8217; for cloud services than almost anything else. In a survey of 1,500 businesses in the UK, France, and Germany, Proton found that with many having built their operations around a small number of US-based providers, they&amp;#8217;re worried that access to those platforms could be...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 1,500,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a4911b70cf4578a6</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 07 Aug 2026 23:08:16 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 14:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

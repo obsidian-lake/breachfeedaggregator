@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 05:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:00:10 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Five Healthcare Providers Report Ransomware-Related Data Breaches</title>
-      <link>https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/</link>
-      <description>&lt;p&gt;Data breaches have been confirmed by Alta Orthopaedics in California, Cornerstone Behavioral Healthcare in Maine, Cameron Regional Medical Center in [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/"&gt;Five Healthcare Providers Report Ransomware-Related Data Breaches&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/</description>
-      <guid isPermaLink="false">obsidian-lake:item:fd111a16f3ad7b6d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 03 Sep 2026 14:19:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
       <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
       <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -329,6 +315,20 @@
       <category>gov</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 08 Sep 2026 16:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Boston Scientific Unlikely to Meet 2026 Sales and Profit Forecast Due to Cyberattack</title>
+      <link>https://www.hipaajournal.com/boston-scientific-cyberattack/</link>
+      <description>&lt;p&gt;It has been two weeks since a cyberattack on the Massachusetts-based medical device manufacturer Boston Scientific prevented access to critical [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/boston-scientific-cyberattack/"&gt;Boston Scientific Unlikely to Meet 2026 Sales and Profit Forecast Due to Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/boston-scientific-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:281cdf8cec7729f1</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 09 Sep 2026 07:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:09:45 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Lumexa Imaging Data Breach Affected 5.8 Million Individuals</title>
-      <link>https://www.hipaajournal.com/data-breaches-lumexa-imaging-fmrs-health-systems/</link>
-      <description>&lt;p&gt;The diagnostic imaging service provider Lumexa Imaging has been affected by a security incident involving one of its vendors. FMRS [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-lumexa-imaging-fmrs-health-systems/"&gt;Lumexa Imaging Data Breach Affected 5.8 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 5,800,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-lumexa-imaging-fmrs-health-systems/</description>
-      <guid isPermaLink="false">obsidian-lake:item:722bf0fb1cb9f9b1</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 07 Sep 2026 10:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] June 2026 Healthcare Data Breach Report</title>
-      <link>https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/</link>
-      <description>&lt;p&gt;In June 2026, 66 large healthcare data breaches – data breaches involving the protected health information of 500 or more [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/"&gt;June 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4d4418a8d1e53424</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 07 Sep 2026 13:07:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Luminis Health Working to Restore Systems After Cyberattack</title>
-      <link>https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/</link>
-      <description>&lt;p&gt;Luminis Health in Maryland is investigating a cyberattack that has taken certain systems offline. Data breaches have been announced by [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/"&gt;Luminis Health Working to Restore Systems After Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/</description>
-      <guid isPermaLink="false">obsidian-lake:item:50da58880a0c0697</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 07 Sep 2026 15:23:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] NFI North Data Breach Affects Almost 50,000 Individuals</title>
       <link>https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/</link>
       <description>&lt;p&gt;Data breaches have been announced by NFI North in New Hampshire, Nephrology Associates in Kansas, PAMCAH-UA Local 675 Health and [&amp;#8230;]&lt;/p&gt;
@@ -359,6 +317,20 @@
       <pubDate>Thu, 10 Sep 2026 10:00:09 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · HIGH] AdaptHealth Data Breach Affects 4.1 Million Individuals</title>
+      <link>https://www.hipaajournal.com/adapthealth-data-breach/</link>
+      <description>&lt;p&gt;In early July, we reported that AdaptHealth had notified the U.S. Securities and Exchange Commission that it had experienced a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/adapthealth-data-breach/"&gt;AdaptHealth Data Breach Affects 4.1 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,099,999 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/adapthealth-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:207c2eacc0b903ca</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 10 Sep 2026 11:07:59 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] FTC Withdraws Obsolete Policy Statement</title>
       <link>https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/</link>
       <description>From the Federal Trade Commission: The Federal Trade Commission rescinded the 2021 Policy Statement on Breaches by Health Apps and Other Connected Devices. This controversial policy statement purported to apply the FTC’s Health Breach Notification Rule to health apps and connected devices that collect consumer health information. In 2024, however, the Commission updated the Health Breach Notification...
@@ -371,6 +343,20 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 10 Sep 2026 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Veradigm Discloses Third Party Data Breach as Hackers Threaten to Publish Data</title>
+      <link>https://www.hipaajournal.com/veradigm-data-breach-2026/</link>
+      <description>&lt;p&gt;The Chicago, Illinois-based practice management and electronic health record company Veradigm (formerly Allscripts Healthcare Solutions) has disclosed a cybersecurity incident in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/veradigm-data-breach-2026/"&gt;Veradigm Discloses Third Party Data Breach as Hackers Threaten to Publish Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/veradigm-data-breach-2026/</description>
+      <guid isPermaLink="false">obsidian-lake:item:413f8188de5e057a</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 10 Sep 2026 16:43:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

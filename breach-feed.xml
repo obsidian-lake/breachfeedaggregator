@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:58:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -302,6 +302,20 @@
       <category>education</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 09 Sep 2026 12:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CO: Cyberattack damages files at Salida School District in Colorado</title>
+      <link>https://databreaches.net/2026/09/09/co-cyberattack-damages-files-at-salida-school-district-in-colorado/</link>
+      <description>DysruptionHub reports: A cyberattack forced Salida School District in Colorado to shut down its network June 29, damaging locally stored files and disrupting administrative operations, the district said. The attack began about 6:30 a.m. and was detected two hours later, according to a July 2 district notice. Officials took all systems offline and brought in specialists...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/09/co-cyberattack-damages-files-at-salida-school-district-in-colorado/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/09/co-cyberattack-damages-files-at-salida-school-district-in-colorado/</description>
+      <guid isPermaLink="false">obsidian-lake:item:c4b9ad904b568442</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 09 Sep 2026 23:55:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

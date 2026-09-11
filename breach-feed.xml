@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:43:21 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] NFI North Data Breach Affects Almost 50,000 Individuals</title>
-      <link>https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/</link>
-      <description>&lt;p&gt;Data breaches have been announced by NFI North in New Hampshire, Nephrology Associates in Kansas, PAMCAH-UA Local 675 Health and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/"&gt;NFI North Data Breach Affects Almost 50,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 50,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a16213e3764ba439</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 08 Sep 2026 10:00:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] OneTouchPoint Agrees to Multi-Million Dollar Data Breach Settlement</title>
       <link>https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/</link>
       <description>&lt;p&gt;The Wisconsin mailing and printing vendor OneTouchPoint Corp. has agreed to settle class action litigation over a 2022 ransomware attack [&amp;#8230;]&lt;/p&gt;
@@ -357,6 +343,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 10 Sep 2026 16:43:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Central Maine Medical Center &amp; Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits</title>
+      <link>https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/</link>
+      <description>&lt;p&gt;Central Maine Medical Center &amp;#38; Susan B. Allen Memorial Hospital have agreed to settle class action lawsuits stemming from data [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/"&gt;Central Maine Medical Center &amp;#038; Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/</description>
+      <guid isPermaLink="false">obsidian-lake:item:05b43da569e71eb4</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 11 Sep 2026 10:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison</title>
+      <link>https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/</link>
+      <description>&lt;p&gt;Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/"&gt;Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,023 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d47e5e5816669a83</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 11 Sep 2026 11:29:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

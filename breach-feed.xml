@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:06:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Everett, Massachusetts, closes City Hall after cybersecurity incident</title>
-      <link>https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/</link>
-      <description>DysruptionHub reports: Everett, Massachusetts, closed City Hall to the public Tuesday after a cybersecurity incident affected its internal network and technology systems, shifting most essential employees to another municipal building. The city said in a Monday announcement that it discovered the incident Sunday evening and began working with its technology team and cybersecurity professionals. It did not...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:38e8902aef3f5835</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 08 Sep 2026 13:51:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] “Network outage” disrupts Westfield Public Schools in New Jersey as ransomware group posts samples</title>
       <link>https://databreaches.net/2026/09/09/network-outage-disrupts-westfield-public-schools-in-new-jersey-as-ransomware-group-posts-samples/</link>
       <description>Joseph Topping reports: Westfield Public Schools in New Jersey kept classrooms open during a districtwide network outage that disrupted communications and digital instruction throughout the first week of school. The district initially attributed the outage to equipment failure. “We have confirmed that a networking hardware failure caused the disruption across all district schools and offices,”...
@@ -329,6 +315,33 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] TX: Two Lamesa ISD employees arrested over security breach</title>
+      <link>https://databreaches.net/2026/09/11/tx-two-lamesa-isd-employees-arrested-over-security-breach/</link>
+      <description>Urijah Jaushlin reports: Two Lamesa ISD employees were arrested in connection with a law enforcement investigation involving allegations of a breach of computer security, according to a press release by the Lamesa Independent School District Friday morning. The Lamesa Police Department announced in a press release that authorities, along with the Texas Rangers, arrested 54-year-old...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/11/tx-two-lamesa-isd-employees-arrested-over-security-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/11/tx-two-lamesa-isd-employees-arrested-over-security-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ee71d6dcd5749f31</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 11 Sep 2026 18:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Florida confirms DMV database breached via stolen police account</title>
+      <link>https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/</link>
+      <description>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/</description>
+      <guid isPermaLink="false">obsidian-lake:item:2d3040feefdbd103</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 11 Sep 2026 19:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

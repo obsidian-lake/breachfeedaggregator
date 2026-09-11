@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:00:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] OneTouchPoint Agrees to Multi-Million Dollar Data Breach Settlement</title>
-      <link>https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/</link>
-      <description>&lt;p&gt;The Wisconsin mailing and printing vendor OneTouchPoint Corp. has agreed to settle class action litigation over a 2022 ransomware attack [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/"&gt;OneTouchPoint Agrees to Multi-Million Dollar Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/onetouchpoint-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:02c3bc94a2f12073</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 08 Sep 2026 12:58:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Everett, Massachusetts, closes City Hall after cybersecurity incident</title>
       <link>https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/</link>
       <description>DysruptionHub reports: Everett, Massachusetts, closed City Hall to the public Tuesday after a cybersecurity incident affected its internal network and technology systems, shifting most essential employees to another municipal building. The city said in a Monday announcement that it discovered the incident Sunday evening and began working with its technology team and cybersecurity professionals. It did not...
@@ -218,34 +204,6 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 08 Sep 2026 13:51:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Boston Scientific Unlikely to Meet 2026 Sales and Profit Forecast Due to Cyberattack</title>
-      <link>https://www.hipaajournal.com/boston-scientific-cyberattack/</link>
-      <description>&lt;p&gt;It has been two weeks since a cyberattack on the Massachusetts-based medical device manufacturer Boston Scientific prevented access to critical [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/boston-scientific-cyberattack/"&gt;Boston Scientific Unlikely to Meet 2026 Sales and Profit Forecast Due to Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/boston-scientific-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:281cdf8cec7729f1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 09 Sep 2026 07:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Two Ransomware Groups Claim Attacks on Nationwide Home Healthcare Provider</title>
-      <link>https://www.hipaajournal.com/interim-healthcare-ransomware/</link>
-      <description>&lt;p&gt;Two ransomware groups have claimed attacks on the home health care provider Interim Healthcare. Data breaches have been announced by [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/interim-healthcare-ransomware/"&gt;Two Ransomware Groups Claim Attacks on Nationwide Home Healthcare Provider&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/interim-healthcare-ransomware/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9b3eb06d9c5a7b98</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 09 Sep 2026 10:00:20 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] “Network outage” disrupts Westfield Public Schools in New Jersey as ransomware group posts samples</title>
@@ -274,19 +232,6 @@
       <category>education</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 09 Sep 2026 23:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA: WatchGuard RCE flaw now exploited in ransomware attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</description>
-      <guid isPermaLink="false">obsidian-lake:item:bbb939abc19b7757</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 10 Sep 2026 09:10:20 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Medical Groups Settle Class Action Data Breach Lawsuits</title>
@@ -371,6 +316,19 @@
       <category>tech</category>
       <category>securityweek</category>
       <pubDate>Fri, 11 Sep 2026 11:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ukrainian hacker gets four years in US prison over Conti ransomware attacks</title>
+      <link>https://therecord.media/conti-ransomware-ukraine-hacker</link>
+      <description>A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,022 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/conti-ransomware-ukraine-hacker</description>
+      <guid isPermaLink="false">obsidian-lake:item:aaf6e13c3e8bd994</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

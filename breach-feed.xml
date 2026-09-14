@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:42:06 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -220,20 +220,6 @@
       <pubDate>Thu, 10 Sep 2026 11:07:59 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] FTC Withdraws Obsolete Policy Statement</title>
-      <link>https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/</link>
-      <description>From the Federal Trade Commission: The Federal Trade Commission rescinded the 2021 Policy Statement on Breaches by Health Apps and Other Connected Devices. This controversial policy statement purported to apply the FTC’s Health Breach Notification Rule to health apps and connected devices that collect consumer health information. In 2024, however, the Commission updated the Health Breach Notification...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6e230ca9bce0166a</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 10 Sep 2026 13:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Veradigm Discloses Third Party Data Breach as Hackers Threaten to Publish Data</title>
       <link>https://www.hipaajournal.com/veradigm-data-breach-2026/</link>
       <description>&lt;p&gt;The Chicago, Illinois-based practice management and electronic health record company Veradigm (formerly Allscripts Healthcare Solutions) has disclosed a cybersecurity incident in [&amp;#8230;]&lt;/p&gt;
@@ -260,33 +246,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 11 Sep 2026 10:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison</title>
-      <link>https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/</link>
-      <description>&lt;p&gt;Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/"&gt;Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,023 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d47e5e5816669a83</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 11 Sep 2026 11:29:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ukrainian hacker gets four years in US prison over Conti ransomware attacks</title>
-      <link>https://therecord.media/conti-ransomware-ukraine-hacker</link>
-      <description>A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,022 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/conti-ransomware-ukraine-hacker</description>
-      <guid isPermaLink="false">obsidian-lake:item:aaf6e13c3e8bd994</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] TX: Two Lamesa ISD employees arrested over security breach</title>
@@ -341,6 +300,20 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Sun, 13 Sep 2026 14:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Conti Ransomware Member Sentenced to 4 Years in Jail</title>
+      <link>https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/</link>
+      <description>&lt;p&gt;A Ukrainian national who deployed Conti ransomware on the networks of at least 12 organizations in the United States and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/"&gt;Conti Ransomware Member Sentenced to 4 Years in Jail&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/</description>
+      <guid isPermaLink="false">obsidian-lake:item:871d8735e3a5fb3b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 14 Sep 2026 12:46:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

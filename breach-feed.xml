@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:43:48 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Veradigm Discloses Third Party Data Breach as Hackers Threaten to Publish Data</title>
-      <link>https://www.hipaajournal.com/veradigm-data-breach-2026/</link>
-      <description>&lt;p&gt;The Chicago, Illinois-based practice management and electronic health record company Veradigm (formerly Allscripts Healthcare Solutions) has disclosed a cybersecurity incident in [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/veradigm-data-breach-2026/"&gt;Veradigm Discloses Third Party Data Breach as Hackers Threaten to Publish Data&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/veradigm-data-breach-2026/</description>
-      <guid isPermaLink="false">obsidian-lake:item:413f8188de5e057a</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 10 Sep 2026 16:43:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Central Maine Medical Center &amp; Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits</title>
       <link>https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/</link>
       <description>&lt;p&gt;Central Maine Medical Center &amp;#38; Susan B. Allen Memorial Hospital have agreed to settle class action lawsuits stemming from data [&amp;#8230;]&lt;/p&gt;
@@ -344,18 +330,18 @@
       <pubDate>Tue, 15 Sep 2026 14:29:31 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data</title>
-      <link>https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/</link>
-      <description>&lt;p&gt;A hacker claims to have stolen 7.5 million customer records after breaching the company’s systems.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/"&gt;Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · MEDIUM] xHealth Data Breach Affects 118,000 Individuals</title>
+      <link>https://www.hipaajournal.com/xhealth-data-breach/</link>
+      <description>&lt;p&gt;A data breach at zHealth, a practice management and EHR software provider, has affected 118,000 individuals. Data breaches have also [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/xhealth-data-breach/"&gt;xHealth Data Breach Affects 118,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 7,500,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2f8144217570e8c5</guid>
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 118,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/xhealth-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e5fe48cd0ffd4473</guid>
       <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Tue, 15 Sep 2026 15:30:24 +0000</pubDate>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 16 Sep 2026 08:40:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

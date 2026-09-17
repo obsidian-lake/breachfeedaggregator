@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:30:24 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Central Maine Medical Center &amp; Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits</title>
-      <link>https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/</link>
-      <description>&lt;p&gt;Central Maine Medical Center &amp;#38; Susan B. Allen Memorial Hospital have agreed to settle class action lawsuits stemming from data [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/"&gt;Central Maine Medical Center &amp;#038; Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/</description>
-      <guid isPermaLink="false">obsidian-lake:item:05b43da569e71eb4</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 11 Sep 2026 10:00:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Conti Ransomware Member Sentenced to 4 Years in Jail</title>
       <link>https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/</link>
       <description>&lt;p&gt;A Ukrainian national who deployed Conti ransomware on the networks of at least 12 organizations in the United States and [&amp;#8230;]&lt;/p&gt;
@@ -246,20 +232,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 14 Sep 2026 15:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Possible cyber incident disrupts Monroe schools in Wisconsin</title>
-      <link>https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/</link>
-      <description>Joseph Topping reports an incident at the School District of Monroe in Wisconsin has resulted in the district pulling the plug on internet connections: Students powered down computers, school phone service failed and a scheduled ACT session was canceled after a possible network security issue disrupted the School District of Monroe in Wisconsin. Classes continued...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/</description>
-      <guid isPermaLink="false">obsidian-lake:item:02b99bb8826495ef</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>education</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 14 Sep 2026 17:44:59 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage</title>
@@ -304,17 +276,46 @@
       <pubDate>Wed, 16 Sep 2026 08:40:08 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’</title>
-      <link>https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi</link>
-      <description>U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems," after an apparent cyberattack, the U.S. Coast Guard said.
+      <title>[BREACH · CRITICAL] Hacking Group Claims Attack on Cedar County Memorial Hospital</title>
+      <link>https://www.hipaajournal.com/cyberattack-cedar-county-memorial-hospital/</link>
+      <description>&lt;p&gt;A hacking group has claimed responsibility for an August 2026 cyberattack on Cedar County Memorial Hospital in Missouri. Hacking-related data [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cyberattack-cedar-county-memorial-hospital/"&gt;Hacking Group Claims Attack on Cedar County Memorial Hospital&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi</description>
-      <guid isPermaLink="false">obsidian-lake:item:196e7767b2abd743</guid>
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cyberattack-cedar-county-memorial-hospital/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9a061fe3dac28263</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 17 Sep 2026 15:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Brevard Skin and Cancer Center Settles Class Action Complaint</title>
+      <link>https://www.hipaajournal.com/brevard-skin-cancer-center-data-breach-settlement/</link>
+      <description>&lt;p&gt;The Florida dermatology practice, Brevard Skin and Cancer Center, has agreed to a settlement to resolve class action litigation stemming [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/brevard-skin-cancer-center-data-breach-settlement/"&gt;Brevard Skin and Cancer Center Settles Class Action Complaint&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/brevard-skin-cancer-center-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8eded2d343b1f07b</guid>
       <category>breach</category>
       <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Wed, 16 Sep 2026 18:46:00 +0000</pubDate>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 17 Sep 2026 15:55:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Modernizing Medicine Agrees to $3M Data Breach Settlement</title>
+      <link>https://www.hipaajournal.com/modernizing-medicine-data-breach-settlement/</link>
+      <description>&lt;p&gt;Modernizing Medicine, a Boca Raton, Florida-based company that provides cloud-based, AI-powered software and electronic health record systems for healthcare providers, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/modernizing-medicine-data-breach-settlement/"&gt;Modernizing Medicine Agrees to $3M Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000 // $ (est.): $3,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/modernizing-medicine-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d25840db78208bd2</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 17 Sep 2026 16:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

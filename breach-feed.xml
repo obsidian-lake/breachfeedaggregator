@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:26:56 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Hacking Incident Affects 46,000 Hawaii Family Dental Patients</title>
-      <link>https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/</link>
-      <description>&lt;p&gt;A hacking incident at Hawaii Family Dental has affected almost 46,000 individuals. Data breaches have also been announced by Life [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/"&gt;Hacking Incident Affects 46,000 Hawaii Family Dental Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 46,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4ced868b45a789f4</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 14 Sep 2026 15:27:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage</title>
       <link>https://databreaches.net/2026/09/15/ransomware-group-claims-attack-on-missouris-cedar-county-memorial-hospital-after-it-outage/</link>
       <description>DysruptionHub reports: Cedar County Memorial Hospital in El Dorado Springs, Missouri, shut down its IT networks Aug. 14 after a disruption left its electronic health record, patient portal and internet access unavailable. The outage also disrupted diagnostic imaging. Hospital systems could not transmit images to radiologists, so the emergency department partially diverted trauma and critical...
@@ -302,6 +288,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 18 Sep 2026 06:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Settlement Resolves Class Action Data Breach Complaint Against Community Dental Care</title>
+      <link>https://www.hipaajournal.com/community-dental-care-data-breach-settlement/</link>
+      <description>&lt;p&gt;Community Dental Care, a nonprofit Medicaid dental provider in the state of Minnesota, has agreed to settle class action litigation [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/community-dental-care-data-breach-settlement/"&gt;Settlement Resolves Class Action Data Breach Complaint Against Community Dental Care&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/community-dental-care-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9e17d0a3f864fc9b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 18 Sep 2026 10:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

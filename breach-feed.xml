@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 03:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:50:13 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Conti Ransomware Member Sentenced to 4 Years in Jail</title>
-      <link>https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/</link>
-      <description>&lt;p&gt;A Ukrainian national who deployed Conti ransomware on the networks of at least 12 organizations in the United States and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/"&gt;Conti Ransomware Member Sentenced to 4 Years in Jail&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/</description>
-      <guid isPermaLink="false">obsidian-lake:item:871d8735e3a5fb3b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 14 Sep 2026 12:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FTC Rescinds 2021 Policy Statement on Health App Data Breaches</title>
-      <link>https://www.hipaajournal.com/ftc-rescinds-policy-statement-health-app-data-breaches/</link>
-      <description>&lt;p&gt;In September 2021, the U.S. Federal Trade Commission (FTC) issued a policy statement extending the FTC Health Breach Notification Rule [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ftc-rescinds-policy-statement-health-app-data-breaches/"&gt;FTC Rescinds 2021 Policy Statement on Health App Data Breaches&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ftc-rescinds-policy-statement-health-app-data-breaches/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0488257c389122c5</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 14 Sep 2026 14:24:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Hacking Incident Affects 46,000 Hawaii Family Dental Patients</title>
       <link>https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/</link>
       <description>&lt;p&gt;A hacking incident at Hawaii Family Dental has affected almost 46,000 individuals. Data breaches have also been announced by Life [&amp;#8230;]&lt;/p&gt;
@@ -316,6 +288,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 17 Sep 2026 16:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] McKesson Cyberattack: Stolen Data Includes 6.4 Million Unique Email Addresses</title>
+      <link>https://www.hipaajournal.com/mckesson-data-breach/</link>
+      <description>&lt;p&gt;McKesson, a major U.S. wholesale medical supplies &amp;#38; equipment, pharmaceutical distribution, and healthcare technology solutions company, continues to investigate a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mckesson-data-breach/"&gt;McKesson Cyberattack: Stolen Data Includes 6.4 Million Unique Email Addresses&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 6,400,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mckesson-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1f39e9dd41a25b79</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 18 Sep 2026 06:03:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

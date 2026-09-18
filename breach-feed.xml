@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:09:35 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -204,34 +204,6 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 15 Sep 2026 11:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Nationwide Home Health Care Provider Announces Major Data Breach</title>
-      <link>https://www.hipaajournal.com/lhc-group-data-breach/</link>
-      <description>&lt;p&gt;Data breaches have been reported by the Louisiana-based home health service provider LHC Group, Provident Behavioral Health in Missouri, Elixir [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/lhc-group-data-breach/"&gt;Nationwide Home Health Care Provider Announces Major Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/lhc-group-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:10dcb9cdb52ffd5a</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 15 Sep 2026 14:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] xHealth Data Breach Affects 118,000 Individuals</title>
-      <link>https://www.hipaajournal.com/xhealth-data-breach/</link>
-      <description>&lt;p&gt;A data breach at zHealth, a practice management and EHR software provider, has affected 118,000 individuals. Data breaches have also [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/xhealth-data-breach/"&gt;xHealth Data Breach Affects 118,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 118,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/xhealth-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e5fe48cd0ffd4473</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 16 Sep 2026 08:40:08 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Hacking Group Claims Attack on Cedar County Memorial Hospital</title>

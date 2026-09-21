@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T10:58:41.281264+00:00",
-  "records_exposed": 363330435012,
-  "pii_records": 9424690,
+  "generated_at": "2026-09-21T16:57:48.650622+00:00",
+  "records_exposed": 363330443242,
+  "pii_records": 9432920,
   "dollars_lost": 3000000,
-  "items_total": 22,
-  "items_breach": 22,
+  "items_total": 23,
+  "items_breach": 23,
   "items_surveillance": 0,
   "sources_count": 9
 }

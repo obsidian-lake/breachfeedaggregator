@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 23:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:51:02 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -316,6 +316,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 21 Sep 2026 15:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] US Proposes AI Incident Alert System in Talks With China, Bessent Says</title>
+      <link>https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</link>
+      <description>&lt;p&gt;Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/"&gt;US Proposes AI Incident Alert System in Talks With China, Bessent Says&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b8be2a67e661a338</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Tue, 22 Sep 2026 02:01:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

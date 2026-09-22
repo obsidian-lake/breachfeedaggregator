@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:07:06 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Hacking Group Claims Attack on Cedar County Memorial Hospital</title>
-      <link>https://www.hipaajournal.com/cyberattack-cedar-county-memorial-hospital/</link>
-      <description>&lt;p&gt;A hacking group has claimed responsibility for an August 2026 cyberattack on Cedar County Memorial Hospital in Missouri. Hacking-related data [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cyberattack-cedar-county-memorial-hospital/"&gt;Hacking Group Claims Attack on Cedar County Memorial Hospital&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cyberattack-cedar-county-memorial-hospital/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9a061fe3dac28263</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 17 Sep 2026 15:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Brevard Skin and Cancer Center Settles Class Action Complaint</title>
-      <link>https://www.hipaajournal.com/brevard-skin-cancer-center-data-breach-settlement/</link>
-      <description>&lt;p&gt;The Florida dermatology practice, Brevard Skin and Cancer Center, has agreed to a settlement to resolve class action litigation stemming [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/brevard-skin-cancer-center-data-breach-settlement/"&gt;Brevard Skin and Cancer Center Settles Class Action Complaint&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/brevard-skin-cancer-center-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8eded2d343b1f07b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 17 Sep 2026 15:55:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Modernizing Medicine Agrees to $3M Data Breach Settlement</title>
-      <link>https://www.hipaajournal.com/modernizing-medicine-data-breach-settlement/</link>
-      <description>&lt;p&gt;Modernizing Medicine, a Boca Raton, Florida-based company that provides cloud-based, AI-powered software and electronic health record systems for healthcare providers, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/modernizing-medicine-data-breach-settlement/"&gt;Modernizing Medicine Agrees to $3M Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000 // $ (est.): $3,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/modernizing-medicine-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d25840db78208bd2</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 17 Sep 2026 16:03:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] McKesson Cyberattack: Stolen Data Includes 6.4 Million Unique Email Addresses</title>
       <link>https://www.hipaajournal.com/mckesson-data-breach/</link>
       <description>&lt;p&gt;McKesson, a major U.S. wholesale medical supplies &amp;#38; equipment, pharmaceutical distribution, and healthcare technology solutions company, continues to investigate a [&amp;#8230;]&lt;/p&gt;
@@ -343,6 +301,48 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 22 Sep 2026 08:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Early Scattered Spider member pleads guilty to cybercrime spree</title>
+      <link>https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/</link>
+      <description>Matt Kapko reports: Another core member of the hacker subset of The Com involved in a spree of extortion attacks from at least 2021 to 2023 pleaded guilty to federal charges, according to court records released Tuesday. Ahmed Hossam Eldin Elbadawy, a 24-year-old from Texas, pleaded guilty exactly one year ago to wire fraud conspiracy...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Scattered Spider // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/</description>
+      <guid isPermaLink="false">obsidian-lake:item:945de1da28f8e189</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 22 Sep 2026 13:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Albany College of Pharmacy and Health Sciences Data Breach Settlement</title>
+      <link>https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/</link>
+      <description>&lt;p&gt;Albany College of Pharmacy and Health Sciences in New York State has agreed to settle a class action lawsuit stemming [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/"&gt;Albany College of Pharmacy and Health Sciences Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6868c188a8931034</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 22 Sep 2026 13:40:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Call-on-Doc Notifies Patients About December 2025 Hacking Incident</title>
+      <link>https://www.hipaajournal.com/call-on-doc-data-breach/</link>
+      <description>&lt;p&gt;The telemedicine platform operator Call-on-Doc has notified patients about a December 2025 cyberattack and data breach. Data breaches have also [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/call-on-doc-data-breach/"&gt;Call-on-Doc Notifies Patients About December 2025 Hacking Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Call-on-Doc // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/call-on-doc-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:bb0dd452f935ec04</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 22 Sep 2026 13:50:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

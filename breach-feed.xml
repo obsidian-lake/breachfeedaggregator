@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 03:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:05:46 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -330,6 +330,19 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Tue, 22 Sep 2026 02:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA orders feds to patch Zyxel flaw exploited for data theft</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</link>
+      <description>​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,900 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3ddf58e86effeea4</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 22 Sep 2026 08:53:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

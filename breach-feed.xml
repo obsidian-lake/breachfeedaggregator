@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 18:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:33:53 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -220,20 +220,6 @@
       <pubDate>Fri, 18 Sep 2026 10:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] The U.S. military leaked more than 93,000 tips via insecure P3 Global Intel. Has anyone been notified?</title>
-      <link>https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified/</link>
-      <description>As part of DataBreaches.net&amp;#8217;s ongoing investigation into the Navigate360 breach, this report covers approximately 94,000 unclassified but sensitive tips submitted through P3 Global Intel apps and websites used by the military. What has Homeland Security done in response to the breach?  When the Navigate360 breach first broke, DDoSecrets.org called it &amp;#8220;BlueLeaks 2.0&amp;#8221; because of the...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 360,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified/</description>
-      <guid isPermaLink="false">obsidian-lake:item:482c0f81c7300a76</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 18 Sep 2026 19:56:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Foreign actors breach Colorado water systems</title>
       <link>https://databreaches.net/2026/09/18/foreign-actors-breach-colorado-water-systems/</link>
       <description>Alayna Alvarez reports: Foreign actors last month breached two small Colorado water utilities and manipulated equipment used to control drinking water systems. The two privately owned utilities, each serving fewer than 200 people, were breached in late August, Gov. Jared Polis&amp;#8217; office told Axios. The hackers changed equipment settings, disabled remote access and alarms, and...
@@ -343,6 +329,33 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 22 Sep 2026 13:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] ShinyHunters escalates dispute with FBI; claims to have seized job applicants’ site and acquired data (1)</title>
+      <link>https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/</link>
+      <description>Joseph Cox reports: A high profile hacking group claims it has breached multiple FBI-related services and stolen data “on all FBI employees and applicants.” A representative of the group, called ShinyHunters, told 404 Media the data includes FBI agents’ names, home addresses, phone number, and information on their spouse. The data breach could be massively...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 404,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e892c9ee44df378e</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 22 Sep 2026 18:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/</link>
+      <description>The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Exploited vulnerability // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:69879410fc78a38e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 22 Sep 2026 19:13:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

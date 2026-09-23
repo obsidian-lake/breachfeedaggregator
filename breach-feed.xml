@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:52:56 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] McKesson Cyberattack: Stolen Data Includes 6.4 Million Unique Email Addresses</title>
-      <link>https://www.hipaajournal.com/mckesson-data-breach/</link>
-      <description>&lt;p&gt;McKesson, a major U.S. wholesale medical supplies &amp;#38; equipment, pharmaceutical distribution, and healthcare technology solutions company, continues to investigate a [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mckesson-data-breach/"&gt;McKesson Cyberattack: Stolen Data Includes 6.4 Million Unique Email Addresses&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 6,400,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mckesson-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1f39e9dd41a25b79</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 18 Sep 2026 06:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Settlement Resolves Class Action Data Breach Complaint Against Community Dental Care</title>
-      <link>https://www.hipaajournal.com/community-dental-care-data-breach-settlement/</link>
-      <description>&lt;p&gt;Community Dental Care, a nonprofit Medicaid dental provider in the state of Minnesota, has agreed to settle class action litigation [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/community-dental-care-data-breach-settlement/"&gt;Settlement Resolves Class Action Data Breach Complaint Against Community Dental Care&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/community-dental-care-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9e17d0a3f864fc9b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 18 Sep 2026 10:00:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Data Breach at Translation Vendor Affects UnitedHealthcare Plan Members</title>
       <link>https://www.hipaajournal.com/united-anguage-group-desert-pulmonary-sleep-consultants-breach/</link>
       <description>&lt;p&gt;Data breaches have been announced by United Language Group in Minnesota, Desert Pulmonary &amp;#38; Sleep Consultants in Arizona, and Azle [&amp;#8230;]&lt;/p&gt;
@@ -330,6 +302,20 @@
       <pubDate>Wed, 23 Sep 2026 08:20:05 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · INFO] Vasindas’ Around the Clock Care Settles Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/</link>
+      <description>&lt;p&gt;Vasindas’ Around the Clock Care, Inc., a California-based provider of home care services, has settled class action litigation over a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/"&gt;Vasindas’ Around the Clock Care Settles Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1dfe80b79b511a7f</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 23 Sep 2026 10:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] FBI investigating alleged ShinyHunters breach of its jobs site</title>
       <link>https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</link>
       <description>The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.
@@ -341,6 +327,47 @@
       <category>gov</category>
       <category>therecord</category>
       <pubDate>Wed, 23 Sep 2026 14:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] 77% of Ransomware Groups Are Targeting the Healthcare Sector</title>
+      <link>https://www.hipaajournal.com/ransomware-industry-targeting-us/</link>
+      <description>&lt;p&gt;A new analysis of ransomware activity reveals broad, consistent targeting pressure across the United States. Ransomware activity is not limited [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransomware-industry-targeting-us/"&gt;77% of Ransomware Groups Are Targeting the Healthcare Sector&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransomware-industry-targeting-us/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8a4da75c86fc530f</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 23 Sep 2026 14:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million</title>
+      <link>https://therecord.media/ransomware-ryuk-sentenced-doj</link>
+      <description>An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.
+
+// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 1,200,000 // $ (est.): $1,200,000 // Source: therecord // Original: https://therecord.media/ransomware-ryuk-sentenced-doj</description>
+      <guid isPermaLink="false">obsidian-lake:item:3aeaf062dc96b726</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 23 Sep 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Ryuk Ransomware Operator Sentenced to 24 Months in Prison</title>
+      <link>https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/</link>
+      <description>Abinaya reports: An Armenian national extradited from Ukraine to the United States has been sentenced to federal prison for his role in Ryuk ransomware attacks that targeted organizations worldwide, including a company in Oregon. Karen Vardanyan, 35, received a 24-month federal prison sentence followed by 3 years of supervised release, according to the U.S. Attorney’s...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 24,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a3ac069ee984fc1f</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 23 Sep 2026 16:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

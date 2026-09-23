@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 04:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:52:20 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -248,20 +248,6 @@
       <pubDate>Mon, 21 Sep 2026 15:52:02 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] US Proposes AI Incident Alert System in Talks With China, Bessent Says</title>
-      <link>https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</link>
-      <description>&lt;p&gt;Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/"&gt;US Proposes AI Incident Alert System in Talks With China, Bessent Says&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b8be2a67e661a338</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Tue, 22 Sep 2026 02:01:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] CISA orders feds to patch Zyxel flaw exploited for data theft</title>
       <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</link>
       <description>​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]
@@ -342,6 +328,33 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 22 Sep 2026 19:13:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report</title>
+      <link>https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/</link>
+      <description>&lt;p&gt;The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/"&gt;ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8765c149b56ece72</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Wed, 23 Sep 2026 07:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Ryuk ransomware member sentenced to 24 months in prison</title>
+      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</link>
+      <description>An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 24,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:036d28498901e39b</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 23 Sep 2026 08:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

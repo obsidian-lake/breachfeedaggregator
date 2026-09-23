@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:44:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -220,20 +220,6 @@
       <pubDate>Fri, 18 Sep 2026 10:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ransomware attack on Kansas county will affect some services</title>
-      <link>https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services/</link>
-      <description>Joseph McCarty reports: A Kansas county’s government says it has been hit by a ransomware attack. Ellis County discovered the attack on parts of its information technology systems Thursday morning. Officials said they “immediately took steps to contain the disruption” by isolating the affected systems and enlisting the help of cybersecurity experts. The county said...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d37915a8547a2ccb</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 18 Sep 2026 20:43:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Data Breach at Translation Vendor Affects UnitedHealthcare Plan Members</title>
       <link>https://www.hipaajournal.com/united-anguage-group-desert-pulmonary-sleep-consultants-breach/</link>
       <description>&lt;p&gt;Data breaches have been announced by United Language Group in Minnesota, Desert Pulmonary &amp;#38; Sleep Consultants in Arizona, and Azle [&amp;#8230;]&lt;/p&gt;
@@ -246,19 +232,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 21 Sep 2026 15:52:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA orders feds to patch Zyxel flaw exploited for data theft</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</link>
-      <description>​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,900 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3ddf58e86effeea4</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 22 Sep 2026 08:53:09 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Early Scattered Spider member pleads guilty to cybercrime spree</title>
@@ -355,6 +328,19 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 23 Sep 2026 08:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI investigating alleged ShinyHunters breach of its jobs site</title>
+      <link>https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</link>
+      <description>The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.
+
+// Category: breach // Severity: info // Sector: gov // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:3ffb124e86e6996b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>therecord</category>
+      <pubDate>Wed, 23 Sep 2026 14:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

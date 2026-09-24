@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:49:53 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -206,20 +206,6 @@
       <pubDate>Mon, 21 Sep 2026 15:52:02 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Early Scattered Spider member pleads guilty to cybercrime spree</title>
-      <link>https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/</link>
-      <description>Matt Kapko reports: Another core member of the hacker subset of The Com involved in a spree of extortion attacks from at least 2021 to 2023 pleaded guilty to federal charges, according to court records released Tuesday. Ahmed Hossam Eldin Elbadawy, a 24-year-old from Texas, pleaded guilty exactly one year ago to wire fraud conspiracy...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Scattered Spider // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/</description>
-      <guid isPermaLink="false">obsidian-lake:item:945de1da28f8e189</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 22 Sep 2026 13:05:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Albany College of Pharmacy and Health Sciences Data Breach Settlement</title>
       <link>https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/</link>
       <description>&lt;p&gt;Albany College of Pharmacy and Health Sciences in New York State has agreed to settle a class action lawsuit stemming [&amp;#8230;]&lt;/p&gt;
@@ -246,20 +232,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 22 Sep 2026 13:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] ShinyHunters escalates dispute with FBI; claims to have seized job applicants’ site and acquired data (1)</title>
-      <link>https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/</link>
-      <description>Joseph Cox reports: A high profile hacking group claims it has breached multiple FBI-related services and stolen data “on all FBI employees and applicants.” A representative of the group, called ShinyHunters, told 404 Media the data includes FBI agents’ names, home addresses, phone number, and information on their spouse. The data breach could be massively...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 404,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e892c9ee44df378e</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 22 Sep 2026 18:43:51 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Vasindas’ Around the Clock Care Settles Data Breach Litigation</title>
@@ -384,6 +356,48 @@
       <category>tech</category>
       <category>therecord</category>
       <pubDate>Thu, 24 Sep 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Error on North Carolina jury duty website exposed people’s social security numbers, medical records, more</title>
+      <link>https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/</link>
+      <description>Kudos to WBTV for following up on an astute observer&amp;#8217;s vulnerability report. David Hodges reports: North Carolina residents summoned for jury duty received notice through a letter in the mail but to request an exemption from jury duty in North Carolina, a person can go online and fill out a jury excuse form. Zach Duda...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/</description>
+      <guid isPermaLink="false">obsidian-lake:item:20774edccd3e081b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 24 Sep 2026 16:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Wyoming courts investigate extent of personal data exposed in cybersecurity breach</title>
+      <link>https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/</link>
+      <description>Maggie Mullen reports: The Wyoming Judicial Branch says it’s awaiting more details regarding the scope of a cybersecurity breach of a third-party software company that may have included a decade’s worth of data from the state’s court system. West Publishing Corporation, which the Wyoming Supreme Court and Wyoming district courts previously used for case management,...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:16e07cb7244507e2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 24 Sep 2026 16:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Two Maryland hospitals still dealing with system issues after cyberattack</title>
+      <link>https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/</link>
+      <description>On September 22, WYPR reported: Luminis Health says it’s making considerable progress on restoring systems at two Maryland hospitals after they were hit by a cyberattack earlier this month. The company said in an online update that its telephone capabilities at Anne Arundel Medical Center and Doctors Community Medical Center in Lanham have been restored...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1419a8b79ec2b0fe</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 24 Sep 2026 16:35:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

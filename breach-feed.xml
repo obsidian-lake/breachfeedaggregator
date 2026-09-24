@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:02:43 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -398,6 +398,33 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 24 Sep 2026 16:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks</title>
+      <link>https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules</link>
+      <description>U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.
+
+// Category: breach // Severity: info // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules</description>
+      <guid isPermaLink="false">obsidian-lake:item:c8649afdf5b874bf</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>telecom</category>
+      <category>therecord</category>
+      <pubDate>Thu, 24 Sep 2026 20:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] OpenAI agent breached Australian government health website, Albanese says</title>
+      <link>https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/</link>
+      <description>Alexander Martin reports: An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said Wednesday. The agent — an AI system designed to carry out tasks autonomously — accessed a public portal for Medicare statistics, Albanese said at a press conference in New York...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0532a83fb2524e4d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 24 Sep 2026 21:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:52:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,19 +262,6 @@
       <pubDate>Tue, 22 Sep 2026 18:43:51 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Ryuk ransomware member sentenced to 24 months in prison</title>
-      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</link>
-      <description>An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 24,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:036d28498901e39b</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 23 Sep 2026 08:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Vasindas’ Around the Clock Care Settles Data Breach Litigation</title>
       <link>https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/</link>
       <description>&lt;p&gt;Vasindas’ Around the Clock Care, Inc., a California-based provider of home care services, has settled class action litigation over a [&amp;#8230;]&lt;/p&gt;
@@ -289,19 +276,6 @@
       <pubDate>Wed, 23 Sep 2026 10:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] FBI investigating alleged ShinyHunters breach of its jobs site</title>
-      <link>https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</link>
-      <description>The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.
-
-// Category: breach // Severity: info // Sector: gov // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:3ffb124e86e6996b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>therecord</category>
-      <pubDate>Wed, 23 Sep 2026 14:22:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] 77% of Ransomware Groups Are Targeting the Healthcare Sector</title>
       <link>https://www.hipaajournal.com/ransomware-industry-targeting-us/</link>
       <description>&lt;p&gt;A new analysis of ransomware activity reveals broad, consistent targeting pressure across the United States. Ransomware activity is not limited [&amp;#8230;]&lt;/p&gt;
@@ -314,19 +288,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 23 Sep 2026 14:50:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million</title>
-      <link>https://therecord.media/ransomware-ryuk-sentenced-doj</link>
-      <description>An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.
-
-// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 1,200,000 // $ (est.): $1,200,000 // Source: therecord // Original: https://therecord.media/ransomware-ryuk-sentenced-doj</description>
-      <guid isPermaLink="false">obsidian-lake:item:3aeaf062dc96b726</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Wed, 23 Sep 2026 15:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Ryuk Ransomware Operator Sentenced to 24 Months in Prison</title>
@@ -396,6 +357,33 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Thu, 24 Sep 2026 10:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] CVS Health; Criteo Agree to Pay $20.5 Million to Resolve Website Tracking Litigation</title>
+      <link>https://www.hipaajournal.com/cvs-health-criteo-american-wellness-corp-data-breach-settlements/</link>
+      <description>&lt;p&gt;Settlements have been agreed to resolve class action litigation against CVS Health &amp;#38; Criteo and American Wellness Corp. The lawsuits [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cvs-health-criteo-american-wellness-corp-data-breach-settlements/"&gt;CVS Health; Criteo Agree to Pay $20.5 Million to Resolve Website Tracking Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,500,000 // $ (est.): $20,500,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/cvs-health-criteo-american-wellness-corp-data-breach-settlements/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d38d001e832f6a41</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 24 Sep 2026 12:59:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Astrana latest healthcare tech firm to report data breach to SEC</title>
+      <link>https://therecord.media/astrana-cyberattack-sec-ransomware</link>
+      <description>The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel.
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/astrana-cyberattack-sec-ransomware</description>
+      <guid isPermaLink="false">obsidian-lake:item:daa2b1340f64ffa6</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>therecord</category>
+      <pubDate>Thu, 24 Sep 2026 13:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

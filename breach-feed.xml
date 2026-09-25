@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:52:15 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Data Breach at Translation Vendor Affects UnitedHealthcare Plan Members</title>
-      <link>https://www.hipaajournal.com/united-anguage-group-desert-pulmonary-sleep-consultants-breach/</link>
-      <description>&lt;p&gt;Data breaches have been announced by United Language Group in Minnesota, Desert Pulmonary &amp;#38; Sleep Consultants in Arizona, and Azle [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/united-anguage-group-desert-pulmonary-sleep-consultants-breach/"&gt;Data Breach at Translation Vendor Affects UnitedHealthcare Plan Members&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/united-anguage-group-desert-pulmonary-sleep-consultants-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2632f8ef88849295</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 21 Sep 2026 15:52:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Albany College of Pharmacy and Health Sciences Data Breach Settlement</title>
       <link>https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/</link>
       <description>&lt;p&gt;Albany College of Pharmacy and Health Sciences in New York State has agreed to settle a class action lawsuit stemming [&amp;#8230;]&lt;/p&gt;
@@ -262,20 +248,6 @@
       <pubDate>Wed, 23 Sep 2026 14:50:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Ryuk Ransomware Operator Sentenced to 24 Months in Prison</title>
-      <link>https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/</link>
-      <description>Abinaya reports: An Armenian national extradited from Ukraine to the United States has been sentenced to federal prison for his role in Ryuk ransomware attacks that targeted organizations worldwide, including a company in Oregon. Karen Vardanyan, 35, received a 24-month federal prison sentence followed by 3 years of supervised release, according to the U.S. Attorney’s...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 24,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a3ac069ee984fc1f</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 23 Sep 2026 16:00:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] FBI Hack Exposed FBI’s Own Hacking Unit</title>
       <link>https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/</link>
       <description>Joseph Cox reports: The catastrophic hack of at least thousands of FBI officials’ personal data, including their addresses, phone numbers, and even their spouses, includes members of the FBI’s secretive hacking team, potentially revealing who exactly is in that unit, 404 Media has found. The findings further highlight how sensitive the stolen data is, and...
@@ -329,19 +301,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 24 Sep 2026 12:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Astrana latest healthcare tech firm to report data breach to SEC</title>
-      <link>https://therecord.media/astrana-cyberattack-sec-ransomware</link>
-      <description>The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel.
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/astrana-cyberattack-sec-ransomware</description>
-      <guid isPermaLink="false">obsidian-lake:item:daa2b1340f64ffa6</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>therecord</category>
-      <pubDate>Thu, 24 Sep 2026 13:15:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Error on North Carolina jury duty website exposed people’s social security numbers, medical records, more</title>
@@ -411,6 +370,20 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 24 Sep 2026 21:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Wayne Memorial Hospital; Regional Urology Settle Data Breach Lawsuits</title>
+      <link>https://www.hipaajournal.com/wayne-memorial-hospital-regional-urology-data-breach-settlements/</link>
+      <description>&lt;p&gt;Settlements have been agreed to resolve class action complaints against Wayne Memorial Hospital in Georgia and Regional Urology in Louisiana [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/wayne-memorial-hospital-regional-urology-data-breach-settlements/"&gt;Wayne Memorial Hospital; Regional Urology Settle Data Breach Lawsuits&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/wayne-memorial-hospital-regional-urology-data-breach-settlements/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4f18ba0209e22776</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

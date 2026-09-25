@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:47:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -151,59 +151,6 @@
       <category>other</category>
       <category>upguard</category>
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
-      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
-      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
-      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
-      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
-      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7112bb85f69498e7</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Albany College of Pharmacy and Health Sciences Data Breach Settlement</title>
-      <link>https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/</link>
-      <description>&lt;p&gt;Albany College of Pharmacy and Health Sciences in New York State has agreed to settle a class action lawsuit stemming [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/"&gt;Albany College of Pharmacy and Health Sciences Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6868c188a8931034</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 22 Sep 2026 13:40:29 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Call-on-Doc Notifies Patients About December 2025 Hacking Incident</title>
@@ -384,6 +331,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Labcorp Settles Multistate Data Breach Investigation for $2.3 Million</title>
+      <link>https://www.hipaajournal.com/labcorp-multistate-settlement-amca/</link>
+      <description>&lt;p&gt;A coalition of 44 state attorneys general has agreed to settle a multistate investigation of Laboratory Corporation of America (Labcorp) [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/labcorp-multistate-settlement-amca/"&gt;Labcorp Settles Multistate Data Breach Investigation for $2.3 Million&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,300,000 // $ (est.): $2,300,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/labcorp-multistate-settlement-amca/</description>
+      <guid isPermaLink="false">obsidian-lake:item:feca0f93e7829c17</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 25 Sep 2026 16:03:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

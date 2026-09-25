@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:10:54 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -153,6 +153,45 @@
       <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <description>Until this past weekend, a contractor for the Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5ec3d8398ea01bae</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 38 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3f8726550edb61ae</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Lessons Learned from CISA’s Recent GitHub Leak</title>
+      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7112bb85f69498e7</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · CRITICAL] Call-on-Doc Notifies Patients About December 2025 Hacking Incident</title>
       <link>https://www.hipaajournal.com/call-on-doc-data-breach/</link>
       <description>&lt;p&gt;The telemedicine platform operator Call-on-Doc has notified patients about a December 2025 cyberattack and data breach. Data breaches have also [&amp;#8230;]&lt;/p&gt;
@@ -223,19 +262,6 @@
       <pubDate>Thu, 24 Sep 2026 09:54:08 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] CISA: Ransomware gangs now exploiting critical TeamCity flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/</link>
-      <description>​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/</description>
-      <guid isPermaLink="false">obsidian-lake:item:849a3d02ea1aace5</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 24 Sep 2026 10:42:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] CVS Health; Criteo Agree to Pay $20.5 Million to Resolve Website Tracking Litigation</title>
       <link>https://www.hipaajournal.com/cvs-health-criteo-american-wellness-corp-data-breach-settlements/</link>
       <description>&lt;p&gt;Settlements have been agreed to resolve class action litigation against CVS Health &amp;#38; Criteo and American Wellness Corp. The lawsuits [&amp;#8230;]&lt;/p&gt;
@@ -290,19 +316,6 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 24 Sep 2026 16:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks</title>
-      <link>https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules</link>
-      <description>U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.
-
-// Category: breach // Severity: info // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules</description>
-      <guid isPermaLink="false">obsidian-lake:item:c8649afdf5b874bf</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>telecom</category>
-      <category>therecord</category>
-      <pubDate>Thu, 24 Sep 2026 20:15:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] OpenAI agent breached Australian government health website, Albanese says</title>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:38:56 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -234,20 +234,6 @@
       <pubDate>Wed, 23 Sep 2026 14:50:24 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] FBI Hack Exposed FBI’s Own Hacking Unit</title>
-      <link>https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/</link>
-      <description>Joseph Cox reports: The catastrophic hack of at least thousands of FBI officials’ personal data, including their addresses, phone numbers, and even their spouses, includes members of the FBI’s secretive hacking team, potentially revealing who exactly is in that unit, 404 Media has found. The findings further highlight how sensitive the stolen data is, and...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 404,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/</description>
-      <guid isPermaLink="false">obsidian-lake:item:fe57762288bae1ce</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 23 Sep 2026 23:52:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Oculus Pathology Notifies 20,000 Patients About April 2026 Security Incident</title>
       <link>https://www.hipaajournal.com/oculus-pathology-data-breach/</link>
       <description>&lt;p&gt;Texas-based Oculus Pathology has disclosed a data breach affecting more than 20,000 patients. Data breaches have also been announced by [&amp;#8230;]&lt;/p&gt;
@@ -274,34 +260,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 24 Sep 2026 12:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Error on North Carolina jury duty website exposed people’s social security numbers, medical records, more</title>
-      <link>https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/</link>
-      <description>Kudos to WBTV for following up on an astute observer&amp;#8217;s vulnerability report. David Hodges reports: North Carolina residents summoned for jury duty received notice through a letter in the mail but to request an exemption from jury duty in North Carolina, a person can go online and fill out a jury excuse form. Zach Duda...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/</description>
-      <guid isPermaLink="false">obsidian-lake:item:20774edccd3e081b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 24 Sep 2026 16:33:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Wyoming courts investigate extent of personal data exposed in cybersecurity breach</title>
-      <link>https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/</link>
-      <description>Maggie Mullen reports: The Wyoming Judicial Branch says it’s awaiting more details regarding the scope of a cybersecurity breach of a third-party software company that may have included a decade’s worth of data from the state’s court system. West Publishing Corporation, which the Wyoming Supreme Court and Wyoming district courts previously used for case management,...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:16e07cb7244507e2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 24 Sep 2026 16:35:42 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Two Maryland hospitals still dealing with system issues after cyberattack</title>
@@ -358,6 +316,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 25 Sep 2026 16:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</title>
+      <link>https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</link>
+      <description>&lt;p&gt;OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.”&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"&gt;OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</description>
+      <guid isPermaLink="false">obsidian-lake:item:64211fe2e9c8152c</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>securityweek</category>
+      <pubDate>Sat, 26 Sep 2026 10:15:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

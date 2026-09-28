@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:36:41 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] 77% of Ransomware Groups Are Targeting the Healthcare Sector</title>
-      <link>https://www.hipaajournal.com/ransomware-industry-targeting-us/</link>
-      <description>&lt;p&gt;A new analysis of ransomware activity reveals broad, consistent targeting pressure across the United States. Ransomware activity is not limited [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransomware-industry-targeting-us/"&gt;77% of Ransomware Groups Are Targeting the Healthcare Sector&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransomware-industry-targeting-us/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8a4da75c86fc530f</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 23 Sep 2026 14:50:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Oculus Pathology Notifies 20,000 Patients About April 2026 Security Incident</title>
       <link>https://www.hipaajournal.com/oculus-pathology-data-breach/</link>
       <description>&lt;p&gt;Texas-based Oculus Pathology has disclosed a data breach affecting more than 20,000 patients. Data breaches have also been announced by [&amp;#8230;]&lt;/p&gt;
@@ -302,6 +288,47 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 28 Sep 2026 15:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] OpenAI Agent Hacks Australian Medicare Portal</title>
+      <link>https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/</link>
+      <description>&lt;p&gt;An artificial intelligence (AI) agent developed by OpenAI gained unauthorized access to an Australian Medicare statistics reporting service portal and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/"&gt;OpenAI Agent Hacks Australian Medicare Portal&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4136619b11e01cdb</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 28 Sep 2026 15:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] US, UK warn of exploited Citrix NetScaler zero-day bugs</title>
+      <link>https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug</link>
+      <description>Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug</description>
+      <guid isPermaLink="false">obsidian-lake:item:0ee8eac0268ba8f4</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Mon, 28 Sep 2026 16:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay</title>
+      <link>https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/</link>
+      <description>Numerous major law firms have fallen prey to the Silent Ransom Group this year. Now DataBreaches provides exclusive details on SRG&amp;#8217;s recent attacks on Hogan Lovells Cadwalader. Yes,  that&amp;#8217;s &amp;#8220;attacks,&amp;#8221; plural. When New York City&amp;#8217;s oldest law firm, Cadwalader, Wickersham &amp;#38; Taft, merged with Hogan Lovells in 2022, it combined two powerhouse firms. Yet despite...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6ebd659a78ba44d2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 28 Sep 2026 17:07:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

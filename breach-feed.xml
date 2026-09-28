@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 07:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:46:20 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -234,20 +234,6 @@
       <pubDate>Thu, 24 Sep 2026 12:59:43 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] OpenAI agent breached Australian government health website, Albanese says</title>
-      <link>https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/</link>
-      <description>Alexander Martin reports: An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said Wednesday. The agent — an AI system designed to carry out tasks autonomously — accessed a public portal for Medicare statistics, Albanese said at a press conference in New York...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0532a83fb2524e4d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 24 Sep 2026 21:07:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Wayne Memorial Hospital; Regional Urology Settle Data Breach Lawsuits</title>
       <link>https://www.hipaajournal.com/wayne-memorial-hospital-regional-urology-data-breach-settlements/</link>
       <description>&lt;p&gt;Settlements have been agreed to resolve class action complaints against Wayne Memorial Hospital in Georgia and Regional Urology in Louisiana [&amp;#8230;]&lt;/p&gt;
@@ -276,20 +262,6 @@
       <pubDate>Fri, 25 Sep 2026 16:03:32 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</title>
-      <link>https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</link>
-      <description>&lt;p&gt;OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.”&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"&gt;OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</description>
-      <guid isPermaLink="false">obsidian-lake:item:64211fe2e9c8152c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>securityweek</category>
-      <pubDate>Sat, 26 Sep 2026 10:15:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] California Critical Access Hospital Announces Cybersecurity Incident</title>
       <link>https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/</link>
       <description>&lt;p&gt;Data breaches have been announced by Modoc Medical Center and Vista Del Mar Child and Family Services in California, Park [&amp;#8230;]&lt;/p&gt;
@@ -302,6 +274,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 28 Sep 2026 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Prison Sentence for Former US Soldier Who Hacked AT&amp;T and Verizon</title>
+      <link>https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</link>
+      <description>&lt;p&gt;Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/"&gt;Prison Sentence for Former US Soldier Who Hacked AT&amp;#038;T and Verizon&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 70,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</description>
+      <guid isPermaLink="false">obsidian-lake:item:39d420a2e8d3da7f</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>telecom</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 28 Sep 2026 12:36:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official</title>
+      <link>https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/</link>
+      <description>September 25 &amp;#8211; U.S. Department of Justice: Cameron John Wagenius, 22, a former Army soldier who was most recently stationed in Texas, was sentenced today to 70 months in prison and ordered to pay $294,978 in restitution for conspiring to hack into telecommunications companies’ databases, access sensitive records, and extort the  companies by threatening to...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 70,000,000 // $ (est.): $294,978 // Source: databreaches.net // Original: https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/</description>
+      <guid isPermaLink="false">obsidian-lake:item:2fe6c738978c8bfa</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 28 Sep 2026 15:23:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

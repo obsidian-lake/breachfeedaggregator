@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 01:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:21:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Call-on-Doc Notifies Patients About December 2025 Hacking Incident</title>
-      <link>https://www.hipaajournal.com/call-on-doc-data-breach/</link>
-      <description>&lt;p&gt;The telemedicine platform operator Call-on-Doc has notified patients about a December 2025 cyberattack and data breach. Data breaches have also [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/call-on-doc-data-breach/"&gt;Call-on-Doc Notifies Patients About December 2025 Hacking Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Call-on-Doc // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/call-on-doc-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:bb0dd452f935ec04</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 22 Sep 2026 13:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Vasindas’ Around the Clock Care Settles Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/</link>
-      <description>&lt;p&gt;Vasindas’ Around the Clock Care, Inc., a California-based provider of home care services, has settled class action litigation over a [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/"&gt;Vasindas’ Around the Clock Care Settles Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/vasindas-around-the-clock-care-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1dfe80b79b511a7f</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 23 Sep 2026 10:00:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] 77% of Ransomware Groups Are Targeting the Healthcare Sector</title>
       <link>https://www.hipaajournal.com/ransomware-industry-targeting-us/</link>
       <description>&lt;p&gt;A new analysis of ransomware activity reveals broad, consistent targeting pressure across the United States. Ransomware activity is not limited [&amp;#8230;]&lt;/p&gt;
@@ -316,6 +288,20 @@
       <category>gov</category>
       <category>securityweek</category>
       <pubDate>Sat, 26 Sep 2026 10:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] California Critical Access Hospital Announces Cybersecurity Incident</title>
+      <link>https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Modoc Medical Center and Vista Del Mar Child and Family Services in California, Park [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/"&gt;California Critical Access Hospital Announces Cybersecurity Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:265625be53691a9e</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 28 Sep 2026 06:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

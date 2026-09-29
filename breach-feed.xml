@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 19:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:28:48 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -276,19 +276,6 @@
       <pubDate>Mon, 28 Sep 2026 15:51:25 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] US, UK warn of exploited Citrix NetScaler zero-day bugs</title>
-      <link>https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug</link>
-      <description>Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug</description>
-      <guid isPermaLink="false">obsidian-lake:item:0ee8eac0268ba8f4</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Mon, 28 Sep 2026 16:19:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay</title>
       <link>https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/</link>
       <description>Numerous major law firms have fallen prey to the Silent Ransom Group this year. Now DataBreaches provides exclusive details on SRG&amp;#8217;s recent attacks on Hogan Lovells Cadwalader. Yes,  that&amp;#8217;s &amp;#8220;attacks,&amp;#8221; plural. When New York City&amp;#8217;s oldest law firm, Cadwalader, Wickersham &amp;#38; Taft, merged with Hogan Lovells in 2022, it combined two powerhouse firms. Yet despite...
@@ -369,6 +356,19 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 29 Sep 2026 18:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI tells ShinyHunters members to turn themselves in after recent arrest</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/</link>
+      <description>The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/</description>
+      <guid isPermaLink="false">obsidian-lake:item:269e738f0981750f</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 29 Sep 2026 20:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:45:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Oculus Pathology Notifies 20,000 Patients About April 2026 Security Incident</title>
-      <link>https://www.hipaajournal.com/oculus-pathology-data-breach/</link>
-      <description>&lt;p&gt;Texas-based Oculus Pathology has disclosed a data breach affecting more than 20,000 patients. Data breaches have also been announced by [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/oculus-pathology-data-breach/"&gt;Oculus Pathology Notifies 20,000 Patients About April 2026 Security Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/oculus-pathology-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a110485862ca38bf</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 24 Sep 2026 09:54:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] CVS Health; Criteo Agree to Pay $20.5 Million to Resolve Website Tracking Litigation</title>
       <link>https://www.hipaajournal.com/cvs-health-criteo-american-wellness-corp-data-breach-settlements/</link>
       <description>&lt;p&gt;Settlements have been agreed to resolve class action litigation against CVS Health &amp;#38; Criteo and American Wellness Corp. The lawsuits [&amp;#8230;]&lt;/p&gt;
@@ -262,20 +248,6 @@
       <pubDate>Mon, 28 Sep 2026 06:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Prison Sentence for Former US Soldier Who Hacked AT&amp;T and Verizon</title>
-      <link>https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</link>
-      <description>&lt;p&gt;Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/"&gt;Prison Sentence for Former US Soldier Who Hacked AT&amp;#038;T and Verizon&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 70,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</description>
-      <guid isPermaLink="false">obsidian-lake:item:39d420a2e8d3da7f</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>telecom</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 28 Sep 2026 12:36:16 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official</title>
       <link>https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/</link>
       <description>September 25 &amp;#8211; U.S. Department of Justice: Cameron John Wagenius, 22, a former Army soldier who was most recently stationed in Texas, was sentenced today to 70 months in prison and ordered to pay $294,978 in restitution for conspiring to hack into telecommunications companies’ databases, access sensitive records, and extort the  companies by threatening to...
@@ -329,6 +301,61 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 28 Sep 2026 17:07:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Arizona Supreme Court says hackers stole residents’ personal data</title>
+      <link>https://therecord.media/arizona-supreme-court-says-hackers-stole-data</link>
+      <description>A spokesperson for the court system told Recorded Future News that the incident did not involve ransomware and the hackers have not issued ransom demands for the stolen data as of Monday.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/arizona-supreme-court-says-hackers-stole-data</description>
+      <guid isPermaLink="false">obsidian-lake:item:f52745013b9a6b02</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Tue, 29 Sep 2026 12:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data</title>
+      <link>https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/</link>
+      <description>Joseph Cox reports: The hackers behind the massive FBI breach told 404 Media on Monday they do not intend to publish the data. The breach, in which the hackers stole personal information on “all FBI employees and applicants” including physical addresses, job roles, names of spouses, and medical records, represents a significant national security and...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 404,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ff54f1711770a917</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 29 Sep 2026 12:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Astrana Health Notifies SEC About Social Engineering Incident</title>
+      <link>https://www.hipaajournal.com/astrana-health-data-breach/</link>
+      <description>&lt;p&gt;Astrana Health, a managed services organization that helps healthcare providers deliver value-based, coordinated care to patients, has notified the U.S. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/astrana-health-data-breach/"&gt;Astrana Health Notifies SEC About Social Engineering Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/astrana-health-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6edba1b4db5c4cea</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 29 Sep 2026 13:46:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] WPM Pathology Laboratory; Salina Regional Health Center Settle Class Action Litigation</title>
+      <link>https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/</link>
+      <description>&lt;p&gt;A settlement has been agreed to resolve class action litigation over a November 2024 targeted cyberattack on the information systems [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/"&gt;WPM Pathology Laboratory; Salina Regional Health Center Settle Class Action Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b7646b7a7f1d56e0</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 29 Sep 2026 13:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

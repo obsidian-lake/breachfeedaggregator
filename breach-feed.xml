@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:17:54 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] California Critical Access Hospital Announces Cybersecurity Incident</title>
-      <link>https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Modoc Medical Center and Vista Del Mar Child and Family Services in California, Park [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/"&gt;California Critical Access Hospital Announces Cybersecurity Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:265625be53691a9e</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 28 Sep 2026 06:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official</title>
-      <link>https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/</link>
-      <description>September 25 &amp;#8211; U.S. Department of Justice: Cameron John Wagenius, 22, a former Army soldier who was most recently stationed in Texas, was sentenced today to 70 months in prison and ordered to pay $294,978 in restitution for conspiring to hack into telecommunications companies’ databases, access sensitive records, and extort the  companies by threatening to...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 70,000,000 // $ (est.): $294,978 // Source: databreaches.net // Original: https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2fe6c738978c8bfa</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 28 Sep 2026 15:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] OpenAI Agent Hacks Australian Medicare Portal</title>
-      <link>https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/</link>
-      <description>&lt;p&gt;An artificial intelligence (AI) agent developed by OpenAI gained unauthorized access to an Australian Medicare statistics reporting service portal and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/"&gt;OpenAI Agent Hacks Australian Medicare Portal&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4136619b11e01cdb</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 28 Sep 2026 15:51:25 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay</title>
       <link>https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/</link>
       <description>Numerous major law firms have fallen prey to the Silent Ransom Group this year. Now DataBreaches provides exclusive details on SRG&amp;#8217;s recent attacks on Hogan Lovells Cadwalader. Yes,  that&amp;#8217;s &amp;#8220;attacks,&amp;#8221; plural. When New York City&amp;#8217;s oldest law firm, Cadwalader, Wickersham &amp;#38; Taft, merged with Hogan Lovells in 2022, it combined two powerhouse firms. Yet despite...
@@ -372,6 +330,20 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 01 Oct 2026 11:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ‘A treasure trove of information:’ Cybersecurity specialist says sensitive McMinnville records exposed online</title>
+      <link>https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/</link>
+      <description>KOIN in Oregon reports: Three clicks. That&amp;#8217;s all Chuck Dornon said it took to reach private McMinnville records that should never have been public on the dark web. &amp;#8220;Anything and everything that the city&amp;#8217;s done is out there,&amp;#8221; Dornon said. &amp;#8220;This is probably the easiest form of information I&amp;#8217;ve come across in a breach.&amp;#8221; The...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/</description>
+      <guid isPermaLink="false">obsidian-lake:item:43c8023241b62072</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 01 Oct 2026 16:37:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

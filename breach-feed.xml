@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 10:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:47:39 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data</title>
-      <link>https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/</link>
-      <description>Joseph Cox reports: The hackers behind the massive FBI breach told 404 Media on Monday they do not intend to publish the data. The breach, in which the hackers stole personal information on “all FBI employees and applicants” including physical addresses, job roles, names of spouses, and medical records, represents a significant national security and...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 404,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ff54f1711770a917</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 29 Sep 2026 12:48:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] WPM Pathology Laboratory; Salina Regional Health Center Settle Class Action Litigation</title>
       <link>https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/</link>
       <description>&lt;p&gt;A settlement has been agreed to resolve class action litigation over a November 2024 targeted cyberattack on the information systems [&amp;#8230;]&lt;/p&gt;
@@ -262,20 +248,6 @@
       <pubDate>Wed, 30 Sep 2026 16:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Radford experiencing outage after potential data incident</title>
-      <link>https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/</link>
-      <description>WFXR in Virginia reports:  The City of Radford announced tonight (9/29) the city is currently dealing with an internet outage due to a potential data breach. City leadership says it reached out to cybersecurity professionals and legal counsel upon becoming aware of the incident. Both state and federal law enforcement have also been notified, and...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7b296eccea16593c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 30 Sep 2026 17:33:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] CPAP Medical Supplies and Services Agrees to Pay Up to $500K to Resolve Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/cpap-medical-supplies-services-data-breach-settlement/</link>
       <description>&lt;p&gt;CPAP Medical Supplies and Services, a Jacksonville, Florida-based provider of durable medical equipment for treating sleep apnea, has agreed to [&amp;#8230;]&lt;/p&gt;
@@ -288,20 +260,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 01 Oct 2026 10:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Suspected State Hackers Exploited Citrix NetScaler for Weeks. 50,000 Devices May Still Be Exposed.</title>
-      <link>https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/</link>
-      <description>Datawater reports: Two critical NetScaler zero-days, CVE-2026-88771 and CVE-2026-88772, were used against organizations worldwide before a patch existed. CISA’s deadline is today. Patching alone will not tell you whether you were already breached. Threat level: Critical What: Two unauthenticated remote-code-execution flaws in Citrix NetScaler ADC and NetScaler Gateway, both CVSS 9.5. Status: Exploited as zero-days....
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 88,772 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0499dcbac330f8e7</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 01 Oct 2026 11:55:42 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] ‘A treasure trove of information:’ Cybersecurity specialist says sensitive McMinnville records exposed online</title>
@@ -370,6 +328,20 @@
       <category>gov</category>
       <category>therecord</category>
       <pubDate>Fri, 02 Oct 2026 14:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices</title>
+      <link>https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/</link>
+      <description>IAPP reports: Regulator inquiries into major AI companies&amp;#8217; cybersecurity practices are ramping up. A day after reports surfaced about the likely escalation of a U.S. Federal Trade Commission probe into OpenAI and other developers, California Attorney General Rob Bonta advanced his office&amp;#8217;s ongoing OpenAI investigation. Bonta announced the company was served an investigative subpoena to...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e49d5da4130726ea</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 03 Oct 2026 13:41:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 14:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:33:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,20 +262,6 @@
       <pubDate>Thu, 01 Oct 2026 10:00:57 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] ‘A treasure trove of information:’ Cybersecurity specialist says sensitive McMinnville records exposed online</title>
-      <link>https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/</link>
-      <description>KOIN in Oregon reports: Three clicks. That&amp;#8217;s all Chuck Dornon said it took to reach private McMinnville records that should never have been public on the dark web. &amp;#8220;Anything and everything that the city&amp;#8217;s done is out there,&amp;#8221; Dornon said. &amp;#8220;This is probably the easiest form of information I&amp;#8217;ve come across in a breach.&amp;#8221; The...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/</description>
-      <guid isPermaLink="false">obsidian-lake:item:43c8023241b62072</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 01 Oct 2026 16:37:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Autonomous AI agents tried to hack US, Canadian government websites</title>
       <link>https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/</link>
       <description>Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]
@@ -342,6 +328,20 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 03 Oct 2026 13:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ShinyHunters hacker “Rey,” allegedly involved in FBI data theft, detained in Jordan</title>
+      <link>https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/</link>
+      <description>Jana Winter, Raphael Satter, and A.J. Vicens report: A key member of the ShinyHunters hacking group, ‌which claims to have stolen data on every FBI employee, was detained this week in Jordan, three people familiar with the matter told Reuters. Two of ​the sources said he was cooperating with the FBI to identify ​his fellow...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a5eea44e5c3c8962</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 03 Oct 2026 16:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

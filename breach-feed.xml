@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 17:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:20:55 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -289,20 +289,6 @@
       <pubDate>Fri, 02 Oct 2026 10:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] City of Vicksburg, Mississippi, shuts down computers after cyberattack</title>
-      <link>https://databreaches.net/2026/10/02/city-of-vicksburg-mississippi-shuts-down-computers-after-cyberattack/</link>
-      <description>Joseph Topping reports: The City of Vicksburg, Mississippi, has shut down its computer systems after a ransomware attack, potentially delaying in-person utility payments while emergency response and utility service continue. Mayor Willis Thompson told The Vicksburg Post that the city had disconnected its internet operations. “We had to bring our internet operations down, just for...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/02/city-of-vicksburg-mississippi-shuts-down-computers-after-cyberattack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/02/city-of-vicksburg-mississippi-shuts-down-computers-after-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3f25ea28b34d3c1b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 02 Oct 2026 13:13:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Mississippi mayor says ransomware incident led city to shut down systems</title>
       <link>https://therecord.media/vicksburg-mississippi-government-ransomware-attack</link>
       <description>Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating.
@@ -355,6 +341,20 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Sat, 03 Oct 2026 19:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Slate Valley Unified School District voted not to pay ransom demand; Kairos likely to leak data</title>
+      <link>https://databreaches.net/2026/10/04/slate-valley-unified-school-district-voted-not-to-pay-ransom-demand-kairos-likely-to-leak-data/</link>
+      <description>The Slate Valley Unified School District in Fair Haven, Vermont, has been responding to a security incident since September 3. On October 2, Kairos threat actors contacted DataBreaches to alert us to the incident and their response to the district&amp;#8217;s claim that they believed student data had not been compromised. They were also angry that...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/04/slate-valley-unified-school-district-voted-not-to-pay-ransom-demand-kairos-likely-to-leak-data/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/04/slate-valley-unified-school-district-voted-not-to-pay-ransom-demand-kairos-likely-to-leak-data/</description>
+      <guid isPermaLink="false">obsidian-lake:item:96c8410b0dad80b6</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Sun, 04 Oct 2026 19:12:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

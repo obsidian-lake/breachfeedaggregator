@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:29:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:47:06 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,48 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] WPM Pathology Laboratory; Salina Regional Health Center Settle Class Action Litigation</title>
-      <link>https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/</link>
-      <description>&lt;p&gt;A settlement has been agreed to resolve class action litigation over a November 2024 targeted cyberattack on the information systems [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/"&gt;WPM Pathology Laboratory; Salina Regional Health Center Settle Class Action Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b7646b7a7f1d56e0</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 29 Sep 2026 13:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] DC Medicaid Agency Notifies 400,000 Beneficiaries About Data Exposure</title>
-      <link>https://www.hipaajournal.com/district-columbia-department-health-care-finance-data-breach/</link>
-      <description>&lt;p&gt;Almost 400,000 Medicaid beneficiaries in the District of Columbia have had personal and protected health information exposed online, according to [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/district-columbia-department-health-care-finance-data-breach/"&gt;DC Medicaid Agency Notifies 400,000 Beneficiaries About Data Exposure&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 400,000,000,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/district-columbia-department-health-care-finance-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:faa35d7f5b006f9b</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 30 Sep 2026 11:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] The Mental Health Association Data Breach Settlement Agreed</title>
-      <link>https://www.hipaajournal.com/mental-health-association-data-breach-settlement/</link>
-      <description>&lt;p&gt;The Mental Health Association, a Chicopee, Massachusetts-based human services agency that provides substance use recovery and support services for developmental [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mental-health-association-data-breach-settlement/"&gt;The Mental Health Association Data Breach Settlement Agreed&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mental-health-association-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3e576dcf2c17c409</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 30 Sep 2026 11:49:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] H1 2026 Healthcare Data Breach Report</title>
       <link>https://www.hipaajournal.com/h1-2026-healthcare-data-breach-report/</link>
       <description>&lt;p&gt;There has been a 5.9% decline in healthcare breaches compared to H1 2025. Between January 1 and June 30, 2026, [&amp;#8230;]&lt;/p&gt;
@@ -262,19 +220,6 @@
       <pubDate>Thu, 01 Oct 2026 10:00:57 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Autonomous AI agents tried to hack US, Canadian government websites</title>
-      <link>https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/</link>
-      <description>Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]
-
-// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/</description>
-      <guid isPermaLink="false">obsidian-lake:item:afd4a8a66b7c8ed4</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>education</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Thu, 01 Oct 2026 20:52:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Texas Hospice Management Company Data Breach Affects 35,000 Texas Residents</title>
       <link>https://www.hipaajournal.com/angmar-management-services-data-breach/</link>
       <description>&lt;p&gt;AngMar Management Services, a Mansfield, Texas-based home health and hospice management company, has identified unauthorized access to its information technology [&amp;#8230;]&lt;/p&gt;
@@ -287,19 +232,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 02 Oct 2026 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Mississippi mayor says ransomware incident led city to shut down systems</title>
-      <link>https://therecord.media/vicksburg-mississippi-government-ransomware-attack</link>
-      <description>Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/vicksburg-mississippi-government-ransomware-attack</description>
-      <guid isPermaLink="false">obsidian-lake:item:0749cb1c9cb055e0</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>therecord</category>
-      <pubDate>Fri, 02 Oct 2026 14:06:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices</title>
@@ -369,6 +301,75 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Mon, 05 Oct 2026 07:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</title>
+      <link>https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/</link>
+      <description>&lt;p&gt;More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/"&gt;Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 270,000,000 // $ (est.): $10,000,000 // Source: securityweek // Original: https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/</description>
+      <guid isPermaLink="false">obsidian-lake:item:060f3e0842668941</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 05 Oct 2026 10:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Hackers Breached Propulsion System of U.S.-Bound Oil Tanker</title>
+      <link>https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/</link>
+      <description>Seen on Homeland Security Today: FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that highlights the growing physical risks from cyberattacks. The cyberattack resulted...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/</description>
+      <guid isPermaLink="false">obsidian-lake:item:827ebffcb1466362</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 05 Oct 2026 12:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA Sends CIRCIA Final Rule for White House Review</title>
+      <link>https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/</link>
+      <description>&lt;p&gt;The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has penned a final rule under the Cyber Incident Reporting for Critical [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"&gt;CISA Sends CIRCIA Final Rule for White House Review&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d51269650fbf3118</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 05 Oct 2026 13:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] University of Illinois Chicago affected by ransomware attack on medical school</title>
+      <link>https://therecord.media/ransomware-university-illinois-chicago</link>
+      <description>A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ransomware-university-illinois-chicago</description>
+      <guid isPermaLink="false">obsidian-lake:item:567f3a4f3f9fc35a</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>therecord</category>
+      <pubDate>Mon, 05 Oct 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] WindRose Health Network Discloses Data Breach Affecting 33K Individuals</title>
+      <link>https://www.hipaajournal.com/windrose-health-network-data-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by WindRose Health Network and Advantage Home Health Care in Indiana, Camden-on-Gauley Medical Center in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/windrose-health-network-data-breach/"&gt;WindRose Health Network Discloses Data Breach Affecting 33K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 33,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/windrose-health-network-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7b8f36841a97b7e8</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 05 Oct 2026 16:49:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:43:33 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -262,19 +262,6 @@
       <pubDate>Mon, 05 Oct 2026 16:49:17 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement</title>
-      <link>https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</link>
-      <description>Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data.
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</description>
-      <guid isPermaLink="false">obsidian-lake:item:76475e60209703d3</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Mon, 05 Oct 2026 19:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Engineer sentenced for locking over 3,000 devices on employer network</title>
       <link>https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/</link>
       <description>A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]
@@ -300,6 +287,20 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Tue, 06 Oct 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
+      <link>https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
+      <description>Eduard Kovacs reports: The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees, Reuters reported on Tuesday, citing two people familiar with the matter. The FBI has not publicly named the contractor or the organization involved. However, a senior bureau official told Reuters that its...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a649a4f0c1a1e660</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 06 Oct 2026 15:23:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

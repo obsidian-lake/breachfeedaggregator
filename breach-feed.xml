@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:36:39 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -234,20 +234,6 @@
       <pubDate>Fri, 02 Oct 2026 10:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices</title>
-      <link>https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/</link>
-      <description>IAPP reports: Regulator inquiries into major AI companies&amp;#8217; cybersecurity practices are ramping up. A day after reports surfaced about the likely escalation of a U.S. Federal Trade Commission probe into OpenAI and other developers, California Attorney General Rob Bonta advanced his office&amp;#8217;s ongoing OpenAI investigation. Bonta announced the company was served an investigative subpoena to...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e49d5da4130726ea</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 03 Oct 2026 13:41:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] ShinyHunters hacker “Rey,” allegedly involved in FBI data theft, detained in Jordan</title>
       <link>https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/</link>
       <description>Jana Winter, Raphael Satter, and A.J. Vicens report: A key member of the ShinyHunters hacking group, ‌which claims to have stolen data on every FBI employee, was detained this week in Jordan, three people familiar with the matter told Reuters. Two of ​the sources said he was cooperating with the FBI to identify ​his fellow...
@@ -370,6 +356,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 05 Oct 2026 16:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement</title>
+      <link>https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</link>
+      <description>Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data.
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</description>
+      <guid isPermaLink="false">obsidian-lake:item:76475e60209703d3</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Mon, 05 Oct 2026 19:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

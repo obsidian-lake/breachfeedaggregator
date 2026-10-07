@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:32:38 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,20 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] CPAP Medical Supplies and Services Agrees to Pay Up to $500K to Resolve Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/cpap-medical-supplies-services-data-breach-settlement/</link>
-      <description>&lt;p&gt;CPAP Medical Supplies and Services, a Jacksonville, Florida-based provider of durable medical equipment for treating sleep apnea, has agreed to [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cpap-medical-supplies-services-data-breach-settlement/"&gt;CPAP Medical Supplies and Services Agrees to Pay Up to $500K to Resolve Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 500,000 // $ (est.): $500,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/cpap-medical-supplies-services-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:36d463dd8928b920</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 01 Oct 2026 10:00:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Texas Hospice Management Company Data Breach Affects 35,000 Texas Residents</title>
       <link>https://www.hipaajournal.com/angmar-management-services-data-breach/</link>
       <description>&lt;p&gt;AngMar Management Services, a Mansfield, Texas-based home health and hospice management company, has identified unauthorized access to its information technology [&amp;#8230;]&lt;/p&gt;
@@ -218,20 +204,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 02 Oct 2026 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Hackers Breached Propulsion System of U.S.-Bound Oil Tanker</title>
-      <link>https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/</link>
-      <description>Seen on Homeland Security Today: FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that highlights the growing physical risks from cyberattacks. The cyberattack resulted...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/</description>
-      <guid isPermaLink="false">obsidian-lake:item:827ebffcb1466362</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 05 Oct 2026 12:30:21 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] CISA Sends CIRCIA Final Rule for White House Review</title>
@@ -262,33 +234,6 @@
       <pubDate>Mon, 05 Oct 2026 16:49:17 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Engineer sentenced for locking over 3,000 devices on employer network</title>
-      <link>https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/</link>
-      <description>A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 32,000,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5480e932d265bebb</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 06 Oct 2026 08:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
-      <link>https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
-      <description>&lt;p&gt;The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/"&gt;FBI Blames Contractor&amp;#8217;s Missed Patch for ShinyHunters Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: 3rd-party / supply chain // Records (est.): 8,217 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5862d159a99b8bde</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Tue, 06 Oct 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
       <link>https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
       <description>Eduard Kovacs reports: The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees, Reuters reported on Tuesday, citing two people familiar with the matter. The FBI has not publicly named the contractor or the organization involved. However, a senior bureau official told Reuters that its...
@@ -317,18 +262,58 @@
       <pubDate>Tue, 06 Oct 2026 23:59:13 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System</title>
-      <link>https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/</link>
-      <description>&lt;p&gt;The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"&gt;Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+      <title>[BREACH · INFO] De Kalb County, Indiana fell prey to vendor impersonation billing</title>
+      <link>https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/</link>
+      <description>The Star reports that the DeKalb County government fell victim to a cybersecurity incident for the second time in little more than a year. This time, it paid an invoice sent by threat actors impersonating a vendor: “On Thursday, October 1, 2026, DeKalb County Government became aware of a Financial Fraud Cyber Incident that had...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
-// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/</description>
-      <guid isPermaLink="false">obsidian-lake:item:15d63355011d7f8a</guid>
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f86a579fb0801c80</guid>
       <category>breach</category>
-      <category>high</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 07 Oct 2026 12:13:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
+      <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
+      <description>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle "Rey," was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1c8923e8bcf88b7d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach</title>
+      <link>https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach</link>
+      <description>The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 190,000,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:964793230f36d7e1</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>therecord</category>
+      <pubDate>Wed, 07 Oct 2026 13:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</title>
+      <link>https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</link>
+      <description>&lt;p&gt;Southern Company is notifying customers that their utility account information was accessed by hackers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/"&gt;Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 400,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</description>
+      <guid isPermaLink="false">obsidian-lake:item:35f40c5c95620a87</guid>
+      <category>breach</category>
+      <category>medium</category>
       <category>other</category>
       <category>securityweek</category>
-      <pubDate>Wed, 07 Oct 2026 01:32:58 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 14:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

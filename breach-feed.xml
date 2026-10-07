@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:28:13 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -289,19 +289,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach</title>
-      <link>https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach</link>
-      <description>The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 190,000,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:964793230f36d7e1</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>therecord</category>
-      <pubDate>Wed, 07 Oct 2026 13:49:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</title>
       <link>https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</link>
       <description>&lt;p&gt;Southern Company is notifying customers that their utility account information was accessed by hackers.&lt;/p&gt;
@@ -314,6 +301,45 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Wed, 07 Oct 2026 14:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Arizona courts say hackers stole info on more than 1.3 million people</title>
+      <link>https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million</link>
+      <description>The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffic and criminal violations.
+
+// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,300,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million</description>
+      <guid isPermaLink="false">obsidian-lake:item:b729d4f8cf8acf10</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 07 Oct 2026 18:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] US posts $10 million reward for accused Chinese ‘Hafnium’ hacker</title>
+      <link>https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward</link>
+      <description>U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 10,000,000 // $ (est.): $10,000,000 // Source: therecord // Original: https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward</description>
+      <guid isPermaLink="false">obsidian-lake:item:393ca35479a0f339</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 07 Oct 2026 19:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</link>
+      <description>The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3022a6138a862b67</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 07 Oct 2026 21:28:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

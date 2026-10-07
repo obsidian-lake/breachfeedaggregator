@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 23:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:43:18 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -301,6 +301,34 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 06 Oct 2026 15:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Engineer sentenced for locking over 3,000 devices on employer’s network</title>
+      <link>https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/</link>
+      <description>Sergiu Gatlan has an update on a case previously noted on this site. A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&amp;#8217;s network in a ransomware-style attack. 57-year-old Daniel Rhyne from Kansas City, Missouri, pleaded guilty...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 32,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b03401ac0b5ac146</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 06 Oct 2026 23:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System</title>
+      <link>https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/</link>
+      <description>&lt;p&gt;The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"&gt;Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/</description>
+      <guid isPermaLink="false">obsidian-lake:item:15d63355011d7f8a</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Wed, 07 Oct 2026 01:32:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 23:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:51:31 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -276,19 +276,6 @@
       <pubDate>Wed, 07 Oct 2026 12:13:09 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
-      <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
-      <description>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle "Rey," was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1c8923e8bcf88b7d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>krebsonsecurity</category>
-      <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</title>
       <link>https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</link>
       <description>&lt;p&gt;Southern Company is notifying customers that their utility account information was accessed by hackers.&lt;/p&gt;
@@ -340,6 +327,20 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 07 Oct 2026 21:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients</title>
+      <link>https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/</link>
+      <description>Here&amp;#8217;s another case where the folks who were supposed to be the good guys helping you may be harming you. Zohar Pinhasi, 50, also known as “Zack Silver” and “Zack Green,” a U.S. and Israeli national, was arraigned today in the Eastern District of New York on wire fraud charges relating to Pinhasi’s false representations...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1c291b7cf5ae7790</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 08 Oct 2026 00:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

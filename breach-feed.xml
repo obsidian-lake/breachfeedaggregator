@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 03:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:49:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -273,19 +273,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</link>
-      <description>The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3022a6138a862b67</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 07 Oct 2026 21:28:54 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients</title>

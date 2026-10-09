@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:21:30 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] CISA Sends CIRCIA Final Rule for White House Review</title>
-      <link>https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/</link>
-      <description>&lt;p&gt;The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has penned a final rule under the Cyber Incident Reporting for Critical [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"&gt;CISA Sends CIRCIA Final Rule for White House Review&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d51269650fbf3118</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 05 Oct 2026 13:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] WindRose Health Network Discloses Data Breach Affecting 33K Individuals</title>
-      <link>https://www.hipaajournal.com/windrose-health-network-data-breach/</link>
-      <description>&lt;p&gt;Data breaches have been announced by WindRose Health Network and Advantage Home Health Care in Indiana, Camden-on-Gauley Medical Center in [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/windrose-health-network-data-breach/"&gt;WindRose Health Network Discloses Data Breach Affecting 33K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 33,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/windrose-health-network-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:7b8f36841a97b7e8</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 05 Oct 2026 16:49:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
       <link>https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
       <description>Eduard Kovacs reports: The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees, Reuters reported on Tuesday, citing two people familiar with the matter. The FBI has not publicly named the contractor or the organization involved. However, a senior bureau official told Reuters that its...
@@ -275,6 +247,20 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · HIGH] Jefferson-Blount-St. Clair Mental Health Authority Pays $700K to Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement/</link>
+      <description>&lt;p&gt;Jefferson-Blount-St. Clair Mental Health Authority has agreed to settle a consolidated class action lawsuit stemming from a 2025 security incident [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement/"&gt;Jefferson-Blount-St. Clair Mental Health Authority Pays $700K to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 700,000 // $ (est.): $700,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:aa1c2d13b03dc78f</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 07 Oct 2026 15:44:18 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients</title>
       <link>https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/</link>
       <description>Here&amp;#8217;s another case where the folks who were supposed to be the good guys helping you may be harming you. Zohar Pinhasi, 50, also known as “Zack Silver” and “Zack Green,” a U.S. and Israeli national, was arraigned today in the Eastern District of New York on wire fraud charges relating to Pinhasi’s false representations...
@@ -317,17 +303,72 @@
       <pubDate>Thu, 08 Oct 2026 14:15:54 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] DOJ charges ransomware recovery CEO for secretly paying hackers</title>
-      <link>https://therecord.media/ransomware-recovery-charges-doj</link>
-      <description>The owner of a ransomware recovery firm was hit with wire fraud charges for allegedly making secret ransom payments while overcharging the victims of attacks.
+      <title>[BREACH · INFO] iRhythm Notifies Individuals Affected by June 2026 Hacking Incident</title>
+      <link>https://www.hipaajournal.com/irhythm-data-breach/</link>
+      <description>&lt;p&gt;iRhythm, a health technology company that specializes in wearable cardiac monitoring devices such as the Zio wearable ECG monitor, has [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/irhythm-data-breach/"&gt;iRhythm Notifies Individuals Affected by June 2026 Hacking Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ransomware-recovery-charges-doj</description>
-      <guid isPermaLink="false">obsidian-lake:item:6582921e843c62fa</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/irhythm-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a137ee6fe6d4c08c</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 09 Oct 2026 10:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Bacon County Health Services Investigating Cyber Incident</title>
+      <link>https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Bacon County Health Services in Georgia, Comprehensive Orthopaedics &amp;#38; Musculoskeletal Care in Connecticut, Imagine [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/"&gt;Bacon County Health Services Investigating Cyber Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0e2fe81d82651149</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 09 Oct 2026 14:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI touts another ShinyHunters arrest in response to data breach</title>
+      <link>https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation</link>
+      <description>“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate," FBI Director Kash Patel said.
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation</description>
+      <guid isPermaLink="false">obsidian-lake:item:0419de820a0c85c8</guid>
       <category>breach</category>
       <category>info</category>
       <category>other</category>
       <category>therecord</category>
-      <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 15:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Valley Oaks Health Data Breach Settlement Gets First Nod from Court</title>
+      <link>https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/</link>
+      <description>&lt;p&gt;Valley Oaks Health faced class action litigation over a June 2023 data security incident that affected 50,352 individuals. The consolidated [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/"&gt;Valley Oaks Health Data Breach Settlement Gets First Nod from Court&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 50,352 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4fc9292731bf765b</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 09 Oct 2026 16:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI arrests another suspected ShinyHunters hacker after agency breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/</link>
+      <description>The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3e81c73975d205ef</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Fri, 09 Oct 2026 17:02:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:36:02 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -192,34 +192,6 @@
       <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
-      <link>https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
-      <description>Eduard Kovacs reports: The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees, Reuters reported on Tuesday, citing two people familiar with the matter. The FBI has not publicly named the contractor or the organization involved. However, a senior bureau official told Reuters that its...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a649a4f0c1a1e660</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 06 Oct 2026 15:23:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Engineer sentenced for locking over 3,000 devices on employer’s network</title>
-      <link>https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/</link>
-      <description>Sergiu Gatlan has an update on a case previously noted on this site. A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&amp;#8217;s network in a ransomware-style attack. 57-year-old Daniel Rhyne from Kansas City, Missouri, pleaded guilty...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 32,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b03401ac0b5ac146</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 06 Oct 2026 23:59:13 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] De Kalb County, Indiana fell prey to vendor impersonation billing</title>
       <link>https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/</link>
       <description>The Star reports that the DeKalb County government fell victim to a cybersecurity incident for the second time in little more than a year. This time, it paid an invoice sent by threat actors impersonating a vendor: “On Thursday, October 1, 2026, DeKalb County Government became aware of a Financial Fraud Cyber Incident that had...
@@ -369,6 +341,34 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 09 Oct 2026 17:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Anthropic AI agent gives fake murder tip to US cops in global breach</title>
+      <link>https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/</link>
+      <description>Georgia Wells and Joseph Pisani report: Rogue AI models have hacked companies and tried to break into government websites. Now one has submitted a fake tip for an unsolved crime. Police in Philadelphia say Anthropic alerted them this week that one of its artificial-intelligence models submitted a false homicide tip through PhillyUnsolvedMurders.com. In a blog...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:25e3474301821618</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 10 Oct 2026 10:42:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI announces yet another arrest allegedly connected to the FBI Jobs hack</title>
+      <link>https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/</link>
+      <description>The FBI is doing another victory dance after arresting someone they allege assisted ShinyHunters with the FBI Jobs attack.  Brian Krebs reports: Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ee6cae82c3418c52</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 10 Oct 2026 11:57:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

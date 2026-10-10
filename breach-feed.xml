@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 14:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:08:27 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -369,6 +369,19 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 10 Oct 2026 11:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Cyber exec arrested in case allegedly tied to ShinyHunters hackers</title>
+      <link>https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/</link>
+      <description>Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5d6a58b64149d79d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Sat, 10 Oct 2026 15:07:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

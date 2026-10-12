@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 10:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:56:59 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,34 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Jefferson-Blount-St. Clair Mental Health Authority Pays $700K to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement/</link>
-      <description>&lt;p&gt;Jefferson-Blount-St. Clair Mental Health Authority has agreed to settle a consolidated class action lawsuit stemming from a 2025 security incident [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement/"&gt;Jefferson-Blount-St. Clair Mental Health Authority Pays $700K to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 700,000 // $ (est.): $700,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:aa1c2d13b03dc78f</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 07 Oct 2026 15:44:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients</title>
-      <link>https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/</link>
-      <description>Here&amp;#8217;s another case where the folks who were supposed to be the good guys helping you may be harming you. Zohar Pinhasi, 50, also known as “Zack Silver” and “Zack Green,” a U.S. and Israeli national, was arraigned today in the Eastern District of New York on wire fraud charges relating to Pinhasi’s false representations...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1c291b7cf5ae7790</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 08 Oct 2026 00:47:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Almost 20 Million Individuals Affected by 2025 Data Breach at Oracle Health/Cerner</title>
       <link>https://www.hipaajournal.com/oracle-health-data-breach/</link>
       <description>&lt;p&gt;The scale of a 2025 data breach involving electronic protected health information stored on Oracle Health’s legacy Cerner servers is [&amp;#8230;]&lt;/p&gt;
@@ -287,19 +259,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 09 Oct 2026 14:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI touts another ShinyHunters arrest in response to data breach</title>
-      <link>https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation</link>
-      <description>“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate," FBI Director Kash Patel said.
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation</description>
-      <guid isPermaLink="false">obsidian-lake:item:0419de820a0c85c8</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 09 Oct 2026 15:41:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · MEDIUM] Valley Oaks Health Data Breach Settlement Gets First Nod from Court</title>
@@ -368,6 +327,47 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Sat, 10 Oct 2026 15:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe</title>
+      <link>https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/</link>
+      <description>&lt;p&gt;The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/"&gt;Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e9eb3593f2e4b88b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 12 Oct 2026 10:32:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Etairos Health Settles Ransomware-Related Class Action Lawsuit</title>
+      <link>https://www.hipaajournal.com/etairos-health-data-breach-settlement/</link>
+      <description>&lt;p&gt;Etairos Health has agreed to settle class action litigation stemming from a February 20, 2024, ransomware attack and data breach [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/etairos-health-data-breach-settlement/"&gt;Etairos Health Settles Ransomware-Related Class Action Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/etairos-health-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0ff42eb7148299ed</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 12 Oct 2026 11:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Anthropic takes risky AI tests offline after models breach govt sites</title>
+      <link>https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/</link>
+      <description>Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8ba9b8e7a12a6c3d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Mon, 12 Oct 2026 18:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

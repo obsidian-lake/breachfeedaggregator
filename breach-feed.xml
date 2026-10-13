@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:03:49 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,34 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Almost 20 Million Individuals Affected by 2025 Data Breach at Oracle Health/Cerner</title>
-      <link>https://www.hipaajournal.com/oracle-health-data-breach/</link>
-      <description>&lt;p&gt;The scale of a 2025 data breach involving electronic protected health information stored on Oracle Health’s legacy Cerner servers is [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/oracle-health-data-breach/"&gt;Almost 20 Million Individuals Affected by 2025 Data Breach at Oracle Health/Cerner&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 20,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/oracle-health-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:cf693ef432ab994c</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 08 Oct 2026 07:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Laboratory Services Cooperative Agrees to Pay $6.1 Million to Settle Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/laboratory-services-cooperative-data-breach-settlement/</link>
-      <description>&lt;p&gt;Laboratory Services Cooperative, a Seattle, Washington-based nonprofit clinical laboratory that provides diagnostic and analytical testing services for Planned Parenthood affiliates [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/laboratory-services-cooperative-data-breach-settlement/"&gt;Laboratory Services Cooperative Agrees to Pay $6.1 Million to Settle Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 6,100,000 // $ (est.): $6,100,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/laboratory-services-cooperative-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8fe4381a9d435a7d</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 08 Oct 2026 14:15:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] iRhythm Notifies Individuals Affected by June 2026 Hacking Incident</title>
       <link>https://www.hipaajournal.com/irhythm-data-breach/</link>
       <description>&lt;p&gt;iRhythm, a health technology company that specializes in wearable cardiac monitoring devices such as the Zio wearable ECG monitor, has [&amp;#8230;]&lt;/p&gt;
@@ -303,33 +275,6 @@
       <pubDate>Sat, 10 Oct 2026 11:57:52 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Cyber exec arrested in case allegedly tied to ShinyHunters hackers</title>
-      <link>https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/</link>
-      <description>Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5d6a58b64149d79d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Sat, 10 Oct 2026 15:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe</title>
-      <link>https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/</link>
-      <description>&lt;p&gt;The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/"&gt;Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e9eb3593f2e4b88b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 12 Oct 2026 10:32:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Etairos Health Settles Ransomware-Related Class Action Lawsuit</title>
       <link>https://www.hipaajournal.com/etairos-health-data-breach-settlement/</link>
       <description>&lt;p&gt;Etairos Health has agreed to settle class action litigation stemming from a February 20, 2024, ransomware attack and data breach [&amp;#8230;]&lt;/p&gt;
@@ -355,6 +300,20 @@
       <category>gov</category>
       <category>bleepingcomputer</category>
       <pubDate>Mon, 12 Oct 2026 18:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Roseland Community Hospital Association Settles Data Breach Lawsuit for $650,000</title>
+      <link>https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/</link>
+      <description>&lt;p&gt;Roseland Community Hospital Association in Illinois has agreed to settle a class action data breach lawsuit for $650,000. The lawsuit was [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/"&gt;Roseland Community Hospital Association Settles Data Breach Lawsuit for $650,000&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 650,000 // $ (est.): $650,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:edb56a8ae4e9d9db</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 13 Oct 2026 10:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

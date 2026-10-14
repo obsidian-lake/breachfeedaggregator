@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:54:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -245,34 +245,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 09 Oct 2026 16:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Anthropic AI agent gives fake murder tip to US cops in global breach</title>
-      <link>https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/</link>
-      <description>Georgia Wells and Joseph Pisani report: Rogue AI models have hacked companies and tried to break into government websites. Now one has submitted a fake tip for an unsolved crime. Police in Philadelphia say Anthropic alerted them this week that one of its artificial-intelligence models submitted a false homicide tip through PhillyUnsolvedMurders.com. In a blog...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:25e3474301821618</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 10 Oct 2026 10:42:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI announces yet another arrest allegedly connected to the FBI Jobs hack</title>
-      <link>https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/</link>
-      <description>The FBI is doing another victory dance after arresting someone they allege assisted ShinyHunters with the FBI Jobs attack.  Brian Krebs reports: Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ee6cae82c3418c52</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 10 Oct 2026 11:57:52 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Etairos Health Settles Ransomware-Related Class Action Lawsuit</title>

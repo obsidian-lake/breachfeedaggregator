@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:46:09 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] iRhythm Notifies Individuals Affected by June 2026 Hacking Incident</title>
-      <link>https://www.hipaajournal.com/irhythm-data-breach/</link>
-      <description>&lt;p&gt;iRhythm, a health technology company that specializes in wearable cardiac monitoring devices such as the Zio wearable ECG monitor, has [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/irhythm-data-breach/"&gt;iRhythm Notifies Individuals Affected by June 2026 Hacking Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/irhythm-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a137ee6fe6d4c08c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 09 Oct 2026 10:44:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Bacon County Health Services Investigating Cyber Incident</title>
       <link>https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/</link>
       <description>&lt;p&gt;Data breaches have been announced by Bacon County Health Services in Georgia, Comprehensive Orthopaedics &amp;#38; Musculoskeletal Care in Connecticut, Imagine [&amp;#8230;]&lt;/p&gt;
@@ -287,6 +273,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 14 Oct 2026 10:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] July 2026 Healthcare Data Breach Report</title>
+      <link>https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/</link>
+      <description>&lt;p&gt;In July 2026, 77 healthcare data breaches affecting 500 or more individuals were reported to the U.S. Department of Health [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/"&gt;July 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3926612241e7fb81</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 15 Oct 2026 08:18:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

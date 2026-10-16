@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:28:08 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -275,6 +275,20 @@
       <pubDate>Wed, 14 Oct 2026 10:00:04 +0000</pubDate>
     </item>
     <item>
+      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
+      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
+      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 15 Oct 2026 06:30:48 +0000</pubDate>
+    </item>
+    <item>
       <title>[BREACH · INFO] July 2026 Healthcare Data Breach Report</title>
       <link>https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/</link>
       <description>&lt;p&gt;In July 2026, 77 healthcare data breaches affecting 500 or more individuals were reported to the U.S. Department of Health [&amp;#8230;]&lt;/p&gt;
@@ -313,6 +327,33 @@
       <category>gov</category>
       <category>bleepingcomputer</category>
       <pubDate>Fri, 16 Oct 2026 07:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts</title>
+      <link>https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/</link>
+      <description>&lt;p&gt;A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/"&gt;BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8c7b036b343c2c34</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 16 Oct 2026 11:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Baltimore suburb confirms August data breach after ransomware claims</title>
+      <link>https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</link>
+      <description>Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:38208afe28ec700d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>therecord</category>
+      <pubDate>Fri, 16 Oct 2026 13:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

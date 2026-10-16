@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:39:14 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,48 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Bacon County Health Services Investigating Cyber Incident</title>
-      <link>https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Bacon County Health Services in Georgia, Comprehensive Orthopaedics &amp;#38; Musculoskeletal Care in Connecticut, Imagine [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/"&gt;Bacon County Health Services Investigating Cyber Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0e2fe81d82651149</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 09 Oct 2026 14:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Valley Oaks Health Data Breach Settlement Gets First Nod from Court</title>
-      <link>https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/</link>
-      <description>&lt;p&gt;Valley Oaks Health faced class action litigation over a June 2023 data security incident that affected 50,352 individuals. The consolidated [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/"&gt;Valley Oaks Health Data Breach Settlement Gets First Nod from Court&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 50,352 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4fc9292731bf765b</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 09 Oct 2026 16:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Etairos Health Settles Ransomware-Related Class Action Lawsuit</title>
-      <link>https://www.hipaajournal.com/etairos-health-data-breach-settlement/</link>
-      <description>&lt;p&gt;Etairos Health has agreed to settle class action litigation stemming from a February 20, 2024, ransomware attack and data breach [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/etairos-health-data-breach-settlement/"&gt;Etairos Health Settles Ransomware-Related Class Action Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/etairos-health-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0ff42eb7148299ed</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 12 Oct 2026 11:44:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Roseland Community Hospital Association Settles Data Breach Lawsuit for $650,000</title>
       <link>https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/</link>
       <description>&lt;p&gt;Roseland Community Hospital Association in Illinois has agreed to settle a class action data breach lawsuit for $650,000. The lawsuit was [&amp;#8230;]&lt;/p&gt;
@@ -354,6 +312,48 @@
       <category>gov</category>
       <category>therecord</category>
       <pubDate>Fri, 16 Oct 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ransomware Groups Increasingly Resorting to Real World Threats</title>
+      <link>https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/</link>
+      <description>&lt;p&gt;The tactics of ransomware groups are constantly changing to increase pressure on victims to give in to their demands. Initially, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/"&gt;Ransomware Groups Increasingly Resorting to Real World Threats&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9304e035a45c9dc1</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 16 Oct 2026 13:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] $6.4 Million Settlement Agreed in AMCA Customer Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/</link>
+      <description>&lt;p&gt;A settlement has been agreed to partly resolve litigation stemming from a cyberattack on American Collection Medical Agency (AMCA).  The [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/"&gt;$6.4 Million Settlement Agreed in AMCA Customer Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 6,400,000 // $ (est.): $6,400,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:393e987b075e3eb8</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 16 Oct 2026 14:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Mid Florida Dermatology &amp; Plastic Surgery Data Breach Affects 85K Patients</title>
+      <link>https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Mid Florida Dermatology &amp;#38; Plastic Surgery, Kannarr Eye Care in Kansas, and Indiana University [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/"&gt;Mid Florida Dermatology &amp;#038; Plastic Surgery Data Breach Affects 85K Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 85,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:12ced70523ef3f42</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 16 Oct 2026 15:29:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

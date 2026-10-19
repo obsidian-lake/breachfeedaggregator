@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:21:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -247,32 +247,6 @@
       <pubDate>Thu, 15 Oct 2026 08:18:28 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] BAE Systems cyberattack disrupts US federal court operations</title>
-      <link>https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/</link>
-      <description>The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d342f7137dd6f95b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Fri, 16 Oct 2026 07:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Baltimore suburb confirms August data breach after ransomware claims</title>
-      <link>https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</link>
-      <description>Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:38208afe28ec700d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>therecord</category>
-      <pubDate>Fri, 16 Oct 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Ransomware Groups Increasingly Resorting to Real World Threats</title>
       <link>https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/</link>
       <description>&lt;p&gt;The tactics of ransomware groups are constantly changing to increase pressure on victims to give in to their demands. Initially, [&amp;#8230;]&lt;/p&gt;
@@ -369,6 +343,32 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Mon, 19 Oct 2026 11:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
+      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
+      <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: krebsonsecurity // Original: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</description>
+      <guid isPermaLink="false">obsidian-lake:item:deacdc2e65dd2195</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>krebsonsecurity</category>
+      <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands</title>
+      <link>https://therecord.media/ahold-delhaize-cyberattack-grocery</link>
+      <description>Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic.
+
+// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ahold-delhaize-cyberattack-grocery</description>
+      <guid isPermaLink="false">obsidian-lake:item:425846ce93981910</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>retail</category>
+      <category>therecord</category>
+      <pubDate>Mon, 19 Oct 2026 16:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

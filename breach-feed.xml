@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:51:39 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
-      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
-      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 15 Oct 2026 06:30:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] July 2026 Healthcare Data Breach Report</title>
       <link>https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/</link>
       <description>&lt;p&gt;In July 2026, 77 healthcare data breaches affecting 500 or more individuals were reported to the U.S. Department of Health [&amp;#8230;]&lt;/p&gt;
@@ -411,6 +397,60 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 20 Oct 2026 15:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] US Agencies Detail Incident Response Practices for Rogue AI Agents</title>
+      <link>https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/</link>
+      <description>&lt;p&gt;NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/"&gt;US Agencies Detail Incident Response Practices for Rogue AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/</description>
+      <guid isPermaLink="false">obsidian-lake:item:2920ba91c6b44a28</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Tue, 20 Oct 2026 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] California Settles 23andMe Data Breach Lawsuit for $6 Million</title>
+      <link>https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/</link>
+      <description>&lt;p&gt;In July, a coalition of 42 state attorneys general agreed to an $18 million settlement with 23andMe to resolve claims [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/"&gt;California Settles 23andMe Data Breach Lawsuit for $6 Million&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 18,000,000 // $ (est.): $18,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d3dd906d7a80a6e2</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 20 Oct 2026 16:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] 23andMe successor settles with California for $6 million over cybersecurity failings</title>
+      <link>https://therecord.media/23andme-california-data-breach-settlement</link>
+      <description>California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $6,000,000 // Source: therecord // Original: https://therecord.media/23andme-california-data-breach-settlement</description>
+      <guid isPermaLink="false">obsidian-lake:item:29ac1c4b3b838c48</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Tue, 20 Oct 2026 18:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] California warns all public school students of data stolen in contractor breach</title>
+      <link>https://therecord.media/california-warns-all-public-school-students-of-data-breach</link>
+      <description>The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/california-warns-all-public-school-students-of-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:6203e915296ac66d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>therecord</category>
+      <pubDate>Tue, 20 Oct 2026 19:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:44:41 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Twin Cities Pain Clinic Settles Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/twin-cities-pain-clinic-data-breach-settlement/</link>
-      <description>&lt;p&gt;Twin Cities Pain Clinic, an Edina, Minnesota-based pain management center, has settled class action litigation arising from a July 2025 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/twin-cities-pain-clinic-data-breach-settlement/"&gt;Twin Cities Pain Clinic Settles Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/twin-cities-pain-clinic-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a86303ec2c9ae0b8</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 14 Oct 2026 10:00:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
       <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
       <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -331,20 +317,6 @@
       <pubDate>Mon, 19 Oct 2026 06:44:39 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] One Compromised Login Exposed Millions of California Students’ Records</title>
-      <link>https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/</link>
-      <description>&lt;p&gt;Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/"&gt;One Compromised Login Exposed Millions of California Students&amp;#8217; Records&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/</description>
-      <guid isPermaLink="false">obsidian-lake:item:29f7fbe184030b8a</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 19 Oct 2026 11:55:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
       <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
       <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.
@@ -358,17 +330,87 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands</title>
-      <link>https://therecord.media/ahold-delhaize-cyberattack-grocery</link>
-      <description>Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic.
+      <title>[BREACH · INFO] Ahold Delhaize: Cyberattack affects services across US and Europe</title>
+      <link>https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/</link>
+      <description>Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]
 
-// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ahold-delhaize-cyberattack-grocery</description>
-      <guid isPermaLink="false">obsidian-lake:item:425846ce93981910</guid>
+// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9f686724487e1c0c</guid>
       <category>breach</category>
       <category>info</category>
       <category>retail</category>
-      <category>therecord</category>
-      <pubDate>Mon, 19 Oct 2026 16:45:00 +0000</pubDate>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 20 Oct 2026 11:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio</title>
+      <link>https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</link>
+      <description>DysruptionHub reports: The health system disabled its network after suspicious activity, leaving MyChart and doctor searches unavailable and directing urgent medical needs to phone calls or walk-in clinics. A suspected cyber incident left Parkview Health patients without MyChart and online doctor searches Monday after the Indiana-based health system disabled its network in response to suspicious...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</description>
+      <guid isPermaLink="false">obsidian-lake:item:434822cd83842649</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 20 Oct 2026 12:45:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ahold Delhaize Restoring Services Disrupted by Cyberattack</title>
+      <link>https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/</link>
+      <description>&lt;p&gt;The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/"&gt;Ahold Delhaize Restoring Services Disrupted by Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:fbae4d8f72bc6ee0</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>retail</category>
+      <category>securityweek</category>
+      <pubDate>Tue, 20 Oct 2026 13:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach</title>
+      <link>https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</link>
+      <description>Connecticut Attorney General William Tong has been active in litigating data breaches. The press release below relates to a 2024 breach of Frontier Communications by RansomHub: Attorney General William Tong today announced a $625,000 settlement with Frontier Communications Parent Inc., resolving an investigation into an April 2024 data breach that compromised the sensitive personal information,...
+&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: RansomHub // Vector: Under investigation // Records (est.): 2,024,000,000,000 // $ (est.): $625,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3805c57af806cde2</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] $80 Million Settlement Proposed to Resolve Conduent Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/</link>
+      <description>&lt;p&gt;An $80 million settlement has been proposed to resolve a consolidated class action lawsuit against Conduent Business Services, LLC, over [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/"&gt;$80 Million Settlement Proposed to Resolve Conduent Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 80,000,000 // $ (est.): $80,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3712a7f14d270585</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 20 Oct 2026 14:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Central Ohio Primary Care Physicians Data Breach Affects 1.4 Million Patients</title>
+      <link>https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/</link>
+      <description>&lt;p&gt;Central Ohio Primary Care Physicians, one of the largest independent physician-owned primary care medical groups in the United States, has [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/"&gt;Central Ohio Primary Care Physicians Data Breach Affects 1.4 Million Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,400,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9df3e2d4e86da981</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 20 Oct 2026 15:31:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

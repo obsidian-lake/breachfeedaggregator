@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:11:39 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -464,6 +464,19 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Tue, 20 Oct 2026 20:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] CISA: SafePay ransomware hit over 600 critical infrastructure orgs</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,024 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/</description>
+      <guid isPermaLink="false">obsidian-lake:item:190252fca79a80eb</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 21 Oct 2026 08:36:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:32:21 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,48 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] July 2026 Healthcare Data Breach Report</title>
-      <link>https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/</link>
-      <description>&lt;p&gt;In July 2026, 77 healthcare data breaches affecting 500 or more individuals were reported to the U.S. Department of Health [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/"&gt;July 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3926612241e7fb81</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 15 Oct 2026 08:18:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ransomware Groups Increasingly Resorting to Real World Threats</title>
-      <link>https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/</link>
-      <description>&lt;p&gt;The tactics of ransomware groups are constantly changing to increase pressure on victims to give in to their demands. Initially, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/"&gt;Ransomware Groups Increasingly Resorting to Real World Threats&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ransomware-groups-increasingly-resorting-real-world-threats/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9304e035a45c9dc1</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 16 Oct 2026 13:55:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] $6.4 Million Settlement Agreed in AMCA Customer Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/</link>
-      <description>&lt;p&gt;A settlement has been agreed to partly resolve litigation stemming from a cyberattack on American Collection Medical Agency (AMCA).  The [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/"&gt;$6.4 Million Settlement Agreed in AMCA Customer Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 6,400,000 // $ (est.): $6,400,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:393e987b075e3eb8</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 16 Oct 2026 14:43:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Mid Florida Dermatology &amp; Plastic Surgery Data Breach Affects 85K Patients</title>
       <link>https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/</link>
       <description>&lt;p&gt;Data breaches have been announced by Mid Florida Dermatology &amp;#38; Plastic Surgery, Kannarr Eye Care in Kansas, and Indiana University [&amp;#8230;]&lt;/p&gt;
@@ -316,19 +274,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ahold Delhaize: Cyberattack affects services across US and Europe</title>
-      <link>https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/</link>
-      <description>Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]
-
-// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9f686724487e1c0c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>retail</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 20 Oct 2026 11:18:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio</title>
       <link>https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</link>
       <description>DysruptionHub reports: The health system disabled its network after suspicious activity, leaving MyChart and doctor searches unavailable and directing urgent medical needs to phone calls or walk-in clinics. A suspected cyber incident left Parkview Health patients without MyChart and online doctor searches Monday after the Indiana-based health system disabled its network in response to suspicious...
@@ -341,20 +286,6 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 20 Oct 2026 12:45:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Ahold Delhaize Restoring Services Disrupted by Cyberattack</title>
-      <link>https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/</link>
-      <description>&lt;p&gt;The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/"&gt;Ahold Delhaize Restoring Services Disrupted by Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:fbae4d8f72bc6ee0</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>retail</category>
-      <category>securityweek</category>
-      <pubDate>Tue, 20 Oct 2026 13:02:18 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach</title>
@@ -397,20 +328,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 20 Oct 2026 15:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] US Agencies Detail Incident Response Practices for Rogue AI Agents</title>
-      <link>https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/</link>
-      <description>&lt;p&gt;NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/"&gt;US Agencies Detail Incident Response Practices for Rogue AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2920ba91c6b44a28</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Tue, 20 Oct 2026 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] California Settles 23andMe Data Breach Lawsuit for $6 Million</title>
@@ -477,6 +394,34 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 21 Oct 2026 08:36:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Feds Issues Advisory About SafePay Ransomware Group</title>
+      <link>https://www.hipaajournal.com/feds-issues-advisory-about-safepay-ransomware-group/</link>
+      <description>&lt;p&gt;The U.S. Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Secret Service (USSS), and cybersecurity agencies in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/feds-issues-advisory-about-safepay-ransomware-group/"&gt;Feds Issues Advisory About SafePay Ransomware Group&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/feds-issues-advisory-about-safepay-ransomware-group/</description>
+      <guid isPermaLink="false">obsidian-lake:item:29b57b5c6c7a4644</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 21 Oct 2026 14:02:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Jefferson County Health Department Pays $2.25M to Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/</link>
+      <description>&lt;p&gt;Jefferson County Health Department, a public health agency for Jefferson County in Hillsboro, Missouri, has agreed to settle class action [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/"&gt;Jefferson County Health Department Pays $2.25M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,250,000 // $ (est.): $2,250,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:eab0620a0355d2e2</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 21 Oct 2026 16:35:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

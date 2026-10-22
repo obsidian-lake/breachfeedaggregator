@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:30:46 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,20 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Mid Florida Dermatology &amp; Plastic Surgery Data Breach Affects 85K Patients</title>
-      <link>https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Mid Florida Dermatology &amp;#38; Plastic Surgery, Kannarr Eye Care in Kansas, and Indiana University [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/"&gt;Mid Florida Dermatology &amp;#038; Plastic Surgery Data Breach Affects 85K Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 85,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:12ced70523ef3f42</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 16 Oct 2026 15:29:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Hack exposes data on millions of California students</title>
       <link>https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</link>
       <description>Eric He and Tyler Katzenberger report: Personal information about millions of California students was stolen in a hack of a non-profit organization that contracts with the state’s Department of Education, officials announced Friday. The names, addresses, demographic information and disability status of all 7 million students enrolled in California public schools over the past three...
@@ -245,20 +231,6 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 17 Oct 2026 22:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] iRhythm Data Breach Affects 8.2 Million Individuals</title>
-      <link>https://www.hipaajournal.com/irhythm-data-breach/</link>
-      <description>&lt;p&gt;The scale of a June 2026 data breach at the wearable cardiac device manufacturer iRhythm Technologies has been confirmed. While [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/irhythm-data-breach/"&gt;iRhythm Data Breach Affects 8.2 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,199,999 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/irhythm-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a137ee6fe6d4c08c</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 19 Oct 2026 06:44:39 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
@@ -300,48 +272,6 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] $80 Million Settlement Proposed to Resolve Conduent Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/</link>
-      <description>&lt;p&gt;An $80 million settlement has been proposed to resolve a consolidated class action lawsuit against Conduent Business Services, LLC, over [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/"&gt;$80 Million Settlement Proposed to Resolve Conduent Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 80,000,000 // $ (est.): $80,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3712a7f14d270585</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 20 Oct 2026 14:29:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Central Ohio Primary Care Physicians Data Breach Affects 1.4 Million Patients</title>
-      <link>https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/</link>
-      <description>&lt;p&gt;Central Ohio Primary Care Physicians, one of the largest independent physician-owned primary care medical groups in the United States, has [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/"&gt;Central Ohio Primary Care Physicians Data Breach Affects 1.4 Million Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,400,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9df3e2d4e86da981</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 20 Oct 2026 15:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] California Settles 23andMe Data Breach Lawsuit for $6 Million</title>
-      <link>https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/</link>
-      <description>&lt;p&gt;In July, a coalition of 42 state attorneys general agreed to an $18 million settlement with 23andMe to resolve claims [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/"&gt;California Settles 23andMe Data Breach Lawsuit for $6 Million&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 18,000,000 // $ (est.): $18,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d3dd906d7a80a6e2</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 20 Oct 2026 16:36:32 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] CISA: SafePay ransomware hit over 600 critical infrastructure orgs</title>
@@ -396,6 +326,47 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 21 Oct 2026 18:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
+      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
+      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 22 Oct 2026 06:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] South Carolina officials offer assistance after state capital hit with cyberattack</title>
+      <link>https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</link>
+      <description>The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</description>
+      <guid isPermaLink="false">obsidian-lake:item:189c380ca7263235</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>therecord</category>
+      <pubDate>Thu, 22 Oct 2026 12:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Innovative Renal Care Pays $900,000 to Settle Data Breach Litigation</title>
+      <link>https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/</link>
+      <description>&lt;p&gt;American Renal Management LLC, doing business as Innovative Renal Care, a kidney care specialist with more than 200 locations in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/"&gt;Innovative Renal Care Pays $900,000 to Settle Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 900,000 // $ (est.): $900,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:678f61a9998fc08c</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 22 Oct 2026 14:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

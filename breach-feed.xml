@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:24:21 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,34 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Hack exposes data on millions of California students</title>
-      <link>https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</link>
-      <description>Eric He and Tyler Katzenberger report: Personal information about millions of California students was stolen in a hack of a non-profit organization that contracts with the state’s Department of Education, officials announced Friday. The names, addresses, demographic information and disability status of all 7 million students enrolled in California public schools over the past three...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 7,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</description>
-      <guid isPermaLink="false">obsidian-lake:item:da2bfabcf4c9f5b4</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>education</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 17 Oct 2026 16:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach</title>
-      <link>https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/</link>
-      <description>NY&amp;#8217;s Attorney General and CT&amp;#8217;s Attorney General held both a provider and its IT company liable for a data breach. The settlement also includes a corrective action plan to improve data security.  New York Attorney General Letitia James and Connecticut Attorney General William Tong today secured $2.7 million from Boston Children’s Health Physicians (BCHP), a...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,700,000 // $ (est.): $2,700,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1a6d796719a26482</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 17 Oct 2026 22:22:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
       <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
       <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.
@@ -244,47 +216,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio</title>
-      <link>https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</link>
-      <description>DysruptionHub reports: The health system disabled its network after suspicious activity, leaving MyChart and doctor searches unavailable and directing urgent medical needs to phone calls or walk-in clinics. A suspected cyber incident left Parkview Health patients without MyChart and online doctor searches Monday after the Indiana-based health system disabled its network in response to suspicious...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</description>
-      <guid isPermaLink="false">obsidian-lake:item:434822cd83842649</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 20 Oct 2026 12:45:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach</title>
-      <link>https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</link>
-      <description>Connecticut Attorney General William Tong has been active in litigating data breaches. The press release below relates to a 2024 breach of Frontier Communications by RansomHub: Attorney General William Tong today announced a $625,000 settlement with Frontier Communications Parent Inc., resolving an investigation into an April 2024 data breach that compromised the sensitive personal information,...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: RansomHub // Vector: Under investigation // Records (est.): 2,024,000,000,000 // $ (est.): $625,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3805c57af806cde2</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] CISA: SafePay ransomware hit over 600 critical infrastructure orgs</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 2,024 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/</description>
-      <guid isPermaLink="false">obsidian-lake:item:190252fca79a80eb</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 21 Oct 2026 08:36:24 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Feds Issues Advisory About SafePay Ransomware Group</title>
@@ -367,6 +298,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 22 Oct 2026 14:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Ridgeway Pharmacy Data Breach Affects 259,000 Individuals</title>
+      <link>https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/</link>
+      <description>&lt;p&gt;A data breach at Ridgeway Pharmacy in Montana has affected almost 259,000 individuals. Data breaches have also been announced by [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/"&gt;Ridgeway Pharmacy Data Breach Affects 259,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 259,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5741d3abd244b0b5</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 22 Oct 2026 15:41:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

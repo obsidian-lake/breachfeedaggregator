@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:43:13 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -270,33 +270,6 @@
       <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Jefferson County Health Department Pays $2.25M to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/</link>
-      <description>&lt;p&gt;Jefferson County Health Department, a public health agency for Jefferson County in Hillsboro, Missouri, has agreed to settle class action [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/"&gt;Jefferson County Health Department Pays $2.25M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,250,000 // $ (est.): $2,250,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:eab0620a0355d2e2</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 21 Oct 2026 16:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</description>
-      <guid isPermaLink="false">obsidian-lake:item:71f0485320c6db1d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 21 Oct 2026 18:34:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
       <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
       <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -309,19 +282,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 22 Oct 2026 06:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] South Carolina officials offer assistance after state capital hit with cyberattack</title>
-      <link>https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</link>
-      <description>The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</description>
-      <guid isPermaLink="false">obsidian-lake:item:189c380ca7263235</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>therecord</category>
-      <pubDate>Thu, 22 Oct 2026 12:14:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · HIGH] Innovative Renal Care Pays $900,000 to Settle Data Breach Litigation</title>
@@ -364,6 +324,48 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 23 Oct 2026 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Patient Data Likely Accessed in Quest Diagnostics Hack</title>
+      <link>https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/</link>
+      <description>&lt;p&gt;Quest Diagnostics, a Secaucus, New Jersey-based Fortune 500 diagnostic testing company, has notified the U.S. Securities and Exchange Commission (SEC) [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/"&gt;Patient Data Likely Accessed in Quest Diagnostics Hack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4ce6c6bbea4ded26</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 23 Oct 2026 12:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] UltraMobile Imaging Identifies Data Breach Impacting 75,000 Individuals</title>
+      <link>https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/</link>
+      <description>&lt;p&gt;Data breaches have been announced by UltraMobile Imaging in New York, Artistic Smiles in Colorado, Parkview Health in Indiana, and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/"&gt;UltraMobile Imaging Identifies Data Breach Impacting 75,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 75,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/</description>
+      <guid isPermaLink="false">obsidian-lake:item:60213140b1410f81</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 23 Oct 2026 12:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Washington Gastroenterology Pays $4.6 Million to Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/</link>
+      <description>&lt;p&gt;Washington Gastroenterology has agreed to pay $4,600,000 to settle class action litigation stemming from a cybersecurity incident that was identified [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/"&gt;Washington Gastroenterology Pays $4.6 Million to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,600,000 // $ (est.): $4,600,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:07dcf0caf4ea6c60</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 23 Oct 2026 12:34:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

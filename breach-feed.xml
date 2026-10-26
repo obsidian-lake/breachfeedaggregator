@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:02:36 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -270,20 +270,6 @@
       <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Innovative Renal Care Pays $900,000 to Settle Data Breach Litigation</title>
-      <link>https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/</link>
-      <description>&lt;p&gt;American Renal Management LLC, doing business as Innovative Renal Care, a kidney care specialist with more than 200 locations in [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/"&gt;Innovative Renal Care Pays $900,000 to Settle Data Breach Litigation&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 900,000 // $ (est.): $900,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:678f61a9998fc08c</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 22 Oct 2026 14:13:15 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Ridgeway Pharmacy Data Breach Affects 259,000 Individuals</title>
       <link>https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/</link>
       <description>&lt;p&gt;A data breach at Ridgeway Pharmacy in Montana has affected almost 259,000 individuals. Data breaches have also been announced by [&amp;#8230;]&lt;/p&gt;
@@ -379,6 +365,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 26 Oct 2026 16:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Denver Health Medical Plan Discloses Vendor Breach Affecting 238K Members</title>
+      <link>https://www.hipaajournal.com/denver-health-medical-plan-data-breach/</link>
+      <description>&lt;p&gt;Denver Health Medical Plan has notified more than 238,000 individuals about a vendor-related data incident. Data breaches have also been [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/denver-health-medical-plan-data-breach/"&gt;Denver Health Medical Plan Discloses Vendor Breach Affecting 238K Members&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 238,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/denver-health-medical-plan-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:743437beac67ce6b</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 26 Oct 2026 19:13:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

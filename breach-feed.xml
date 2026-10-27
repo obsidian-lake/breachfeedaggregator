@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:33:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -232,19 +232,6 @@
       <pubDate>Fri, 23 Oct 2026 12:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] When an AI Agent Is the Incident, the Identity Record Is the Evidence</title>
-      <link>https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/</link>
-      <description>A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3c0f1fb39eeafb73</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Mon, 26 Oct 2026 14:00:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Vendor Data Incidents Account for 69% of All Breach Victims</title>
       <link>https://www.hipaajournal.com/vendor-data-breaches-69-breach-victims/</link>
       <description>&lt;p&gt;Cybersecurity incidents at vendors can have a massive impact, as they frequently result in unauthorized access to the data of [&amp;#8230;]&lt;/p&gt;
@@ -328,19 +315,6 @@
       <pubDate>Tue, 27 Oct 2026 16:53:26 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says</title>
-      <link>https://databreaches.net/2026/10/27/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/</link>
-      <description>Daniel Terrill reports: A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center, or DMDC, arguing it allowed scammers to obtain and use their personally identifiable information, or PII. In the complaint filed in federal court in the District of Columbia, Marine veteran...
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/</description>
-      <guid isPermaLink="false">obsidian-lake:item:36d771b1c5e75cea</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 27 Oct 2026 18:20:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Conduent to pay $80M to settle 3rd-largest healthcare data breach</title>
       <link>https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/</link>
       <description>Bruce Giles reports: Business services provider Conduent has agreed to pay $80 million to settle class action litigation over the third-largest healthcare data breach on record, which exposed data on about 62.2 million people. Conduent signed the settlement Oct. 16 with plaintiffs in the U.S. District Court for the District of New Jersey, according to...
@@ -378,6 +352,32 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 27 Oct 2026 18:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Navigate360’s lack of transparency is catching up with them; More organizations tell people NOT to use their tiplines.</title>
+      <link>https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/</link>
+      <description>Multiple Ontario Crime Stoppers organizations have suspended use due to Navigate360&amp;#8217;s data breach and unacceptable incident response; U.S. state education departments are collaborating to seek more answers from Navigate360; an update from DataBreaches.net. Toronto Crime Stoppers didn&amp;#8217;t take long to respond after Valérie Ouellet and Michelle Allan dove into the Crime Stoppers data in the...
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f83d3ff1443461c8</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 27 Oct 2026 20:36:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] UNM Health ransomware attack disrupts patient care, surgeries</title>
+      <link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</link>
+      <description>The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</description>
+      <guid isPermaLink="false">obsidian-lake:item:78275c0ac59e70a5</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 27 Oct 2026 22:07:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

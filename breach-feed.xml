@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:48:59 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -208,7 +208,6 @@
       <title>[BREACH · CRITICAL] Hack exposes data on millions of California students</title>
       <link>https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</link>
       <description>Eric He and Tyler Katzenberger report: Personal information about millions of California students was stolen in a hack of a non-profit organization that contracts with the state’s Department of Education, officials announced Friday. The names, addresses, demographic information and disability status of all 7 million students enrolled in California public schools over the past three...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
 // Category: breach // Severity: critical // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 7,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</description>
       <guid isPermaLink="false">obsidian-lake:item:da2bfabcf4c9f5b4</guid>
@@ -222,7 +221,6 @@
       <title>[BREACH · HIGH] NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach</title>
       <link>https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/</link>
       <description>NY&amp;#8217;s Attorney General and CT&amp;#8217;s Attorney General held both a provider and its IT company liable for a data breach. The settlement also includes a corrective action plan to improve data security.  New York Attorney General Letitia James and Connecticut Attorney General William Tong today secured $2.7 million from Boston Children’s Health Physicians (BCHP), a...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
 // Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,700,000 // $ (est.): $2,700,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/</description>
       <guid isPermaLink="false">obsidian-lake:item:1a6d796719a26482</guid>
@@ -249,9 +247,8 @@
       <title>[BREACH · INFO] Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio</title>
       <link>https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</link>
       <description>DysruptionHub reports: The health system disabled its network after suspicious activity, leaving MyChart and doctor searches unavailable and directing urgent medical needs to phone calls or walk-in clinics. A suspected cyber incident left Parkview Health patients without MyChart and online doctor searches Monday after the Indiana-based health system disabled its network in response to suspicious...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</description>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</description>
       <guid isPermaLink="false">obsidian-lake:item:434822cd83842649</guid>
       <category>breach</category>
       <category>info</category>
@@ -263,7 +260,6 @@
       <title>[BREACH · CRITICAL] Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach</title>
       <link>https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</link>
       <description>Connecticut Attorney General William Tong has been active in litigating data breaches. The press release below relates to a 2024 breach of Frontier Communications by RansomHub: Attorney General William Tong today announced a $625,000 settlement with Frontier Communications Parent Inc., resolving an investigation into an April 2024 data breach that compromised the sensitive personal information,...
-&lt;p&gt;&lt;a href="https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/"&gt;Source&lt;/a&gt;&lt;/p&gt;
 
 // Category: breach // Severity: critical // Sector: other // Actor: RansomHub // Vector: Under investigation // Records (est.): 2,024,000,000,000 // $ (est.): $625,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</description>
       <guid isPermaLink="false">obsidian-lake:item:3805c57af806cde2</guid>
@@ -272,34 +268,6 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Ridgeway Pharmacy Data Breach Affects 259,000 Individuals</title>
-      <link>https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/</link>
-      <description>&lt;p&gt;A data breach at Ridgeway Pharmacy in Montana has affected almost 259,000 individuals. Data breaches have also been announced by [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/"&gt;Ridgeway Pharmacy Data Breach Affects 259,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 259,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5741d3abd244b0b5</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 22 Oct 2026 15:41:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Data Breach at Manhattan Law Firm Involved PHI of 197,000 Individuals</title>
-      <link>https://www.hipaajournal.com/data-breach-new-york-law-firm/</link>
-      <description>&lt;p&gt;The law firm Tarter Krinsky &amp;#38; Drogin has reported a breach of the protected health information of 196,645 patients of [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-new-york-law-firm/"&gt;Data Breach at Manhattan Law Firm Involved PHI of 197,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 197,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-new-york-law-firm/</description>
-      <guid isPermaLink="false">obsidian-lake:item:259ba41aa8aedd53</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 23 Oct 2026 10:00:01 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Patient Data Likely Accessed in Quest Diagnostics Hack</title>
@@ -383,6 +351,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Mon, 26 Oct 2026 19:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Data Breach Announced by NorthShore Health Centers</title>
+      <link>https://www.hipaajournal.com/data-breach-northshore-health-centers/</link>
+      <description>&lt;p&gt;NorthShore Health Centers, a nonprofit healthcare provider serving patients in Porter, Lake, La Porte, and Jasper Counties in Northwest Indiana, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-northshore-health-centers/"&gt;Data Breach Announced by NorthShore Health Centers&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-northshore-health-centers/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b803cd7acddfe933</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 27 Oct 2026 11:39:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Brockton Neighborhood Health Center to Pay Up to $850,000 to Settle Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/brockton-neighborhood-health-center-data-breach-settlement/</link>
+      <description>&lt;p&gt;Massachusetts-based Brockton Neighborhood Health Center has agreed to pay up to $825,000 to settle class action litigation over a 2024 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/brockton-neighborhood-health-center-data-breach-settlement/"&gt;Brockton Neighborhood Health Center to Pay Up to $850,000 to Settle Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 850,000 // $ (est.): $850,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/brockton-neighborhood-health-center-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b623869b681d2087</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 27 Oct 2026 12:39:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

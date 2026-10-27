@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:51:30 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -205,32 +205,6 @@
       <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Hack exposes data on millions of California students</title>
-      <link>https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</link>
-      <description>Eric He and Tyler Katzenberger report: Personal information about millions of California students was stolen in a hack of a non-profit organization that contracts with the state’s Department of Education, officials announced Friday. The names, addresses, demographic information and disability status of all 7 million students enrolled in California public schools over the past three...
-
-// Category: breach // Severity: critical // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 7,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/</description>
-      <guid isPermaLink="false">obsidian-lake:item:da2bfabcf4c9f5b4</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>education</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 17 Oct 2026 16:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach</title>
-      <link>https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/</link>
-      <description>NY&amp;#8217;s Attorney General and CT&amp;#8217;s Attorney General held both a provider and its IT company liable for a data breach. The settlement also includes a corrective action plan to improve data security.  New York Attorney General Letitia James and Connecticut Attorney General William Tong today secured $2.7 million from Boston Children’s Health Physicians (BCHP), a...
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,700,000 // $ (est.): $2,700,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1a6d796719a26482</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 17 Oct 2026 22:22:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
       <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
       <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.
@@ -242,60 +216,6 @@
       <category>other</category>
       <category>krebsonsecurity</category>
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio</title>
-      <link>https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</link>
-      <description>DysruptionHub reports: The health system disabled its network after suspicious activity, leaving MyChart and doctor searches unavailable and directing urgent medical needs to phone calls or walk-in clinics. A suspected cyber incident left Parkview Health patients without MyChart and online doctor searches Monday after the Indiana-based health system disabled its network in response to suspicious...
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/</description>
-      <guid isPermaLink="false">obsidian-lake:item:434822cd83842649</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 20 Oct 2026 12:45:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach</title>
-      <link>https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</link>
-      <description>Connecticut Attorney General William Tong has been active in litigating data breaches. The press release below relates to a 2024 breach of Frontier Communications by RansomHub: Attorney General William Tong today announced a $625,000 settlement with Frontier Communications Parent Inc., resolving an investigation into an April 2024 data breach that compromised the sensitive personal information,...
-
-// Category: breach // Severity: critical // Sector: other // Actor: RansomHub // Vector: Under investigation // Records (est.): 2,024,000,000,000 // $ (est.): $625,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3805c57af806cde2</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 20 Oct 2026 13:17:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Patient Data Likely Accessed in Quest Diagnostics Hack</title>
-      <link>https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/</link>
-      <description>&lt;p&gt;Quest Diagnostics, a Secaucus, New Jersey-based Fortune 500 diagnostic testing company, has notified the U.S. Securities and Exchange Commission (SEC) [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/"&gt;Patient Data Likely Accessed in Quest Diagnostics Hack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4ce6c6bbea4ded26</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 23 Oct 2026 12:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] UltraMobile Imaging Identifies Data Breach Impacting 75,000 Individuals</title>
-      <link>https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/</link>
-      <description>&lt;p&gt;Data breaches have been announced by UltraMobile Imaging in New York, Artistic Smiles in Colorado, Parkview Health in Indiana, and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/"&gt;UltraMobile Imaging Identifies Data Breach Impacting 75,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 75,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/</description>
-      <guid isPermaLink="false">obsidian-lake:item:60213140b1410f81</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 23 Oct 2026 12:31:21 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · HIGH] Washington Gastroenterology Pays $4.6 Million to Settle Data Breach Lawsuit</title>
@@ -379,6 +299,85 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 27 Oct 2026 12:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] University of New Mexico hospital diverts ambulances after cyberattack</title>
+      <link>https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident</link>
+      <description>For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident</description>
+      <guid isPermaLink="false">obsidian-lake:item:319765385a557953</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>therecord</category>
+      <pubDate>Tue, 27 Oct 2026 14:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Ransomware Incident at Paylogix Affects 41K Individuals</title>
+      <link>https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Paylogix, the Kenaitze Indian Tribe, the Center for Bone and Joint Surgery of the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/"&gt;Ransomware Incident at Paylogix Affects 41K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 41,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0d06101e7e38ddc5</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 27 Oct 2026 16:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says</title>
+      <link>https://databreaches.net/2026/10/27/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/</link>
+      <description>Daniel Terrill reports: A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center, or DMDC, arguing it allowed scammers to obtain and use their personally identifiable information, or PII. In the complaint filed in federal court in the District of Columbia, Marine veteran...
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/</description>
+      <guid isPermaLink="false">obsidian-lake:item:36d771b1c5e75cea</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 27 Oct 2026 18:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Conduent to pay $80M to settle 3rd-largest healthcare data breach</title>
+      <link>https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/</link>
+      <description>Bruce Giles reports: Business services provider Conduent has agreed to pay $80 million to settle class action litigation over the third-largest healthcare data breach on record, which exposed data on about 62.2 million people. Conduent signed the settlement Oct. 16 with plaintiffs in the U.S. District Court for the District of New Jersey, according to...
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 80,000,000 // $ (est.): $80,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:43572b723dff268a</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 27 Oct 2026 18:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Covered California Agent Data Exposed In Phishing Attack</title>
+      <link>https://databreaches.net/2026/10/27/covered-california-agent-data-exposed-in-phishing-attack/</link>
+      <description>John &amp;#38; Rusty Report: An attacker used a “phishing” strategy to get unauthorized access to Covered California agent information spreadsheets May 13, according to a sample breach notice letter posted on the California attorney general’s website Oct. 16. “As a result of this incident, your information, along with information relating to other agents, was disclosed,”...
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 38 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/covered-california-agent-data-exposed-in-phishing-attack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3e8709314d939d63</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 27 Oct 2026 18:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Cyberattack forces University of New Mexico Health to divert ambulances, cancel appointments</title>
+      <link>https://databreaches.net/2026/10/27/cyberattack-forces-university-of-new-mexico-health-to-divert-ambulances-cancel-appointments/</link>
+      <description>DysruptionHub reports: A cyberattack forced the University of New Mexico Health System to divert ambulances and cancel clinic appointments Monday, interrupting care at the state’s only Level I trauma center. The Albuquerque-based academic health system canceled appointments at more than 30 clinics across New Mexico. Patients were told not to come to its facilities for...
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 30 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/cyberattack-forces-university-of-new-mexico-health-to-divert-ambulances-cancel-appointments/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d5f6d746a7afd51e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 27 Oct 2026 18:49:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

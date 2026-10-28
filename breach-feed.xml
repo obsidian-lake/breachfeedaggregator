@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:49:24 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] Denver Health Medical Plan Discloses Vendor Breach Affecting 238K Members</title>
-      <link>https://www.hipaajournal.com/denver-health-medical-plan-data-breach/</link>
-      <description>&lt;p&gt;Denver Health Medical Plan has notified more than 238,000 individuals about a vendor-related data incident. Data breaches have also been [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/denver-health-medical-plan-data-breach/"&gt;Denver Health Medical Plan Discloses Vendor Breach Affecting 238K Members&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 238,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/denver-health-medical-plan-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:743437beac67ce6b</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 26 Oct 2026 19:13:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Data Breach Announced by NorthShore Health Centers</title>
       <link>https://www.hipaajournal.com/data-breach-northshore-health-centers/</link>
       <description>&lt;p&gt;NorthShore Health Centers, a nonprofit healthcare provider serving patients in Porter, Lake, La Porte, and Jasper Counties in Northwest Indiana, [&amp;#8230;]&lt;/p&gt;
@@ -394,6 +380,19 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 28 Oct 2026 15:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Court strikes down West Virginia law barring disclosure of public officials’ personal data</title>
+      <link>https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</link>
+      <description>A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</description>
+      <guid isPermaLink="false">obsidian-lake:item:bf65784fd277bccf</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 28 Oct 2026 20:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

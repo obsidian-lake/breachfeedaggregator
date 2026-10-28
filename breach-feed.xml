@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 04:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:44:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Washington Gastroenterology Pays $4.6 Million to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/</link>
-      <description>&lt;p&gt;Washington Gastroenterology has agreed to pay $4,600,000 to settle class action litigation stemming from a cybersecurity incident that was identified [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/"&gt;Washington Gastroenterology Pays $4.6 Million to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,600,000 // $ (est.): $4,600,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:07dcf0caf4ea6c60</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 23 Oct 2026 12:34:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Vendor Data Incidents Account for 69% of All Breach Victims</title>
       <link>https://www.hipaajournal.com/vendor-data-breaches-69-breach-victims/</link>
       <description>&lt;p&gt;Cybersecurity incidents at vendors can have a massive impact, as they frequently result in unauthorized access to the data of [&amp;#8230;]&lt;/p&gt;
@@ -378,6 +364,34 @@
       <category>healthcare</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 27 Oct 2026 22:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Baptist Health Data Breach Settlement Gets First Nod</title>
+      <link>https://www.hipaajournal.com/baptist-health-medical-center-drew-county-data-breach-settlement/</link>
+      <description>&lt;p&gt;A class action lawsuit against Baptist Health Medical Center-Drew County has been resolved with a settlement that provides reimbursement for [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/baptist-health-medical-center-drew-county-data-breach-settlement/"&gt;Baptist Health Data Breach Settlement Gets First Nod&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/baptist-health-medical-center-drew-county-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9a610acc45e329bb</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 28 Oct 2026 10:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] University of New Mexico Health System Diverts Ambulances Due to Ransomware Attack</title>
+      <link>https://www.hipaajournal.com/university-new-mexico-health-system-cyberattack/</link>
+      <description>&lt;p&gt;The University of New Mexico Health System (UNM Health) has experienced a cyberattack that has prevented access to critical electronic [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/university-new-mexico-health-system-cyberattack/"&gt;University of New Mexico Health System Diverts Ambulances Due to Ransomware Attack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/university-new-mexico-health-system-cyberattack/</description>
+      <guid isPermaLink="false">obsidian-lake:item:814bd8addafacafc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 28 Oct 2026 10:10:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

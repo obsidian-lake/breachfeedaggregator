@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:00:28 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Vendor Data Incidents Account for 69% of All Breach Victims</title>
-      <link>https://www.hipaajournal.com/vendor-data-breaches-69-breach-victims/</link>
-      <description>&lt;p&gt;Cybersecurity incidents at vendors can have a massive impact, as they frequently result in unauthorized access to the data of [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/vendor-data-breaches-69-breach-victims/"&gt;Vendor Data Incidents Account for 69% of All Breach Victims&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/vendor-data-breaches-69-breach-victims/</description>
-      <guid isPermaLink="false">obsidian-lake:item:bb88ba3ea84041b4</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 26 Oct 2026 16:31:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Denver Health Medical Plan Discloses Vendor Breach Affecting 238K Members</title>
       <link>https://www.hipaajournal.com/denver-health-medical-plan-data-breach/</link>
       <description>&lt;p&gt;Denver Health Medical Plan has notified more than 238,000 individuals about a vendor-related data incident. Data breaches have also been [&amp;#8230;]&lt;/p&gt;
@@ -274,19 +260,6 @@
       <pubDate>Tue, 27 Oct 2026 12:39:33 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] University of New Mexico hospital diverts ambulances after cyberattack</title>
-      <link>https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident</link>
-      <description>For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident</description>
-      <guid isPermaLink="false">obsidian-lake:item:319765385a557953</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>therecord</category>
-      <pubDate>Tue, 27 Oct 2026 14:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Ransomware Incident at Paylogix Affects 41K Individuals</title>
       <link>https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/</link>
       <description>&lt;p&gt;Data breaches have been announced by Paylogix, the Kenaitze Indian Tribe, the Center for Bone and Joint Surgery of the [&amp;#8230;]&lt;/p&gt;
@@ -299,58 +272,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 27 Oct 2026 16:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Conduent to pay $80M to settle 3rd-largest healthcare data breach</title>
-      <link>https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/</link>
-      <description>Bruce Giles reports: Business services provider Conduent has agreed to pay $80 million to settle class action litigation over the third-largest healthcare data breach on record, which exposed data on about 62.2 million people. Conduent signed the settlement Oct. 16 with plaintiffs in the U.S. District Court for the District of New Jersey, according to...
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 80,000,000 // $ (est.): $80,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:43572b723dff268a</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 27 Oct 2026 18:21:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Covered California Agent Data Exposed In Phishing Attack</title>
-      <link>https://databreaches.net/2026/10/27/covered-california-agent-data-exposed-in-phishing-attack/</link>
-      <description>John &amp;#38; Rusty Report: An attacker used a “phishing” strategy to get unauthorized access to Covered California agent information spreadsheets May 13, according to a sample breach notice letter posted on the California attorney general’s website Oct. 16. “As a result of this incident, your information, along with information relating to other agents, was disclosed,”...
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 38 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/covered-california-agent-data-exposed-in-phishing-attack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3e8709314d939d63</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 27 Oct 2026 18:41:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Cyberattack forces University of New Mexico Health to divert ambulances, cancel appointments</title>
-      <link>https://databreaches.net/2026/10/27/cyberattack-forces-university-of-new-mexico-health-to-divert-ambulances-cancel-appointments/</link>
-      <description>DysruptionHub reports: A cyberattack forced the University of New Mexico Health System to divert ambulances and cancel clinic appointments Monday, interrupting care at the state’s only Level I trauma center. The Albuquerque-based academic health system canceled appointments at more than 30 clinics across New Mexico. Patients were told not to come to its facilities for...
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 30 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/cyberattack-forces-university-of-new-mexico-health-to-divert-ambulances-cancel-appointments/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d5f6d746a7afd51e</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 27 Oct 2026 18:49:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Navigate360’s lack of transparency is catching up with them; More organizations tell people NOT to use their tiplines.</title>
-      <link>https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/</link>
-      <description>Multiple Ontario Crime Stoppers organizations have suspended use due to Navigate360&amp;#8217;s data breach and unacceptable incident response; U.S. state education departments are collaborating to seek more answers from Navigate360; an update from DataBreaches.net. Toronto Crime Stoppers didn&amp;#8217;t take long to respond after Valérie Ouellet and Michelle Allan dove into the Crime Stoppers data in the...
-
-// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f83d3ff1443461c8</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>education</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 27 Oct 2026 20:36:24 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] UNM Health ransomware attack disrupts patient care, surgeries</title>
@@ -392,6 +313,87 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 28 Oct 2026 10:10:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Whitsett, NC sends out alert about phishing email</title>
+      <link>https://databreaches.net/2026/10/28/whitsett-nc-sends-out-alert-about-phishing-email/</link>
+      <description>The Town of Whitsett, North Carolina issued an alert on Facebook on October 22: The Town of Whitsett is notifying residents, vendors, community partners, and other email recipients of a security incident involving the Town Hall email account. DESCRIPTION OF INCIDENT On October 22, 2026, at approximately 10:00 a.m., the Town discovered unauthorized access to...
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Phishing / social eng. // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/28/whitsett-nc-sends-out-alert-about-phishing-email/</description>
+      <guid isPermaLink="false">obsidian-lake:item:49a84be2ce94616a</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 28 Oct 2026 12:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] China-Linked Hackers Exploit PHP2Shell to Root Firewalls</title>
+      <link>https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/</link>
+      <description>&lt;p&gt;The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/"&gt;China-Linked Hackers Exploit PHP2Shell to Root Firewalls&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 2 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e0d670fe28cc2b9c</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>securityweek</category>
+      <pubDate>Wed, 28 Oct 2026 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Ukrainian National Sentenced for Role in Hacking Hospitals, Businesses, and Governments as Part of Ransomware Conspiracies Causing Over $100 Million in Losses</title>
+      <link>https://databreaches.net/2026/10/28/ukrainian-national-sentenced-for-role-in-hacking-hospitals-businesses-and-governments-as-part-of-ransomware-conspiracies-causing-over-100-million-in-losses/</link>
+      <description>A press release from the U.S. Department of Justice: Artem Stryzhak, 36, a Ukrainian national, was sentenced today to 70 months in prison for conspiracy to commit computer fraud in connection with a series of ransomware attacks that targeted hospitals, government entities, law firms, and other businesses around the world. “This sentence concludes a years-long, multi-continent...
+
+// Category: breach // Severity: critical // Sector: gov // Actor: Unattributed // Vector: Ransomware // Records (est.): 100,000,000 // $ (est.): $100,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/10/28/ukrainian-national-sentenced-for-role-in-hacking-hospitals-businesses-and-governments-as-part-of-ransomware-conspiracies-causing-over-100-million-in-losses/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d91d75f98370905a</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 28 Oct 2026 12:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Court denies motions to dismiss in PowerSchool Data Breach Litigation</title>
+      <link>https://databreaches.net/2026/10/28/court-denies-motions-to-dismiss-in-powerschool-data-breach-litigation/</link>
+      <description>In previous litigation involving Illuminate (J.M. v. Illuminate Educ. Inc.), the district court held that Illuminate could be considered a provider of healthcare under the wording of the California Confidentiality of Medical Information Act. With that opinion as precedent, PowerSchool failed to get plaintiffs&amp;#8217; complaint referring to it as a provider of healthcare dismissed. But...
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/28/court-denies-motions-to-dismiss-in-powerschool-data-breach-litigation/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e7585ce7ea7a0e61</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 28 Oct 2026 12:03:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</title>
+      <link>https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</link>
+      <description>&lt;p&gt;Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/"&gt;Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 70,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b5249421c4d0ba2d</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Vendor Incident Affects 341,000 Blueberry Pediatrics Patients</title>
+      <link>https://www.hipaajournal.com/blueberry-pediatrics-photon-data-breach/</link>
+      <description>&lt;p&gt;Blueberry Pediatrics, a telemedicine service provider that offers subscribers access to board-certified pediatricians, has been affected by a data security [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/blueberry-pediatrics-photon-data-breach/"&gt;Vendor Incident Affects 341,000 Blueberry Pediatrics Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 341,000,000,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/blueberry-pediatrics-photon-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4632c493c2e2cc6c</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 28 Oct 2026 15:37:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:25:30 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,61 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Data Breach Announced by NorthShore Health Centers</title>
-      <link>https://www.hipaajournal.com/data-breach-northshore-health-centers/</link>
-      <description>&lt;p&gt;NorthShore Health Centers, a nonprofit healthcare provider serving patients in Porter, Lake, La Porte, and Jasper Counties in Northwest Indiana, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-northshore-health-centers/"&gt;Data Breach Announced by NorthShore Health Centers&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-northshore-health-centers/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b803cd7acddfe933</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 27 Oct 2026 11:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Brockton Neighborhood Health Center to Pay Up to $850,000 to Settle Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/brockton-neighborhood-health-center-data-breach-settlement/</link>
-      <description>&lt;p&gt;Massachusetts-based Brockton Neighborhood Health Center has agreed to pay up to $825,000 to settle class action litigation over a 2024 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/brockton-neighborhood-health-center-data-breach-settlement/"&gt;Brockton Neighborhood Health Center to Pay Up to $850,000 to Settle Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 850,000 // $ (est.): $850,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/brockton-neighborhood-health-center-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b623869b681d2087</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 27 Oct 2026 12:39:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] Ransomware Incident at Paylogix Affects 41K Individuals</title>
-      <link>https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Paylogix, the Kenaitze Indian Tribe, the Center for Bone and Joint Surgery of the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/"&gt;Ransomware Incident at Paylogix Affects 41K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 41,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-paylogix-kenaitze-bone-joint-center-wichita-family-dental/</description>
-      <guid isPermaLink="false">obsidian-lake:item:0d06101e7e38ddc5</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 27 Oct 2026 16:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] UNM Health ransomware attack disrupts patient care, surgeries</title>
-      <link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</link>
-      <description>The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</description>
-      <guid isPermaLink="false">obsidian-lake:item:78275c0ac59e70a5</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 27 Oct 2026 22:07:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Baptist Health Data Breach Settlement Gets First Nod</title>
       <link>https://www.hipaajournal.com/baptist-health-medical-center-drew-county-data-breach-settlement/</link>
       <description>&lt;p&gt;A class action lawsuit against Baptist Health Medical Center-Drew County has been resolved with a settlement that provides reimbursement for [&amp;#8230;]&lt;/p&gt;
@@ -314,20 +259,6 @@
       <pubDate>Wed, 28 Oct 2026 12:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] China-Linked Hackers Exploit PHP2Shell to Root Firewalls</title>
-      <link>https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/</link>
-      <description>&lt;p&gt;The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/"&gt;China-Linked Hackers Exploit PHP2Shell to Root Firewalls&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 2 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e0d670fe28cc2b9c</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>securityweek</category>
-      <pubDate>Wed, 28 Oct 2026 12:00:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Ukrainian National Sentenced for Role in Hacking Hospitals, Businesses, and Governments as Part of Ransomware Conspiracies Causing Over $100 Million in Losses</title>
       <link>https://databreaches.net/2026/10/28/ukrainian-national-sentenced-for-role-in-hacking-hospitals-businesses-and-governments-as-part-of-ransomware-conspiracies-causing-over-100-million-in-losses/</link>
       <description>A press release from the U.S. Department of Justice: Artem Stryzhak, 36, a Ukrainian national, was sentenced today to 70 months in prison for conspiracy to commit computer fraud in connection with a series of ransomware attacks that targeted hospitals, government entities, law firms, and other businesses around the world. “This sentence concludes a years-long, multi-continent...
@@ -352,20 +283,6 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 28 Oct 2026 12:03:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</title>
-      <link>https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</link>
-      <description>&lt;p&gt;Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/"&gt;Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 70,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b5249421c4d0ba2d</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Vendor Incident Affects 341,000 Blueberry Pediatrics Patients</title>
@@ -393,6 +310,102 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Wed, 28 Oct 2026 20:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million</title>
+      <link>https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/</link>
+      <description>&lt;p&gt;Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/"&gt;HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,199,999 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1dcefe921463ceb6</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Thu, 29 Oct 2026 08:27:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Hospital Ransomware Attacker Receives 70 Month Jail Term</title>
+      <link>https://www.hipaajournal.com/hospital-ransomware-attacker-70-months-jail/</link>
+      <description>&lt;p&gt;A Ukrainian affiliate of the Nefilim &amp;#38; Hive ransomware operations who attacked hospitals, government entities, and businesses over a three-year [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hospital-ransomware-attacker-70-months-jail/"&gt;Hospital Ransomware Attacker Receives 70 Month Jail Term&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 70,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hospital-ransomware-attacker-70-months-jail/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1b620f78c080a5c1</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 29 Oct 2026 11:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Over 41,000 DHS Employee Records Leaked Online</title>
+      <link>https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</link>
+      <description>&lt;p&gt;The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/"&gt;Over 41,000 DHS Employee Records Leaked Online&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 41,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</description>
+      <guid isPermaLink="false">obsidian-lake:item:391e0575f629993f</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Thu, 29 Oct 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] GoodRx &amp; Criteo Revised $32 Million Data Privacy Settlement Gets First Approval</title>
+      <link>https://www.hipaajournal.com/goodrx-25-million-settlement-tracking-technology-lawsuit/</link>
+      <description>&lt;p&gt;A revised $32 million settlement has received first approval from the court to resolve class action data breach litigation against [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/goodrx-25-million-settlement-tracking-technology-lawsuit/"&gt;GoodRx &amp;#038; Criteo Revised $32 Million Data Privacy Settlement Gets First Approval&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 32,000,000 // $ (est.): $32,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/goodrx-25-million-settlement-tracking-technology-lawsuit/</description>
+      <guid isPermaLink="false">obsidian-lake:item:55f0838da84fd44f</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 29 Oct 2026 13:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts</title>
+      <link>https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/</link>
+      <description>&lt;p&gt;BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/"&gt;BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7c9a0eb6b4b5efbf</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Thu, 29 Oct 2026 13:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] University of New Mexico restores hospital systems, urges no contact with hackers</title>
+      <link>https://therecord.media/new-mexico-cyberattack-hospital</link>
+      <description>The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school.
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/new-mexico-cyberattack-hospital</description>
+      <guid isPermaLink="false">obsidian-lake:item:56ef05760e8ef2e7</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>therecord</category>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Cyberattack disrupts Belgian tax services before filing deadline</title>
+      <link>https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline</link>
+      <description>The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMinfin, the country's main online platform for managing tax and financial affairs.
+
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline</description>
+      <guid isPermaLink="false">obsidian-lake:item:342c74932bccb89e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>therecord</category>
+      <pubDate>Thu, 29 Oct 2026 13:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

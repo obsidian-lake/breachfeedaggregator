@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:44:25 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -338,6 +338,47 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Fri, 30 Oct 2026 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Bulletproof Host Virtualine Loses Its Domain to FBI Seizure</title>
+      <link>https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/</link>
+      <description>&lt;p&gt;It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/"&gt;Bulletproof Host Virtualine Loses Its Domain to FBI Seizure&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/</description>
+      <guid isPermaLink="false">obsidian-lake:item:4efca8227aeddaf0</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 30 Oct 2026 13:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach</title>
+      <link>https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</link>
+      <description>The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.
+
+// Category: breach // Severity: high // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,900,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:4bf942696238025b</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>finance</category>
+      <category>therecord</category>
+      <pubDate>Fri, 30 Oct 2026 15:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] August 2026 Healthcare Data Breach Report</title>
+      <link>https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/</link>
+      <description>&lt;p&gt;An analysis of data breaches affecting 500 or more individuals reported to the U.S. Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/"&gt;August 2026 Healthcare Data Breach Report&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8ea3f4a59d79bc9f</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 30 Oct 2026 17:52:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

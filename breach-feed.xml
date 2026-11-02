@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 22:25:37 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -299,19 +299,6 @@
       <pubDate>Thu, 29 Oct 2026 20:10:54 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach</title>
-      <link>https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</link>
-      <description>The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.
-
-// Category: breach // Severity: high // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,900,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:4bf942696238025b</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>finance</category>
-      <category>therecord</category>
-      <pubDate>Fri, 30 Oct 2026 15:54:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] August 2026 Healthcare Data Breach Report</title>
       <link>https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/</link>
       <description>&lt;p&gt;An analysis of data breaches affecting 500 or more individuals reported to the U.S. Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -352,6 +339,60 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Mon, 02 Nov 2026 08:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk</title>
+      <link>https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/</link>
+      <description>&lt;p&gt;The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/"&gt;Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,900,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b500e88ae1f91b75</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>finance</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 02 Nov 2026 14:44:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] 41,000 Connecticut Medicaid Recipients Affected by DHS Data Incident</title>
+      <link>https://www.hipaajournal.com/connecticut-dhs-husky-data-security-incident/</link>
+      <description>&lt;p&gt;Data breaches have been announced by the Connecticut Department of Social Services, Public Partnerships LLC, Hattiesburg Eye Clinic, and the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/connecticut-dhs-husky-data-security-incident/"&gt;41,000 Connecticut Medicaid Recipients Affected by DHS Data Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 41,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/connecticut-dhs-husky-data-security-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:43b8ba7687cb2ed5</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 02 Nov 2026 16:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers</title>
+      <link>https://therecord.media/hackers-ukraine-belarus-russia</link>
+      <description>An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.
+
+// Category: breach // Severity: info // Sector: gov // Actor: Belarusian // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/hackers-ukraine-belarus-russia</description>
+      <guid isPermaLink="false">obsidian-lake:item:acbef9b6b6f9e7d5</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>therecord</category>
+      <pubDate>Mon, 02 Nov 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Michigan State cyber incident claimed by ransomware gang behind recent hospital attack</title>
+      <link>https://therecord.media/michigan-state-university-byod-gang-cyber-incident</link>
+      <description>A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/michigan-state-university-byod-gang-cyber-incident</description>
+      <guid isPermaLink="false">obsidian-lake:item:18836a2757c3c624</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>therecord</category>
+      <pubDate>Mon, 02 Nov 2026 19:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

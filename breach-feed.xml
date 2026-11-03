@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:40:07 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Vendor Incident Affects 341,000 Blueberry Pediatrics Patients</title>
-      <link>https://www.hipaajournal.com/blueberry-pediatrics-photon-data-breach/</link>
-      <description>&lt;p&gt;Blueberry Pediatrics, a telemedicine service provider that offers subscribers access to board-certified pediatricians, has been affected by a data security [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/blueberry-pediatrics-photon-data-breach/"&gt;Vendor Incident Affects 341,000 Blueberry Pediatrics Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 341,000,000,000,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/blueberry-pediatrics-photon-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4632c493c2e2cc6c</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 28 Oct 2026 15:37:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Hospital Ransomware Attacker Receives 70 Month Jail Term</title>
       <link>https://www.hipaajournal.com/hospital-ransomware-attacker-70-months-jail/</link>
       <description>&lt;p&gt;A Ukrainian affiliate of the Nefilim &amp;#38; Hive ransomware operations who attacked hospitals, government entities, and businesses over a three-year [&amp;#8230;]&lt;/p&gt;
@@ -286,20 +272,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 30 Oct 2026 22:17:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist</title>
-      <link>https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/</link>
-      <description>&lt;p&gt;The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/"&gt;FBI Flags Over 600 Addresses Tied to North Korea&amp;#8217;s Binance Heist&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: other // Actor: State-aligned actor // Vector: Under investigation // Records (est.): 6,000,000,000 // $ (est.): $6,000,000,000 // Source: securityweek // Original: https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/</description>
-      <guid isPermaLink="false">obsidian-lake:item:76b59ccbf55f7a64</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Mon, 02 Nov 2026 08:40:36 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · HIGH] Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk</title>
@@ -380,6 +352,34 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 02 Nov 2026 23:27:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Cognitive Health Technologies Data Breach Affects 49,500 Individuals</title>
+      <link>https://www.hipaajournal.com/cognitive-health-technologies-data-breach/</link>
+      <description>&lt;p&gt;Data breaches have been announced by Cognitive Health Technologies in New York, City Ambulance Service in Texas, Baraga County Memorial [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cognitive-health-technologies-data-breach/"&gt;Cognitive Health Technologies Data Breach Affects 49,500 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 49,500 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cognitive-health-technologies-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:910377528c816355</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 03 Nov 2026 11:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Marathon Health Data Breach Reportedly Affects 5.7 Million Individuals</title>
+      <link>https://www.hipaajournal.com/marathon-health-data-breach/</link>
+      <description>&lt;p&gt;State attorneys general have been informed about a substantial Marathon Health data breach that reportedly involved the personal and protected [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/marathon-health-data-breach/"&gt;Marathon Health Data Breach Reportedly Affects 5.7 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 5,700,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/marathon-health-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f41128a7b208d43d</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 03 Nov 2026 11:26:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

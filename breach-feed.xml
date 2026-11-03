@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 22:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:37:27 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -260,45 +260,6 @@
       <pubDate>Thu, 29 Oct 2026 13:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] DHS personnel leak exposes contact details and sensitive job information</title>
-      <link>https://databreaches.net/2026/10/29/dhs-personnel-leak-exposes-contact-details-and-sensitive-job-information/</link>
-      <description>David DiMolfetta reports: Searchable records identifying more than 41,000 current and former Department of Homeland Security employees and contractors were published Wednesday, exposing contact information and details about sensitive assignments across the department, according to the organizations behind the release. The transparency nonprofit Distributed Denial of Secrets — known as DDoSecrets — said it received...
-
-// Category: breach // Severity: medium // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 41,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/29/dhs-personnel-leak-exposes-contact-details-and-sensitive-job-information/</description>
-      <guid isPermaLink="false">obsidian-lake:item:cb7014efde2f6d4f</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 29 Oct 2026 19:41:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] Florida education department says data breach may affect 4.9 million people</title>
-      <link>https://databreaches.net/2026/10/29/florida-education-department-says-data-breach-may-affect-4-9-million-people/</link>
-      <description>Eric Weiss reports: The Florida Department of Education says a breach of its student financial aid website may have exposed personal information, including Social Security numbers, belonging to approximately 4.9 million people. The department said staff learned of unauthorized criminal access to the Florida Student Financial Aid website on Oct. 19. It activated cybersecurity response...
-
-// Category: breach // Severity: high // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 4,900,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/29/florida-education-department-says-data-breach-may-affect-4-9-million-people/</description>
-      <guid isPermaLink="false">obsidian-lake:item:c9caf4a296bbbc40</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>finance</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 29 Oct 2026 20:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] UNM Health addresses cyberattack in New Mexico after ransomware group claims responsibility</title>
-      <link>https://databreaches.net/2026/10/29/unm-health-addresses-cyberattack-in-new-mexico-after-ransomware-group-claims-responsibility/</link>
-      <description>John Rupolo reports: University of New Mexico Health is addressing concerns after a cyberattack on Monday, with reports surfacing this week that a ransomware group claimed responsibility for the incident. &amp;#8220;So what I can say is we&amp;#8217;re also aware of those claims by that group,&amp;#8221; said Chris Ramirez, communications director for UNMH. The community&amp;#8217;s top...
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/10/29/unm-health-addresses-cyberattack-in-new-mexico-after-ransomware-group-claims-responsibility/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2e53493bb3adbf71</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 29 Oct 2026 20:10:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] August 2026 Healthcare Data Breach Report</title>
       <link>https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/</link>
       <description>&lt;p&gt;An analysis of data breaches affecting 500 or more individuals reported to the U.S. Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -393,6 +354,32 @@
       <category>healthcare</category>
       <category>therecord</category>
       <pubDate>Mon, 02 Nov 2026 19:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] CT: Killingly Public Schools – Notice of Data Incident</title>
+      <link>https://databreaches.net/2026/11/02/ct-killingly-public-schools-notice-of-data-incident/</link>
+      <description>Killingly Public Schools (&amp;#8220;KPS&amp;#8221;), a school district located in Killingly, Connecticut, was the victim of a recent data privacy incident involving certain personally identifiable information (&amp;#8220;PII&amp;#8221;). What Happened: In October 2025, KPS detected a disruption to its computer network. Upon learning of the activity, KPS took immediate action to secure its systems which included taking...
+
+// Category: breach // Severity: high // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,025,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/02/ct-killingly-public-schools-notice-of-data-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:327c5522445ba3e9</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>education</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 02 Nov 2026 23:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network</title>
+      <link>https://databreaches.net/2026/11/02/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/</link>
+      <description>DataBreaches.net previously covered the 2023 Lehigh Valley Health Network breach by AlphV (aka &amp;#8220;BlackCat&amp;#8221;). The breach garnered a lot of public attention when  the threat actors crossed a line by posting nude pictures of patients on their leak site. In 2024, patients settled civil litigation for $65 million. Now HHS has settled its own charges...
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: AlphV // Vector: Ransomware // Records (est.): 65,000,000 // $ (est.): $65,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/11/02/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/</description>
+      <guid isPermaLink="false">obsidian-lake:item:645ce702b233ce55</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 02 Nov 2026 23:27:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

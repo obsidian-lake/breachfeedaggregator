@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:10:18 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -302,32 +302,6 @@
       <pubDate>Mon, 02 Nov 2026 16:09:39 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers</title>
-      <link>https://therecord.media/hackers-ukraine-belarus-russia</link>
-      <description>An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Belarusian // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/hackers-ukraine-belarus-russia</description>
-      <guid isPermaLink="false">obsidian-lake:item:acbef9b6b6f9e7d5</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>therecord</category>
-      <pubDate>Mon, 02 Nov 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Michigan State cyber incident claimed by ransomware gang behind recent hospital attack</title>
-      <link>https://therecord.media/michigan-state-university-byod-gang-cyber-incident</link>
-      <description>A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/michigan-state-university-byod-gang-cyber-incident</description>
-      <guid isPermaLink="false">obsidian-lake:item:18836a2757c3c624</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>therecord</category>
-      <pubDate>Mon, 02 Nov 2026 19:54:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] CT: Killingly Public Schools – Notice of Data Incident</title>
       <link>https://databreaches.net/2026/11/02/ct-killingly-public-schools-notice-of-data-incident/</link>
       <description>Killingly Public Schools (&amp;#8220;KPS&amp;#8221;), a school district located in Killingly, Connecticut, was the victim of a recent data privacy incident involving certain personally identifiable information (&amp;#8220;PII&amp;#8221;). What Happened: In October 2025, KPS detected a disruption to its computer network. Upon learning of the activity, KPS took immediate action to secure its systems which included taking...
@@ -380,6 +354,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 03 Nov 2026 11:26:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Hospital Español Auxilio Mutuo de Puerto Rico Settles Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/</link>
+      <description>&lt;p&gt;A settlement has been agreed to resolve class action litigation against Hospital Español Auxilio Mutuo de Puerto Rico to resolve [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/"&gt;Hospital Español Auxilio Mutuo de Puerto Rico Settles Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:e61c52b322086ad0</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 03 Nov 2026 12:41:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

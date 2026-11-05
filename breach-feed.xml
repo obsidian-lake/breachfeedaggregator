@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:32:41 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,34 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] HIPAA Violation Cases: Types &amp; Consequences</title>
-      <link>https://www.hipaajournal.com/hipaa-violation-cases/</link>
-      <description>&lt;p&gt;HIPAA violation cases are compliance investigations that result from a data breach being reported to the Department of Health and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hipaa-violation-cases/"&gt;HIPAA Violation Cases: Types &amp;#038; Consequences&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hipaa-violation-cases/</description>
-      <guid isPermaLink="false">obsidian-lake:item:14ba8a8395ea1048</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 30 Oct 2026 22:17:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · MEDIUM] 41,000 Connecticut Medicaid Recipients Affected by DHS Data Incident</title>
-      <link>https://www.hipaajournal.com/connecticut-dhs-husky-data-security-incident/</link>
-      <description>&lt;p&gt;Data breaches have been announced by the Connecticut Department of Social Services, Public Partnerships LLC, Hattiesburg Eye Clinic, and the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/connecticut-dhs-husky-data-security-incident/"&gt;41,000 Connecticut Medicaid Recipients Affected by DHS Data Incident&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 41,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/connecticut-dhs-husky-data-security-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:43b8ba7687cb2ed5</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 02 Nov 2026 16:09:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Cognitive Health Technologies Data Breach Affects 49,500 Individuals</title>
       <link>https://www.hipaajournal.com/cognitive-health-technologies-data-breach/</link>
       <description>&lt;p&gt;Data breaches have been announced by Cognitive Health Technologies in New York, City Ambulance Service in Texas, Baraga County Memorial [&amp;#8230;]&lt;/p&gt;
@@ -288,20 +260,6 @@
       <pubDate>Tue, 03 Nov 2026 12:41:37 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack</title>
-      <link>https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/</link>
-      <description>&lt;p&gt;In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/"&gt;North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: State-aligned actor // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:82e213df526b3ace</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Wed, 04 Nov 2026 09:23:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] $2 Million Settlement Resolves Covenant Health Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/</link>
       <description>&lt;p&gt;Covenant Health, St. Joseph Healthcare Foundation, St. Joseph Hospital, St. Joseph Hospital Nashua, N.H., and other Covenant Health facilities were [&amp;#8230;]&lt;/p&gt;
@@ -328,6 +286,33 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 04 Nov 2026 11:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Vida Y Salud-Health Systems &amp; Hampton Regional Medical Center Settle Data Breach Lawsuits</title>
+      <link>https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/</link>
+      <description>&lt;p&gt;Settlements have been agreed to resolve class action data breach lawsuits against Vida Y Salud-Health Systems &amp;#38; Hampton Regional Medical [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/"&gt;Vida Y Salud-Health Systems &amp;#038; Hampton Regional Medical Center Settle Data Breach Lawsuits&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b0216fc580c5c1b9</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 05 Nov 2026 11:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ninth Circuit: Breach Of Confidence Confers Standing In Health Data Security Case</title>
+      <link>https://databreaches.net/2026/11/05/ninth-circuit-breach-of-confidence-confers-standing-in-health-data-security-case/</link>
+      <description>Claire E. Castles, Amanda Fitzsimmons, Nathaniel P. Garrett, Rebekah Byers Kcehowski, Mary Alexander Myers, and Alexander H. Southwell of Jones Day write: Departing from the risk-based approach many courts have applied since TransUnion, and in tension with other circuits, the Ninth Circuit held that health plan participants whose confidential health information was disclosed without authorization...
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/05/ninth-circuit-breach-of-confidence-confers-standing-in-health-data-security-case/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ade9e985070160dc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Thu, 05 Nov 2026 16:48:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:58:12 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,62 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · MEDIUM] Cognitive Health Technologies Data Breach Affects 49,500 Individuals</title>
-      <link>https://www.hipaajournal.com/cognitive-health-technologies-data-breach/</link>
-      <description>&lt;p&gt;Data breaches have been announced by Cognitive Health Technologies in New York, City Ambulance Service in Texas, Baraga County Memorial [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cognitive-health-technologies-data-breach/"&gt;Cognitive Health Technologies Data Breach Affects 49,500 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 49,500 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cognitive-health-technologies-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:910377528c816355</guid>
-      <category>breach</category>
-      <category>medium</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 03 Nov 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Marathon Health Data Breach Reportedly Affects 5.7 Million Individuals</title>
-      <link>https://www.hipaajournal.com/marathon-health-data-breach/</link>
-      <description>&lt;p&gt;State attorneys general have been informed about a substantial Marathon Health data breach that reportedly involved the personal and protected [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/marathon-health-data-breach/"&gt;Marathon Health Data Breach Reportedly Affects 5.7 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 5,700,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/marathon-health-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f41128a7b208d43d</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 03 Nov 2026 11:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Hospital Español Auxilio Mutuo de Puerto Rico Settles Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/</link>
-      <description>&lt;p&gt;A settlement has been agreed to resolve class action litigation against Hospital Español Auxilio Mutuo de Puerto Rico to resolve [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/"&gt;Hospital Español Auxilio Mutuo de Puerto Rico Settles Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e61c52b322086ad0</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Tue, 03 Nov 2026 12:41:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · HIGH] $2 Million Settlement Resolves Covenant Health Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/</link>
-      <description>&lt;p&gt;Covenant Health, St. Joseph Healthcare Foundation, St. Joseph Hospital, St. Joseph Hospital Nashua, N.H., and other Covenant Health facilities were [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/"&gt;$2 Million Settlement Resolves Covenant Health Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,000,000 // $ (est.): $2,000,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f8dae3847d5a6364</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 04 Nov 2026 11:00:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] University Hospitals Working on Restoring Systems After Cyberattack</title>
       <link>https://www.hipaajournal.com/university-hospitals-eyemed-facial-surgery-group-data-breaches/</link>
       <description>&lt;p&gt;University Hospitals is working on restoring systems after an October 22 cyberattack. Cybersecurity incidents have also been announced by EyeMed [&amp;#8230;]&lt;/p&gt;
@@ -313,6 +257,34 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Thu, 05 Nov 2026 16:48:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Judge Approves $3.9M ArCare Data Breach Settlement</title>
+      <link>https://www.hipaajournal.com/arcare-data-breach-settlement/</link>
+      <description>&lt;p&gt;A settlement that resolves claims related to a 2022 security incident and data breach at ArCare has been granted preliminary [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/arcare-data-breach-settlement/"&gt;Judge Approves $3.9M ArCare Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,900,000 // $ (est.): $3,900,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/arcare-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:2686a867e26cfaf0</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 06 Nov 2026 15:17:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Security Incident at EHR Vendor Affects Patients of New York Counselling Practices</title>
+      <link>https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/</link>
+      <description>&lt;p&gt;Hispanic Counseling Center and Brooklyn Counseling Services in New York have notified patients that some of their personal and health [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/"&gt;Security Incident at EHR Vendor Affects Patients of New York Counselling Practices&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/</description>
+      <guid isPermaLink="false">obsidian-lake:item:287396a0855a4954</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 06 Nov 2026 17:42:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

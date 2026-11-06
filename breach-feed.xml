@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 18:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:41:53 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -285,6 +285,32 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 06 Nov 2026 17:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Medical services company settles with 4 states over 2023 hack of sensitive patient records</title>
+      <link>https://therecord.media/medical-services-company-settles-with-4-state-ags</link>
+      <description>The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/medical-services-company-settles-with-4-state-ags</description>
+      <guid isPermaLink="false">obsidian-lake:item:ea6b9d64cfe5f3ca</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>therecord</category>
+      <pubDate>Fri, 06 Nov 2026 19:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] State attorneys general secure up to $10 million and corrective action plan from Perry Johnson companies after 2023 breach</title>
+      <link>https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/</link>
+      <description>A press release from NYS Attorney General Letitia James: NEW YORK – New York Attorney General Letitia James and a coalition of three other attorneys general today secured $10 million from Perry Johnson &amp;#38; Associates, Inc. (PJ&amp;#38;A), Perry Johnson, Inc. (PJI), Perry Johnson &amp;#38; Associates Coding, Inc., Perry Johnson &amp;#38; Associates Radiology, Inc., and Medical...
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $10,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:fcdb9cc697ac8dee</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 06 Nov 2026 20:28:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

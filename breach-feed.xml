@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:58:27 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -324,6 +324,20 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Sat, 07 Nov 2026 15:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Over 3 Million People Hit by Frontline Education Data Breach</title>
+      <link>https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</link>
+      <description>&lt;p&gt;Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/"&gt;Over 3 Million People Hit by Frontline Education Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:0651bd3e7f074f99</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>education</category>
+      <category>securityweek</category>
+      <pubDate>Mon, 09 Nov 2026 10:09:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

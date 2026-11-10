@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:42:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -338,6 +338,19 @@
       <category>healthcare</category>
       <category>therecord</category>
       <pubDate>Mon, 09 Nov 2026 20:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] CISA Announces Enhanced Reporting Form for Cyber Incidents</title>
+      <link>https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/</link>
+      <description>A press release from the Cybersecurity and Infrastructure Security Agency (CISA) today: Today, the Cybersecurity and Infrastructure Security Agency (CISA) unveiled the updated cyber incident reporting form, an enhanced web-enabled questionnaire available on CISA’s Incident Reporting Portal for reporting cyber incidents. By improving data quality, the more robust form strengthens the effectiveness and efficiency of...
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/</description>
+      <guid isPermaLink="false">obsidian-lake:item:555d9530c694501b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 09 Nov 2026 22:34:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:54:52 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Vida Y Salud-Health Systems &amp; Hampton Regional Medical Center Settle Data Breach Lawsuits</title>
-      <link>https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/</link>
-      <description>&lt;p&gt;Settlements have been agreed to resolve class action data breach lawsuits against Vida Y Salud-Health Systems &amp;#38; Hampton Regional Medical [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/"&gt;Vida Y Salud-Health Systems &amp;#038; Hampton Regional Medical Center Settle Data Breach Lawsuits&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b0216fc580c5c1b9</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 05 Nov 2026 11:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] Judge Approves $3.9M ArCare Data Breach Settlement</title>
       <link>https://www.hipaajournal.com/arcare-data-breach-settlement/</link>
       <description>&lt;p&gt;A settlement that resolves claims related to a 2022 security incident and data breach at ArCare has been granted preliminary [&amp;#8230;]&lt;/p&gt;
@@ -258,45 +244,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 06 Nov 2026 17:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] State attorneys general secure up to $10 million and corrective action plan from Perry Johnson companies after 2023 breach</title>
-      <link>https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/</link>
-      <description>A press release from NYS Attorney General Letitia James: NEW YORK – New York Attorney General Letitia James and a coalition of three other attorneys general today secured $10 million from Perry Johnson &amp;#38; Associates, Inc. (PJ&amp;#38;A), Perry Johnson, Inc. (PJI), Perry Johnson &amp;#38; Associates Coding, Inc., Perry Johnson &amp;#38; Associates Radiology, Inc., and Medical...
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,023,000,000,000 // $ (est.): $10,000,000 // Source: databreaches.net // Original: https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:fcdb9cc697ac8dee</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Fri, 06 Nov 2026 20:28:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] County of Sussex, New Jersey Notice of Data Privacy Incident</title>
-      <link>https://databreaches.net/2026/11/07/county-of-sussex-new-jersey-notice-of-data-privacy-incident/</link>
-      <description>November 6, 2026 8:00 PM EST NEWTON, N.J., Nov. 6, 2026 /PRNewswire/ &amp;#8212; Sussex County Prosecutor&amp;#8217;s Office (SCPO) experienced a data privacy event that involved personal information. On or about August 10, 2026, SCPO received alerts of a disruption to its computer network. Upon this identification, it launched an immediate investigation and engaged outside cybersecurity...
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/07/county-of-sussex-new-jersey-notice-of-data-privacy-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8a103ebe5da9e1ad</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 07 Nov 2026 15:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Weill Cornell patient data entered into AI tools without authorization</title>
-      <link>https://databreaches.net/2026/11/09/weill-cornell-patient-data-entered-into-ai-tools-without-authorization/</link>
-      <description>Naomi Diaz reports: New York City-based Weill Cornell Medicine disclosed that patient health information was entered into AI tools and processed using machine learning without authorization as part of a radiology research study. Weill Cornell learned of the incident Sept. 6 and launched an investigation, which determined that certain patient information from Weill Cornell Imaging...
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 6 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/09/weill-cornell-patient-data-entered-into-ai-tools-without-authorization/</description>
-      <guid isPermaLink="false">obsidian-lake:item:3ecd7290287a0eb9</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 09 Nov 2026 14:06:20 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Healthcare Providers Discover Unauthorized PHI Disclosures to AI Tools</title>
@@ -337,6 +284,19 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Mon, 09 Nov 2026 22:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ph: NPC receives data breach reports from 10 agencies</title>
+      <link>https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/</link>
+      <description>Othel V. Campos &amp;#38; Rex Espiritu report: The National Privacy Commission (NPC) said Tuesday it has received personal data breach notifications from 10 government agencies, including the Bureau of Internal Revenue (BIR), the Department of Information and Communications Technology (DICT) and the Securities and Exchange Commission (SEC). The other agencies are the Presidential Commission on...
+
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 38 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9430c98d8d251675</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Tue, 10 Nov 2026 12:47:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

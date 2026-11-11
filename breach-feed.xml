@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:00:07 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Judge Approves $3.9M ArCare Data Breach Settlement</title>
-      <link>https://www.hipaajournal.com/arcare-data-breach-settlement/</link>
-      <description>&lt;p&gt;A settlement that resolves claims related to a 2022 security incident and data breach at ArCare has been granted preliminary [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/arcare-data-breach-settlement/"&gt;Judge Approves $3.9M ArCare Data Breach Settlement&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,900,000 // $ (est.): $3,900,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/arcare-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:2686a867e26cfaf0</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 06 Nov 2026 15:17:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Security Incident at EHR Vendor Affects Patients of New York Counselling Practices</title>
       <link>https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/</link>
       <description>&lt;p&gt;Hispanic Counseling Center and Brooklyn Counseling Services in New York have notified patients that some of their personal and health [&amp;#8230;]&lt;/p&gt;
@@ -260,17 +246,45 @@
       <pubDate>Mon, 09 Nov 2026 16:46:27 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ph: NPC receives data breach reports from 10 agencies</title>
-      <link>https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/</link>
-      <description>Othel V. Campos &amp;#38; Rex Espiritu report: The National Privacy Commission (NPC) said Tuesday it has received personal data breach notifications from 10 government agencies, including the Bureau of Internal Revenue (BIR), the Department of Information and Communications Technology (DICT) and the Securities and Exchange Commission (SEC). The other agencies are the Presidential Commission on...
+      <title>[BREACH · INFO] CISA Seeks More Granular Information on Cyber Incidents</title>
+      <link>https://www.hipaajournal.com/cisa-updates-cyber-incident-reporting-form/</link>
+      <description>&lt;p&gt;The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released an expanded form for reporting cyber incidents. The updated form, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cisa-updates-cyber-incident-reporting-form/"&gt;CISA Seeks More Granular Information on Cyber Incidents&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 38 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/</description>
-      <guid isPermaLink="false">obsidian-lake:item:9430c98d8d251675</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/cisa-updates-cyber-incident-reporting-form/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1687829f881b102f</guid>
       <category>breach</category>
       <category>info</category>
-      <category>finance</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 11 Nov 2026 09:42:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Insider Data Theft Incident Reported by Premise Health</title>
+      <link>https://www.hipaajournal.com/premise-health-telecare-corp-enara-health-data-breaches/</link>
+      <description>&lt;p&gt;Premise Health Holding Corp has announced that a former employee copied patient data without authorization. Data security incidents have also [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/premise-health-telecare-corp-enara-health-data-breaches/"&gt;Insider Data Theft Incident Reported by Premise Health&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Insider // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/premise-health-telecare-corp-enara-health-data-breaches/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5471b7b337e70b8e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 11 Nov 2026 11:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Rural Hospital Cyber Incident: 17 Days of Access Went Unseen</title>
+      <link>https://databreaches.net/2026/11/11/rural-hospital-cyber-incident-17-days-of-access-went-unseen/</link>
+      <description>MindCore Technologies writes: A rural hospital cyber incident rarely starts with a locked screen and a ransom note. It usually starts with an outsider moving quietly through the network for days or weeks while clinical work carries on as normal. Bacon County Health Services, the health system serving Bacon County in southeast Georgia, offers a...
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 17 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/11/rural-hospital-cyber-incident-17-days-of-access-went-unseen/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1e845afae50b043a</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
       <category>databreaches.net</category>
-      <pubDate>Tue, 10 Nov 2026 12:47:02 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 14:10:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

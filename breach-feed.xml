@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:50:45 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Security Incident at EHR Vendor Affects Patients of New York Counselling Practices</title>
-      <link>https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/</link>
-      <description>&lt;p&gt;Hispanic Counseling Center and Brooklyn Counseling Services in New York have notified patients that some of their personal and health [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/"&gt;Security Incident at EHR Vendor Affects Patients of New York Counselling Practices&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/ehr-vendor-data-breach-new-york-counselling-practices/</description>
-      <guid isPermaLink="false">obsidian-lake:item:287396a0855a4954</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 06 Nov 2026 17:42:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Healthcare Providers Discover Unauthorized PHI Disclosures to AI Tools</title>
       <link>https://www.hipaajournal.com/healthcare-providers-unauthorized-disclosure-phi-ai-tools/</link>
       <description>&lt;p&gt;Two data privacy incidents have recently been announced that involved patient data uploaded to artificial intelligence (AI) tools without authorization. [&amp;#8230;]&lt;/p&gt;
@@ -274,17 +260,17 @@
       <pubDate>Wed, 11 Nov 2026 11:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Rural Hospital Cyber Incident: 17 Days of Access Went Unseen</title>
-      <link>https://databreaches.net/2026/11/11/rural-hospital-cyber-incident-17-days-of-access-went-unseen/</link>
-      <description>MindCore Technologies writes: A rural hospital cyber incident rarely starts with a locked screen and a ransom note. It usually starts with an outsider moving quietly through the network for days or weeks while clinical work carries on as normal. Bacon County Health Services, the health system serving Bacon County in southeast Georgia, offers a...
+      <title>[BREACH · CRITICAL] Hotel giant Wyndham exposed customer data after app security lapse</title>
+      <link>https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/</link>
+      <description>It&amp;#8217;s been a while since hotel and resort giant  Wyndham  has shown up on DataBreaches.net. There was one report in 2024, but prior extensive coverage involved their historic litigation with the FTC following a breach. Now Zack Whittaker reports: Hotel and resort giant Wyndham has acknowledged a cybersecurity incident after a good-faith security researcher discovered...
 
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 17 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/11/rural-hospital-cyber-incident-17-days-of-access-went-unseen/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1e845afae50b043a</guid>
+// Category: breach // Severity: critical // Sector: other // Actor: Researchers (whitehat) // Vector: Under investigation // Records (est.): 2,024,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/</description>
+      <guid isPermaLink="false">obsidian-lake:item:db14d41619509ae7</guid>
       <category>breach</category>
       <category>critical</category>
-      <category>healthcare</category>
+      <category>other</category>
       <category>databreaches.net</category>
-      <pubDate>Wed, 11 Nov 2026 14:10:44 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 15:04:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

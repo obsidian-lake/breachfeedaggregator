@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 02:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:42:45 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -258,19 +258,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 11 Nov 2026 11:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Hotel giant Wyndham exposed customer data after app security lapse</title>
-      <link>https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/</link>
-      <description>It&amp;#8217;s been a while since hotel and resort giant  Wyndham  has shown up on DataBreaches.net. There was one report in 2024, but prior extensive coverage involved their historic litigation with the FTC following a breach. Now Zack Whittaker reports: Hotel and resort giant Wyndham has acknowledged a cybersecurity incident after a good-faith security researcher discovered...
-
-// Category: breach // Severity: critical // Sector: other // Actor: Researchers (whitehat) // Vector: Under investigation // Records (est.): 2,024,000,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/</description>
-      <guid isPermaLink="false">obsidian-lake:item:db14d41619509ae7</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 11 Nov 2026 15:04:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

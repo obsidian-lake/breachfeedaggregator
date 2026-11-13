@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:13:34 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -246,19 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 11:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Inside an AI Attack Against a US Retailer</title>
-      <link>https://databreaches.net/2026/11/12/inside-an-ai-attack-against-a-us-retailer/</link>
-      <description>Alexander Culafi reports: A threat actor deployed an AI model during a stalled cyberattack and rescued the campaign, achieving lateral movement in the process. The attack, detailed today by Symantec, targeted an unnamed US retail organization in September. The threat actor&amp;#8217;s hand-typed commands were repeatedly blocked, so the attacker switched to what appeared to be...
-
-// Category: breach // Severity: info // Sector: retail // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/12/inside-an-ai-attack-against-a-us-retailer/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5267abbfb501fae0</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>retail</category>
-      <category>databreaches.net</category>
-      <pubDate>Thu, 12 Nov 2026 12:37:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Minnesota Epilepsy Group Falls Victim to Second 2026 Cyberattack</title>
       <link>https://www.hipaajournal.com/minnesota-epilepsy-group-data-breach/</link>
       <description>&lt;p&gt;Minnesota Epilepsy Group, P.A., a Level 4 Epilepsy Center in Roseville, Minnesota, has announced that it has fallen victim to [&amp;#8230;]&lt;/p&gt;
@@ -271,6 +258,20 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 12 Nov 2026 15:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
+      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
+      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 13 Nov 2026 07:30:48 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients</title>
@@ -299,6 +300,46 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 13 Nov 2026 13:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</title>
+      <link>https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</link>
+      <description>&lt;p&gt;Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/"&gt;In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:6d4d3a9ca3afbd1d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018</title>
+      <link>https://therecord.media/gootloader-ransomware-doj-details</link>
+      <description>In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 29,000,000 // $ (est.): $29,000,000 // Source: therecord // Original: https://therecord.media/gootloader-ransomware-doj-details</description>
+      <guid isPermaLink="false">obsidian-lake:item:e4e9606f466dde4a</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Fri, 13 Nov 2026 15:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] University of Texas at Arlington warns personal information stolen during cyberattack</title>
+      <link>https://therecord.media/university-of-texas-arlington-warns-data-breach</link>
+      <description>In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.
+
+// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/university-of-texas-arlington-warns-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:4c8fe02bd04ce44e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>education</category>
+      <category>therecord</category>
+      <pubDate>Fri, 13 Nov 2026 17:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:48:36 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Healthcare Providers Discover Unauthorized PHI Disclosures to AI Tools</title>
-      <link>https://www.hipaajournal.com/healthcare-providers-unauthorized-disclosure-phi-ai-tools/</link>
-      <description>&lt;p&gt;Two data privacy incidents have recently been announced that involved patient data uploaded to artificial intelligence (AI) tools without authorization. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-providers-unauthorized-disclosure-phi-ai-tools/"&gt;Healthcare Providers Discover Unauthorized PHI Disclosures to AI Tools&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-providers-unauthorized-disclosure-phi-ai-tools/</description>
-      <guid isPermaLink="false">obsidian-lake:item:e2ba34c7e6003293</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 09 Nov 2026 16:46:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] CISA Seeks More Granular Information on Cyber Incidents</title>
       <link>https://www.hipaajournal.com/cisa-updates-cyber-incident-reporting-form/</link>
       <description>&lt;p&gt;The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released an expanded form for reporting cyber incidents. The updated form, [&amp;#8230;]&lt;/p&gt;
@@ -285,6 +271,34 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Thu, 12 Nov 2026 15:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients</title>
+      <link>https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/</link>
+      <description>&lt;p&gt;Data breaches have recently been announced by the Virginia healthcare technology company Dorsata, the Florida mental healthcare provider Bay Area [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/"&gt;Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 58,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/</description>
+      <guid isPermaLink="false">obsidian-lake:item:351ebe26ac077c19</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 13 Nov 2026 12:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Oregon Dental Practice Reports Two Data Breaches Affecting More Than 31,000 Patients</title>
+      <link>https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/</link>
+      <description>&lt;p&gt;Data security incidents have been announced by the dental practices Hood River Dental in Oregon and Keep Smiling Dental Group [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/"&gt;Oregon Dental Practice Reports Two Data Breaches Affecting More Than 31,000 Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 31,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a9116e343814fb34</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 13 Nov 2026 13:49:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

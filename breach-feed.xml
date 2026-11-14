@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:36:53 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -341,6 +341,33 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Fri, 13 Nov 2026 21:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</title>
+      <link>https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</link>
+      <description>&lt;p&gt;Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"&gt;No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</description>
+      <guid isPermaLink="false">obsidian-lake:item:48da90397fe2251e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>tech</category>
+      <category>securityweek</category>
+      <pubDate>Sat, 14 Nov 2026 08:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] White House AI Task Force Urges Leniency on Cyberattack Penalties</title>
+      <link>https://databreaches.net/2026/11/14/white-house-ai-task-force-urges-leniency-on-cyberattack-penalties/</link>
+      <description>Matthew Jonathan reports: The Trump administration&amp;#8217;s AI task force urged federal regulators to hold off on enforcement against companies hit by AI-driven cyberattacks. It wants the leniency to run at least 12 months and to encourage voluntary reporting of vulnerabilities and incidents, according to its statement after Thursday&amp;#8217;s meeting. The Trump administration&amp;#8217;s AI task force...
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 12,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/14/white-house-ai-task-force-urges-leniency-on-cyberattack-penalties/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3d53bb5bc2c9173d</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 14 Nov 2026 13:02:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

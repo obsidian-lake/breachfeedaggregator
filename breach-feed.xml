@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:36:09 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -316,19 +316,6 @@
       <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018</title>
-      <link>https://therecord.media/gootloader-ransomware-doj-details</link>
-      <description>In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 29,000,000 // $ (est.): $29,000,000 // Source: therecord // Original: https://therecord.media/gootloader-ransomware-doj-details</description>
-      <guid isPermaLink="false">obsidian-lake:item:e4e9606f466dde4a</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Fri, 13 Nov 2026 15:59:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] University of Texas at Arlington warns personal information stolen during cyberattack</title>
       <link>https://therecord.media/university-of-texas-arlington-warns-data-breach</link>
       <description>In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.
@@ -340,6 +327,20 @@
       <category>education</category>
       <category>therecord</category>
       <pubDate>Fri, 13 Nov 2026 17:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’</title>
+      <link>https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</link>
+      <description>&lt;p&gt;Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/"&gt;FAA Ground Stop Issued Due to &amp;#8216;Extraordinary Circumstances&amp;#8217;&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</description>
+      <guid isPermaLink="false">obsidian-lake:item:214c6234c596921a</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Fri, 13 Nov 2026 21:33:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

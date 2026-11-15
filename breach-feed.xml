@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:39:22 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
       <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
@@ -355,6 +355,32 @@
       <category>tech</category>
       <category>securityweek</category>
       <pubDate>Sat, 14 Nov 2026 08:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] White House AI Task Force Urges Leniency on Cyberattack Penalties</title>
+      <link>https://databreaches.net/2026/11/14/white-house-ai-task-force-urges-leniency-on-cyberattack-penalties/</link>
+      <description>Matthew Jonathan reports: The Trump administration&amp;#8217;s AI task force urged federal regulators to hold off on enforcement against companies hit by AI-driven cyberattacks. It wants the leniency to run at least 12 months and to encourage voluntary reporting of vulnerabilities and incidents, according to its statement after Thursday&amp;#8217;s meeting. The Trump administration&amp;#8217;s AI task force...
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 12,000,000 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/14/white-house-ai-task-force-urges-leniency-on-cyberattack-penalties/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3d53bb5bc2c9173d</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 14 Nov 2026 13:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Uber Data Breach: Driver Licenses Stolen via Fireworks AI</title>
+      <link>https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/</link>
+      <description>Vivek reports: Uber is notifying thousands of US drivers that their personal and driver’s license information was stolen in October 2026, after hackers compromised Fireworks AI, a third-party artificial intelligence (AI) vendor that held Uber data. The company disclosed the incident in a notice letter dated 10 November 2026 and filed it with several state...
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/</description>
+      <guid isPermaLink="false">obsidian-lake:item:eb0a1d7da108ae79</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 14 Nov 2026 15:55:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

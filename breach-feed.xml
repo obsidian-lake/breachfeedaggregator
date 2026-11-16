@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:17:35 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -300,61 +300,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 13 Nov 2026 13:49:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</title>
-      <link>https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</link>
-      <description>&lt;p&gt;Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/"&gt;In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:6d4d3a9ca3afbd1d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] University of Texas at Arlington warns personal information stolen during cyberattack</title>
-      <link>https://therecord.media/university-of-texas-arlington-warns-data-breach</link>
-      <description>In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.
-
-// Category: breach // Severity: info // Sector: education // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/university-of-texas-arlington-warns-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:4c8fe02bd04ce44e</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>education</category>
-      <category>therecord</category>
-      <pubDate>Fri, 13 Nov 2026 17:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’</title>
-      <link>https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</link>
-      <description>&lt;p&gt;Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/"&gt;FAA Ground Stop Issued Due to &amp;#8216;Extraordinary Circumstances&amp;#8217;&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</description>
-      <guid isPermaLink="false">obsidian-lake:item:214c6234c596921a</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Fri, 13 Nov 2026 21:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</title>
-      <link>https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</link>
-      <description>&lt;p&gt;Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"&gt;No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</description>
-      <guid isPermaLink="false">obsidian-lake:item:48da90397fe2251e</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>tech</category>
-      <category>securityweek</category>
-      <pubDate>Sat, 14 Nov 2026 08:40:22 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · CRITICAL] White House AI Task Force Urges Leniency on Cyberattack Penalties</title>

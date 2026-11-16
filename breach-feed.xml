@@ -8,149 +8,149 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:04:47 +0000</lastBuildDate>
     <item>
-      <title>[BREACH · INFO] Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard</title>
-      <link>https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</link>
-      <description>UpGuard can now disclose that an Amazon S3 storage bucket containing publicly exposed backups of systems representing the intranet and web presence for Martin County, Florida has been secured.
+      <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
+      <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
+      <description>While this blog post provides a description of a data exposure discovery involving Booz Allen Hamilton and the US National Geospatial-Intelligence Agency (NGA), this is no longer an active data breach.
 
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 3 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords</description>
-      <guid isPermaLink="false">obsidian-lake:item:51bd0c6b752f0bdd</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</description>
+      <guid isPermaLink="false">obsidian-lake:item:d78250223ffde9a0</guid>
       <category>breach</category>
       <category>info</category>
-      <category>gov</category>
+      <category>other</category>
       <category>upguard</category>
-      <pubDate>Wed, 20 Nov 2024 06:36:57 +0000</pubDate>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Home Economics: How Life in 123 Million American Households Was Exposed Online | UpGuard</title>
-      <link>https://www.upguard.com/breaches/cloud-leak-alteryx</link>
+      <title>[BREACH · CRITICAL] Inside the Largest US Voter Data Leak</title>
+      <link>https://www.upguard.com/labs/data-leaks/the-rnc-files</link>
+      <description>UpGuard has discovered an open database containing information on what appear to be approximately 198 million American voters left misconfigured by a GOP analytics firm.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Misconfiguration // Records (est.): 198,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/the-rnc-files</description>
+      <guid isPermaLink="false">obsidian-lake:item:c344b4afae9259b5</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>upguard</category>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] How Top Secret NSA and Army Data Leaked Online</title>
+      <link>https://www.upguard.com/labs/data-leaks/cloud-leak-inscom</link>
+      <description>A sensitive S3 bucket left wide open, containing highly classified 'NOFORN' data, was discovered by the UpGuard team.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/cloud-leak-inscom</description>
+      <guid isPermaLink="false">obsidian-lake:item:3524a9a62d0c95c4</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>upguard</category>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] How Life in 123 Million American Households Was Exposed Online</title>
+      <link>https://www.upguard.com/labs/data-leaks/cloud-leak-alteryx</link>
       <description>This cloud leak reveals the personal details of 123 million US households, revealing in-depth analysis of their finances sold by credit reporting agency Experian.
 
-// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 123,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/cloud-leak-alteryx</description>
-      <guid isPermaLink="false">obsidian-lake:item:5d77144505da7eae</guid>
+// Category: breach // Severity: critical // Sector: tech // Actor: Unattributed // Vector: Under investigation // Records (est.): 123,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/cloud-leak-alteryx</description>
+      <guid isPermaLink="false">obsidian-lake:item:95b9c577d18a4995</guid>
       <category>breach</category>
       <category>critical</category>
       <category>tech</category>
       <category>upguard</category>
-      <pubDate>Thu, 10 Jul 2025 08:09:36 +0000</pubDate>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] The RNC Files: Inside the Largest US Voter Data Leak | UpGuard</title>
-      <link>https://www.upguard.com/breaches/the-rnc-files</link>
-      <description>UpGuard has discovered an open database containing information on what appear to be approximately 198 million American voters left misconfigured by a GOP analytics firm.
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Misconfiguration // Records (est.): 198,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/the-rnc-files</description>
-      <guid isPermaLink="false">obsidian-lake:item:f096f9f0b67fdeb9</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>upguard</category>
-      <pubDate>Thu, 10 Jul 2025 08:09:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Out of Commission: How the Oklahoma Department of Securities Leaked Millions of Files | UpGuard</title>
-      <link>https://www.upguard.com/breaches/rsync-oklahoma-securities-commission</link>
-      <description>A storage server configured for public access exposed millions of files belonging to the Oklahoma Securities Commission.
-
-// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/rsync-oklahoma-securities-commission</description>
-      <guid isPermaLink="false">obsidian-lake:item:df52e9278ec2c7ee</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>finance</category>
-      <category>upguard</category>
-      <pubDate>Thu, 10 Jul 2025 08:09:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Double Indemnity: How An Insurer Exposed Its Customers | UpGuard</title>
-      <link>https://www.upguard.com/breaches/nas-leak-mdjia</link>
+      <title>[BREACH · INFO] How An Insurer Exposed Its Customers</title>
+      <link>https://www.upguard.com/labs/data-leaks/nas-leak-mdjia</link>
       <description>A shared-risk property insurance provider in Maryland left exposed data revealing the personal details of thousands of customers.
 
-// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/nas-leak-mdjia</description>
-      <guid isPermaLink="false">obsidian-lake:item:2912e6157297f1f3</guid>
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/nas-leak-mdjia</description>
+      <guid isPermaLink="false">obsidian-lake:item:8ec15243a9041ea6</guid>
       <category>breach</category>
       <category>info</category>
       <category>finance</category>
       <category>upguard</category>
-      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Spy Games: How Booz Allen Hamilton Exposed Pentagon Access Keys | UpGuard</title>
-      <link>https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon</link>
-      <description>While this blog post provides a description of a data exposure discovery involving Booz Allen Hamilton and the US National Geospatial-Intelligence Agency (NGA), this is no longer an active data breach.
+      <title>[BREACH · INFO] How a Political Engineering Firm Exposed Their Code Base</title>
+      <link>https://www.upguard.com/labs/data-leaks/aggregate-iq-part-one</link>
+      <description>Political data firm AggregateIQ exposed IT assets that raise questions for society about how technology is being used in recent US political history.
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon</description>
-      <guid isPermaLink="false">obsidian-lake:item:502a5e86a571c948</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/aggregate-iq-part-one</description>
+      <guid isPermaLink="false">obsidian-lake:item:2ba9239d670f691a</guid>
       <category>breach</category>
       <category>info</category>
       <category>other</category>
       <category>upguard</category>
-      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Out of Pocket: How an ISP Exposed Administrative System Credentials | UpGuard</title>
-      <link>https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</link>
+      <title>[BREACH · INFO] How the Oklahoma Department of Securities Leaked Millions of Files</title>
+      <link>https://www.upguard.com/labs/data-leaks/rsync-oklahoma-securities-commission</link>
+      <description>A storage server configured for public access exposed millions of files belonging to the Oklahoma Securities Commission.
+
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/rsync-oklahoma-securities-commission</description>
+      <guid isPermaLink="false">obsidian-lake:item:7b5be6ecd1cb3615</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>upguard</category>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] How an ISP Exposed Administrative System Credentials</title>
+      <link>https://www.upguard.com/labs/data-leaks/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</link>
       <description>ISPs do more than provide internet service for individual customers-- they can also act as part of US critical infrastructure. See how one ISP exposed their administrative and root passwords to the public.
 
-// Category: breach // Severity: info // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</description>
-      <guid isPermaLink="false">obsidian-lake:item:9c2b7b1bd50a2733</guid>
+// Category: breach // Severity: info // Sector: telecom // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/out-of-pocket-how-an-isp-exposed-administrative-system-credentials</description>
+      <guid isPermaLink="false">obsidian-lake:item:0e82159b14b6ae57</guid>
       <category>breach</category>
       <category>info</category>
       <category>telecom</category>
       <category>upguard</category>
-      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Police Procedural: How South Carolina Arrest Records Were Exposed | UpGuard</title>
-      <link>https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure</link>
+      <title>[BREACH · INFO] How South Carolina Arrest Records Were Exposed</title>
+      <link>https://www.upguard.com/labs/data-leaks/spartan-south-carolina-arrest-records-data-exposure</link>
       <description>Everyone who depends on tech assumes its risks. The justice system is no exception. See how detailed arrest records for South Carolina were exposed online.
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure</description>
-      <guid isPermaLink="false">obsidian-lake:item:b701edd194b48ee3</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/spartan-south-carolina-arrest-records-data-exposure</description>
+      <guid isPermaLink="false">obsidian-lake:item:cacd1f73b0ecc212</guid>
       <category>breach</category>
       <category>info</category>
       <category>other</category>
       <category>upguard</category>
-      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] The Aggregate IQ Files, Part One: How a Political Engineering Firm Exposed Their Code Base | UpGuard</title>
-      <link>https://www.upguard.com/breaches/aggregate-iq-part-one</link>
-      <description>Political data firm AggregateIQ exposed IT assets that raise questions for society about how technology is being used in recent US political history.
+      <title>[BREACH · INFO] Election Officials’ Logins Among Exposed Data</title>
+      <link>https://www.upguard.com/labs/data-leaks/martin-county-florida-election-officials-passwords</link>
+      <description>UpGuard can now disclose that an Amazon S3 storage bucket containing publicly exposed backups of systems representing the intranet and web presence for Martin County, Florida has been secured.
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/aggregate-iq-part-one</description>
-      <guid isPermaLink="false">obsidian-lake:item:838ecd902b27c5d2</guid>
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 3 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/martin-county-florida-election-officials-passwords</description>
+      <guid isPermaLink="false">obsidian-lake:item:cd13e6b1ce81e52e</guid>
       <category>breach</category>
       <category>info</category>
-      <category>other</category>
+      <category>gov</category>
       <category>upguard</category>
-      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Black Box, Red Disk: How Top Secret NSA and Army Data Leaked Online | UpGuard</title>
-      <link>https://www.upguard.com/breaches/cloud-leak-inscom</link>
-      <description>A sensitive S3 bucket left wide open, containing highly classified 'NOFORN' data, was discovered by the UpGuard team.
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 3,000,000,000 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/cloud-leak-inscom</description>
-      <guid isPermaLink="false">obsidian-lake:item:854541f05b5107b5</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>upguard</category>
-      <pubDate>Sat, 26 Jul 2025 03:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Social Insecurity: Billions of Social Security Number and Passwords | UpGuard</title>
-      <link>https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</link>
+      <title>[BREACH · INFO] Billions of Social Security Number and Passwords</title>
+      <link>https://www.upguard.com/labs/data-leaks/social-insecurity-billions-of-social-security-number-and-passwords</link>
       <description>UpGuard research found a trove of sensitive information in an exposed Elastic database. Getting to the bottom of what it meant led us down an interesting path.
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/breaches/social-insecurity-billions-of-social-security-number-and-passwords</description>
-      <guid isPermaLink="false">obsidian-lake:item:13360d8d6761e847</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: upguard // Original: https://www.upguard.com/labs/data-leaks/social-insecurity-billions-of-social-security-number-and-passwords</description>
+      <guid isPermaLink="false">obsidian-lake:item:67ecc580e45e2f69</guid>
       <category>breach</category>
       <category>info</category>
       <category>other</category>
       <category>upguard</category>
-      <pubDate>Thu, 19 Feb 2026 18:18:05 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] CISA Admin Leaked AWS GovCloud Keys on Github</title>

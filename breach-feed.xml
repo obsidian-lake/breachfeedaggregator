@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:59:01 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -274,32 +274,6 @@
       <pubDate>Fri, 13 Nov 2026 13:49:19 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Uber Data Breach: Driver Licenses Stolen via Fireworks AI</title>
-      <link>https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/</link>
-      <description>Vivek reports: Uber is notifying thousands of US drivers that their personal and driver’s license information was stolen in October 2026, after hackers compromised Fireworks AI, a third-party artificial intelligence (AI) vendor that held Uber data. The company disclosed the incident in a notice letter dated 10 November 2026 and filed it with several state...
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 2,026 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/</description>
-      <guid isPermaLink="false">obsidian-lake:item:eb0a1d7da108ae79</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 14 Nov 2026 15:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI warns ARTEX AI hacking tool is powering global cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/</link>
-      <description>The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: 3rd-party / supply chain // Records (est.): 365 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/</description>
-      <guid isPermaLink="false">obsidian-lake:item:4201db3ac6828cb2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Sun, 15 Nov 2026 18:29:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] FBI warns ARTEX AI hacking tool is powering global cyberattacks</title>
       <link>https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/</link>
       <description>Lawrence Abrams reports: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. In a FLASH advisory released Friday, the agency said multiple threat actors have weaponized the open-source framework since at least...
@@ -338,6 +312,19 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 17 Nov 2026 00:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ransomware affiliate suspect extradited to US, faces 27 years in prison</title>
+      <link>https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/</link>
+      <description>A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 27 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/</description>
+      <guid isPermaLink="false">obsidian-lake:item:d51a92f2bc9a5405</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 17 Nov 2026 07:25:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

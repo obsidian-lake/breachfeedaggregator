@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:57:11 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -274,19 +274,6 @@
       <pubDate>Mon, 16 Nov 2026 17:30:18 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Highly classified NSA communications network is down — CNN sources</title>
-      <link>https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/</link>
-      <description>CNN is reporting that the highly classified ‌network that ‌the US National Security ​Agency (NSA) uses for its internal communications is down. This is a developing story, and the NSA&amp;#8217;s preliminary statement says there is no evidence that this was related to a cyberattack.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/</description>
-      <guid isPermaLink="false">obsidian-lake:item:cbb1bd2fed54a656</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Tue, 17 Nov 2026 16:23:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges</title>
       <link>https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/</link>
       <description>&lt;p&gt;The U.S. Department of Justice has announced that a Kazakh national suspected of engaging in ransomware attacks on U.S. hospitals, [&amp;#8230;]&lt;/p&gt;
@@ -315,19 +302,6 @@
       <pubDate>Wed, 18 Nov 2026 13:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ice hockey governing body website defaced amid dispute over Russia's exclusion</title>
-      <link>https://therecord.media/russia-hockey-cyberattack-championships</link>
-      <description>The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message criticizing the country's exclusion from international competitions.
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/russia-hockey-cyberattack-championships</description>
-      <guid isPermaLink="false">obsidian-lake:item:959698f1939d3a92</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Wed, 18 Nov 2026 13:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] SC: SLED, Charleston County investigating after ‘cybersecurity incident’ on county network</title>
       <link>https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/</link>
       <description>ABC News reports: Charleston County IT staff and the South Carolina Law Enforcement Division are investigating a &amp;#8220;cybersecurity incident&amp;#8221; that took place Monday evening. A county official confirmed that &amp;#8220;data was removed from [the county&amp;#8217;s] systems&amp;#8221; but the nature and extent of that data is still unknown. The county government&amp;#8217;s IT staff identified &amp;#8220;unusual activity&amp;#8221;...
@@ -339,6 +313,45 @@
       <category>gov</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 18 Nov 2026 15:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak ‘illegal’</title>
+      <link>https://databreaches.net/2026/11/18/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/</link>
+      <description>Tom Sims, John O&amp;#8217;Donnell, and Matthias Inverardi report:  Deutsche Bank&amp;#8217;s chairman backed his CEO Christian Sewing on Tuesday after a huge cache of ‌leaked internal records renewed scrutiny of the German lender&amp;#8217;s past dealings with clients including Russian oligarchs, US President Donald Trump and sex offender Jeffrey Epstein. The reports, compiled by a consortium of...
+
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/18/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b6c5517eecb89103</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 18 Nov 2026 19:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] North Carolina Arrests 2 involved in business email compromise scam of hospital</title>
+      <link>https://databreaches.net/2026/11/18/north-carolina-arrests-2-involved-in-business-email-compromise-scam-of-hospital/</link>
+      <description>November 16 &amp;#8211; The West Jefferson Police Department and the North Carolina State Bureau of Investigation (SBI) have arrested two men in a multi-state fraud investigation that began when Ashe Memorial Hospital lost more than $196,000 to a business email scam. Investigators say the suspects posed as legitimate vendors in emails to hospital staff and...
+
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 196,000 // $ (est.): $196,000 // Source: databreaches.net // Original: https://databreaches.net/2026/11/18/north-carolina-arrests-2-involved-in-business-email-compromise-scam-of-hospital/</description>
+      <guid isPermaLink="false">obsidian-lake:item:dfe1b7fe1f9ec164</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 18 Nov 2026 19:58:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms</title>
+      <link>https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</link>
+      <description>Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 40,500,000 // $ (est.): $40,500,000 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b326b8531a9216c7</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Wed, 18 Nov 2026 23:08:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

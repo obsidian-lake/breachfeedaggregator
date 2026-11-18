@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:09:41 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -326,6 +326,19 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Tue, 17 Nov 2026 16:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Kazakh ransomware hacking suspect extradited from Italy</title>
+      <link>https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx</link>
+      <description>The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the "8 Digits Team" connected with INC and Lynx.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 8 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx</description>
+      <guid isPermaLink="false">obsidian-lake:item:1e05409f353fa51b</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Tue, 17 Nov 2026 19:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

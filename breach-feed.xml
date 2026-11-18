@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:54:51 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -299,20 +299,6 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Tue, 17 Nov 2026 07:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack</title>
-      <link>https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/</link>
-      <description>&lt;p&gt;The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/"&gt;California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/</description>
-      <guid isPermaLink="false">obsidian-lake:item:214fb8a86431e97b</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Highly classified NSA communications network is down — CNN sources</title>

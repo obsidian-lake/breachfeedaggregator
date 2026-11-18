@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:49:43 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Minnesota Epilepsy Group Falls Victim to Second 2026 Cyberattack</title>
-      <link>https://www.hipaajournal.com/minnesota-epilepsy-group-data-breach/</link>
-      <description>&lt;p&gt;Minnesota Epilepsy Group, P.A., a Level 4 Epilepsy Center in Roseville, Minnesota, has announced that it has fallen victim to [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/minnesota-epilepsy-group-data-breach/"&gt;Minnesota Epilepsy Group Falls Victim to Second 2026 Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/minnesota-epilepsy-group-data-breach/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d21a966d00852edf</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 12 Nov 2026 15:24:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
       <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
       <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
@@ -288,19 +274,6 @@
       <pubDate>Mon, 16 Nov 2026 17:30:18 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Ransomware affiliate suspect extradited to US, faces 27 years in prison</title>
-      <link>https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/</link>
-      <description>A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 27 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/</description>
-      <guid isPermaLink="false">obsidian-lake:item:d51a92f2bc9a5405</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 17 Nov 2026 07:25:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Highly classified NSA communications network is down — CNN sources</title>
       <link>https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/</link>
       <description>CNN is reporting that the highly classified ‌network that ‌the US National Security ​Agency (NSA) uses for its internal communications is down. This is a developing story, and the NSA&amp;#8217;s preliminary statement says there is no evidence that this was related to a cyberattack.
@@ -314,17 +287,58 @@
       <pubDate>Tue, 17 Nov 2026 16:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Kazakh ransomware hacking suspect extradited from Italy</title>
-      <link>https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx</link>
-      <description>The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the "8 Digits Team" connected with INC and Lynx.
+      <title>[BREACH · CRITICAL] Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges</title>
+      <link>https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/</link>
+      <description>&lt;p&gt;The U.S. Department of Justice has announced that a Kazakh national suspected of engaging in ransomware attacks on U.S. hospitals, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/"&gt;Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 8 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx</description>
-      <guid isPermaLink="false">obsidian-lake:item:1e05409f353fa51b</guid>
+// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/</description>
+      <guid isPermaLink="false">obsidian-lake:item:74ff71703122a873</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 18 Nov 2026 13:10:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization</title>
+      <link>https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/</link>
+      <description>&lt;p&gt;Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"&gt;Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,025 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/</description>
+      <guid isPermaLink="false">obsidian-lake:item:ecee8aadf9146242</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Wed, 18 Nov 2026 13:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Ice hockey governing body website defaced amid dispute over Russia's exclusion</title>
+      <link>https://therecord.media/russia-hockey-cyberattack-championships</link>
+      <description>The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message criticizing the country's exclusion from international competitions.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/russia-hockey-cyberattack-championships</description>
+      <guid isPermaLink="false">obsidian-lake:item:959698f1939d3a92</guid>
       <category>breach</category>
       <category>info</category>
       <category>other</category>
       <category>therecord</category>
-      <pubDate>Tue, 17 Nov 2026 19:09:00 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] SC: SLED, Charleston County investigating after ‘cybersecurity incident’ on county network</title>
+      <link>https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/</link>
+      <description>ABC News reports: Charleston County IT staff and the South Carolina Law Enforcement Division are investigating a &amp;#8220;cybersecurity incident&amp;#8221; that took place Monday evening. A county official confirmed that &amp;#8220;data was removed from [the county&amp;#8217;s] systems&amp;#8221; but the nature and extent of that data is still unknown. The county government&amp;#8217;s IT staff identified &amp;#8220;unusual activity&amp;#8221;...
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/</description>
+      <guid isPermaLink="false">obsidian-lake:item:f53b2903a8883cee</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Wed, 18 Nov 2026 15:33:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

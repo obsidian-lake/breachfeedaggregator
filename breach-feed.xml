@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:09:23 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,34 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Oregon Dental Practice Reports Two Data Breaches Affecting More Than 31,000 Patients</title>
-      <link>https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/</link>
-      <description>&lt;p&gt;Data security incidents have been announced by the dental practices Hood River Dental in Oregon and Keep Smiling Dental Group [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/"&gt;Oregon Dental Practice Reports Two Data Breaches Affecting More Than 31,000 Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 31,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a9116e343814fb34</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 13 Nov 2026 13:49:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Data Breaches Announced by LifeTouch Health; MPOWERHealth; Geisinger</title>
-      <link>https://www.hipaajournal.com/data-breach-lifetouch-mpower-health-geisinger/</link>
-      <description>&lt;p&gt;Data breaches have been announced by the Arkansas hospice operator LifeTouch Health, the Texas-based healthcare company MPOWERHealth Holdings, and the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-lifetouch-mpower-health-geisinger/"&gt;Data Breaches Announced by LifeTouch Health; MPOWERHealth; Geisinger&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: LifeTouch // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-lifetouch-mpower-health-geisinger/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a3db4d03a624743d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Mon, 16 Nov 2026 17:30:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges</title>
       <link>https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/</link>
       <description>&lt;p&gt;The U.S. Department of Justice has announced that a Kazakh national suspected of engaging in ransomware attacks on U.S. hospitals, [&amp;#8230;]&lt;/p&gt;
@@ -312,17 +284,59 @@
       <pubDate>Wed, 18 Nov 2026 23:08:33 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Ukraine exposes ransomware network extorting US oil, healthcare firms</title>
-      <link>https://therecord.media/ukraine-ransomware-arrests-cyber</link>
-      <description>Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.
+      <title>[BREACH · INFO] Security Incidents Announced by Southwire, Kern Medical &amp; UCHealth</title>
+      <link>https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/</link>
+      <description>&lt;p&gt;Cybersecurity incidents have exposed the personal and protected health information of members of the Southwire Company and Affiliates Employee Health [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/"&gt;Security Incidents Announced by Southwire, Kern Medical &amp;#038; UCHealth&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 40,000,000 // $ (est.): $40,000,000 // Source: therecord // Original: https://therecord.media/ukraine-ransomware-arrests-cyber</description>
-      <guid isPermaLink="false">obsidian-lake:item:049017878e9b91ce</guid>
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/</description>
+      <guid isPermaLink="false">obsidian-lake:item:839828a1d7a5149d</guid>
       <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>therecord</category>
-      <pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 19 Nov 2026 18:35:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] DotHouse Health Pays $725K to Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/dothouse-health-data-breach-settlement/</link>
+      <description>&lt;p&gt;DotHouse Health, a Boston, Massachusetts-based nonprofit federally qualified community health center, was sued in response to a November 2022 data [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/dothouse-health-data-breach-settlement/"&gt;DotHouse Health Pays $725K to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 725,000 // $ (est.): $725,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/dothouse-health-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:1a806b188cae9d1b</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 19 Nov 2026 19:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ‘Tis the Season … to Be Hacked!</title>
+      <link>https://www.hipaajournal.com/tis-the-season-to-be-hacked/</link>
+      <description>&lt;p&gt;As Thanksgiving approaches and the calendar winds down toward New Year’s Day, cybercriminals are ramping up their operations. While U.S. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/tis-the-season-to-be-hacked/"&gt;&amp;#8216;Tis the Season &amp;#8230; to Be Hacked!&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/tis-the-season-to-be-hacked/</description>
+      <guid isPermaLink="false">obsidian-lake:item:07db0dbbace5a4e7</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 19 Nov 2026 20:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Hackers steal data of 1.6 million SBC Medical Group customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</link>
+      <description>SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,600,000 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</description>
+      <guid isPermaLink="false">obsidian-lake:item:df29d71aedcbd867</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Thu, 19 Nov 2026 22:25:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

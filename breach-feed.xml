@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:22:15 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,34 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Healthcare Data Breach Statistics – Updated for 2026</title>
-      <link>https://www.hipaajournal.com/healthcare-data-breach-statistics/</link>
-      <description>&lt;p&gt;The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/"&gt;Healthcare Data Breach Statistics &amp;#8211; Updated for 2026&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/healthcare-data-breach-statistics/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f4b11226d1117c50</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 13 Nov 2026 07:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients</title>
-      <link>https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/</link>
-      <description>&lt;p&gt;Data breaches have recently been announced by the Virginia healthcare technology company Dorsata, the Florida mental healthcare provider Bay Area [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/"&gt;Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Exploited vulnerability // Records (est.): 58,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/</description>
-      <guid isPermaLink="false">obsidian-lake:item:351ebe26ac077c19</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 13 Nov 2026 12:23:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] Oregon Dental Practice Reports Two Data Breaches Affecting More Than 31,000 Patients</title>
       <link>https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/</link>
       <description>&lt;p&gt;Data security incidents have been announced by the dental practices Hood River Dental in Oregon and Keep Smiling Dental Group [&amp;#8230;]&lt;/p&gt;
@@ -286,20 +258,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Wed, 18 Nov 2026 13:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization</title>
-      <link>https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/</link>
-      <description>&lt;p&gt;Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"&gt;Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,025 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/</description>
-      <guid isPermaLink="false">obsidian-lake:item:ecee8aadf9146242</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Wed, 18 Nov 2026 13:33:47 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] SC: SLED, Charleston County investigating after ‘cybersecurity incident’ on county network</title>
@@ -352,6 +310,19 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Wed, 18 Nov 2026 23:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] Ukraine exposes ransomware network extorting US oil, healthcare firms</title>
+      <link>https://therecord.media/ukraine-ransomware-arrests-cyber</link>
+      <description>Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.
+
+// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 40,000,000 // $ (est.): $40,000,000 // Source: therecord // Original: https://therecord.media/ukraine-ransomware-arrests-cyber</description>
+      <guid isPermaLink="false">obsidian-lake:item:049017878e9b91ce</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

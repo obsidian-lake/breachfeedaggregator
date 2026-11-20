@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 04:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:26:24 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -269,19 +269,6 @@
       <category>healthcare</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 18 Nov 2026 19:58:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms</title>
-      <link>https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</link>
-      <description>Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]
-
-// Category: breach // Severity: critical // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 40,500,000 // $ (est.): $40,500,000 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b326b8531a9216c7</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Wed, 18 Nov 2026 23:08:33 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Security Incidents Announced by Southwire, Kern Medical &amp; UCHealth</title>

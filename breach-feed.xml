@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:26:19 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · CRITICAL] Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges</title>
-      <link>https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/</link>
-      <description>&lt;p&gt;The U.S. Department of Justice has announced that a Kazakh national suspected of engaging in ransomware attacks on U.S. hospitals, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/"&gt;Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/</description>
-      <guid isPermaLink="false">obsidian-lake:item:74ff71703122a873</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Wed, 18 Nov 2026 13:10:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] SC: SLED, Charleston County investigating after ‘cybersecurity incident’ on county network</title>
       <link>https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/</link>
       <description>ABC News reports: Charleston County IT staff and the South Carolina Law Enforcement Division are investigating a &amp;#8220;cybersecurity incident&amp;#8221; that took place Monday evening. A county official confirmed that &amp;#8220;data was removed from [the county&amp;#8217;s] systems&amp;#8221; but the nature and extent of that data is still unknown. The county government&amp;#8217;s IT staff identified &amp;#8220;unusual activity&amp;#8221;...
@@ -299,20 +285,6 @@
       <pubDate>Thu, 19 Nov 2026 19:02:08 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] ‘Tis the Season … to Be Hacked!</title>
-      <link>https://www.hipaajournal.com/tis-the-season-to-be-hacked/</link>
-      <description>&lt;p&gt;As Thanksgiving approaches and the calendar winds down toward New Year’s Day, cybercriminals are ramping up their operations. While U.S. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/tis-the-season-to-be-hacked/"&gt;&amp;#8216;Tis the Season &amp;#8230; to Be Hacked!&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/tis-the-season-to-be-hacked/</description>
-      <guid isPermaLink="false">obsidian-lake:item:07db0dbbace5a4e7</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 19 Nov 2026 20:25:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] Hackers steal data of 1.6 million SBC Medical Group customers</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</link>
       <description>SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]
@@ -324,6 +296,61 @@
       <category>healthcare</category>
       <category>bleepingcomputer</category>
       <pubDate>Thu, 19 Nov 2026 22:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Yuma Regional Medical Center Pays $1,985,000 to Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</link>
+      <description>&lt;p&gt;Yuma Regional Medical Center, a 406-bed general and teaching hospital in Yuma, Arizona, that now operates as Onvida Health, has [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/"&gt;Yuma Regional Medical Center Pays $1,985,000 to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,985,000 // $ (est.): $1,985,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:5218657dd8981f0d</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 20 Nov 2026 14:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Access Dental Management Breach Affects Over 341,000 Individuals</title>
+      <link>https://www.hipaajournal.com/access-dental-valley-family-health-care-ochsner-health-data-breach/</link>
+      <description>&lt;p&gt;A data breach at Access Dental Management has affected more than 341,000 individuals in Texas. Monadnock Community Hospital is investigating [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/access-dental-valley-family-health-care-ochsner-health-data-breach/"&gt;Access Dental Management Breach Affects Over 341,000 Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 341,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/access-dental-valley-family-health-care-ochsner-health-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:852e98d9d9142fea</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 20 Nov 2026 14:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Healthcare Sector Disclosed 100 Ransomware Attacks in Q3</title>
+      <link>https://www.hipaajournal.com/q3-2026-ransomware-report-healthcare/</link>
+      <description>&lt;p&gt;Ransomware groups are running riot, with 353 disclosed attacks in Q3 2026 and 2,668 undisclosed attacks, an increase of 20% [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/q3-2026-ransomware-report-healthcare/"&gt;Healthcare Sector Disclosed 100 Ransomware Attacks in Q3&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Ransomware // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/q3-2026-ransomware-report-healthcare/</description>
+      <guid isPermaLink="false">obsidian-lake:item:b3b58d6622aa75ad</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Fri, 20 Nov 2026 16:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] U.S. Department of Agriculture grapples with security breach as IT staff take multiple systems offline</title>
+      <link>https://databreaches.net/2026/11/20/u-s-department-of-agriculture-grapples-with-security-breach-as-it-staff-take-multiple-systems-offline/</link>
+      <description>David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...
+
+// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/20/u-s-department-of-agriculture-grapples-with-security-breach-as-it-staff-take-multiple-systems-offline/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3a52fa414cc5cef0</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Fri, 20 Nov 2026 18:44:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

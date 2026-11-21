@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:41:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,19 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] SC: SLED, Charleston County investigating after ‘cybersecurity incident’ on county network</title>
-      <link>https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/</link>
-      <description>ABC News reports: Charleston County IT staff and the South Carolina Law Enforcement Division are investigating a &amp;#8220;cybersecurity incident&amp;#8221; that took place Monday evening. A county official confirmed that &amp;#8220;data was removed from [the county&amp;#8217;s] systems&amp;#8221; but the nature and extent of that data is still unknown. The county government&amp;#8217;s IT staff identified &amp;#8220;unusual activity&amp;#8221;...
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/</description>
-      <guid isPermaLink="false">obsidian-lake:item:f53b2903a8883cee</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 18 Nov 2026 15:33:31 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak ‘illegal’</title>
       <link>https://databreaches.net/2026/11/18/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/</link>
       <description>Tom Sims, John O&amp;#8217;Donnell, and Matthias Inverardi report:  Deutsche Bank&amp;#8217;s chairman backed his CEO Christian Sewing on Tuesday after a huge cache of ‌leaked internal records renewed scrutiny of the German lender&amp;#8217;s past dealings with clients including Russian oligarchs, US President Donald Trump and sex offender Jeffrey Epstein. The reports, compiled by a consortium of...
@@ -351,6 +338,19 @@
       <category>finance</category>
       <category>databreaches.net</category>
       <pubDate>Fri, 20 Nov 2026 18:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] West Virginia Legislature hit with cyber incident affecting IT systems</title>
+      <link>https://therecord.media/west-virginia-legislature-cyberattack</link>
+      <description>A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/west-virginia-legislature-cyberattack</description>
+      <guid isPermaLink="false">obsidian-lake:item:f0b8696c25c4c4a7</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>therecord</category>
+      <pubDate>Fri, 20 Nov 2026 21:34:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

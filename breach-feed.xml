@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:53:04 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,32 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak ‘illegal’</title>
-      <link>https://databreaches.net/2026/11/18/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/</link>
-      <description>Tom Sims, John O&amp;#8217;Donnell, and Matthias Inverardi report:  Deutsche Bank&amp;#8217;s chairman backed his CEO Christian Sewing on Tuesday after a huge cache of ‌leaked internal records renewed scrutiny of the German lender&amp;#8217;s past dealings with clients including Russian oligarchs, US President Donald Trump and sex offender Jeffrey Epstein. The reports, compiled by a consortium of...
-
-// Category: breach // Severity: info // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/18/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/</description>
-      <guid isPermaLink="false">obsidian-lake:item:b6c5517eecb89103</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>finance</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 18 Nov 2026 19:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · CRITICAL] North Carolina Arrests 2 involved in business email compromise scam of hospital</title>
-      <link>https://databreaches.net/2026/11/18/north-carolina-arrests-2-involved-in-business-email-compromise-scam-of-hospital/</link>
-      <description>November 16 &amp;#8211; The West Jefferson Police Department and the North Carolina State Bureau of Investigation (SBI) have arrested two men in a multi-state fraud investigation that began when Ashe Memorial Hospital lost more than $196,000 to a business email scam. Investigators say the suspects posed as legitimate vendors in emails to hospital staff and...
-
-// Category: breach // Severity: critical // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 196,000 // $ (est.): $196,000 // Source: databreaches.net // Original: https://databreaches.net/2026/11/18/north-carolina-arrests-2-involved-in-business-email-compromise-scam-of-hospital/</description>
-      <guid isPermaLink="false">obsidian-lake:item:dfe1b7fe1f9ec164</guid>
-      <category>breach</category>
-      <category>critical</category>
-      <category>healthcare</category>
-      <category>databreaches.net</category>
-      <pubDate>Wed, 18 Nov 2026 19:58:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] Security Incidents Announced by Southwire, Kern Medical &amp; UCHealth</title>
       <link>https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/</link>
       <description>&lt;p&gt;Cybersecurity incidents have exposed the personal and protected health information of members of the Southwire Company and Affiliates Employee Health [&amp;#8230;]&lt;/p&gt;
@@ -351,6 +325,45 @@
       <category>gov</category>
       <category>therecord</category>
       <pubDate>Fri, 20 Nov 2026 21:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Officials probe attempted cyberattack on Algonquin Dam</title>
+      <link>https://databreaches.net/2026/11/21/officials-probe-attempted-cyberattack-on-algonquin-dam/</link>
+      <description>Todd Feurer reports: Illinois state officials are investigating an &amp;#8220;apparent cyberattack&amp;#8221; on the Algonquin Dam on the Fox River in McHenry County. The Illinois Department of Natural Resources said the apparent cyberattack happened on Monday, and staff immediately took action to prevent any unauthorized access and keep the dam running. State officials did not provide...
+
+// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/21/officials-probe-attempted-cyberattack-on-algonquin-dam/</description>
+      <guid isPermaLink="false">obsidian-lake:item:aa04abd806034fb3</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>gov</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 21 Nov 2026 12:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI hacked again; criminal information database targeted</title>
+      <link>https://databreaches.net/2026/11/21/fbi-hacked-again-criminal-information-database-targeted/</link>
+      <description>First Post reports: The database of the Federal Bureau of Investigation (FBI) was hacked yet again, raising concerns over growing cyberattacks against governmental institutions in the United States. Two sources close to the matter told CNN that there has been an apparent breach of its nationwide criminal information database that serves as a lifeline between...
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/21/fbi-hacked-again-criminal-information-database-targeted/</description>
+      <guid isPermaLink="false">obsidian-lake:item:57caa897c18c8fdf</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Sat, 21 Nov 2026 12:37:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI reportedly hacked again, this time targeting nationwide police database</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/</link>
+      <description>FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/</description>
+      <guid isPermaLink="false">obsidian-lake:item:efef5bd50b96f7db</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Sat, 21 Nov 2026 14:26:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

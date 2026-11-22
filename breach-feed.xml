@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:50:58 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -364,6 +364,20 @@
       <category>other</category>
       <category>bleepingcomputer</category>
       <pubDate>Sat, 21 Nov 2026 14:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says</title>
+      <link>https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/</link>
+      <description>&lt;p&gt;The FBI is investigating an apparent hack of a national law enforcement database that it maintains.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"&gt;FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/</description>
+      <guid isPermaLink="false">obsidian-lake:item:8ea54bfb4f46889e</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

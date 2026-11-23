@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:37:10 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -288,45 +288,6 @@
       <pubDate>Fri, 20 Nov 2026 16:43:10 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] West Virginia Legislature hit with cyber incident affecting IT systems</title>
-      <link>https://therecord.media/west-virginia-legislature-cyberattack</link>
-      <description>A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/west-virginia-legislature-cyberattack</description>
-      <guid isPermaLink="false">obsidian-lake:item:f0b8696c25c4c4a7</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>therecord</category>
-      <pubDate>Fri, 20 Nov 2026 21:34:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] Officials probe attempted cyberattack on Algonquin Dam</title>
-      <link>https://databreaches.net/2026/11/21/officials-probe-attempted-cyberattack-on-algonquin-dam/</link>
-      <description>Todd Feurer reports: Illinois state officials are investigating an &amp;#8220;apparent cyberattack&amp;#8221; on the Algonquin Dam on the Fox River in McHenry County. The Illinois Department of Natural Resources said the apparent cyberattack happened on Monday, and staff immediately took action to prevent any unauthorized access and keep the dam running. State officials did not provide...
-
-// Category: breach // Severity: info // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,221 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/21/officials-probe-attempted-cyberattack-on-algonquin-dam/</description>
-      <guid isPermaLink="false">obsidian-lake:item:aa04abd806034fb3</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>gov</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 21 Nov 2026 12:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI hacked again; criminal information database targeted</title>
-      <link>https://databreaches.net/2026/11/21/fbi-hacked-again-criminal-information-database-targeted/</link>
-      <description>First Post reports: The database of the Federal Bureau of Investigation (FBI) was hacked yet again, raising concerns over growing cyberattacks against governmental institutions in the United States. Two sources close to the matter told CNN that there has been an apparent breach of its nationwide criminal information database that serves as a lifeline between...
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/21/fbi-hacked-again-criminal-information-database-targeted/</description>
-      <guid isPermaLink="false">obsidian-lake:item:57caa897c18c8fdf</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Sat, 21 Nov 2026 12:37:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] FBI reportedly hacked again, this time targeting nationwide police database</title>
       <link>https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/</link>
       <description>FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]
@@ -352,6 +313,59 @@
       <category>other</category>
       <category>securityweek</category>
       <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Peninsula Energy warns of disruption after Wyoming cyber incident</title>
+      <link>https://databreaches.net/2026/11/23/peninsula-energy-warns-of-disruption-after-wyoming-cyber-incident/</link>
+      <description>DysruptionHub reports: Peninsula Energy said a cybersecurity incident at its Lance uranium project in Wyoming would temporarily affect operations as the company investigated a breach of its operating system. The Australian-listed company requested a trading halt to prepare an announcement about the incident, which it said occurred Friday. Its filing dated Monday described a preliminary...
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/23/peninsula-energy-warns-of-disruption-after-wyoming-cyber-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a7937fc8a7bb8707</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 23 Nov 2026 12:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · CRITICAL] New York State Department of Financial Services Secures $6.75 Million in Cybersecurity Settlements with Rocket Mortgage and Mr. Cooper</title>
+      <link>https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/</link>
+      <description>Settlements by NYSDFS with Rocket Mortgage and Mr. Cooper Highlight Importance of Effective Multi-Factor Authentication Controls and Timely Incident Reporting November 19, 2026 New York State Department of Financial Services Acting Superintendent Kaitlin Asrow today announced that Rocket Mortgage LLC (“Rocket Mortgage”) and Nationstar Mortgage LLC d/b/a Mr. Cooper (“Mr. Cooper”) will pay $2 million...
+
+// Category: breach // Severity: critical // Sector: finance // Actor: Unattributed // Vector: Under investigation // Records (est.): 6,750,000 // $ (est.): $6,750,000 // Source: databreaches.net // Original: https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/</description>
+      <guid isPermaLink="false">obsidian-lake:item:a8825bd4f22942f6</guid>
+      <category>breach</category>
+      <category>critical</category>
+      <category>finance</category>
+      <category>databreaches.net</category>
+      <pubDate>Mon, 23 Nov 2026 12:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Prism Medical Products Data Breach Affects 1.3 Million Individuals</title>
+      <link>https://www.hipaajournal.com/prism-medical-products-data-breach/</link>
+      <description>&lt;p&gt;North Carolina-based Prism Medical Products, LLC, a home medical supply provider acquired by the global healthcare distributor and solutions provider [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/prism-medical-products-data-breach/"&gt;Prism Medical Products Data Breach Affects 1.3 Million Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,300,000 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/prism-medical-products-data-breach/</description>
+      <guid isPermaLink="false">obsidian-lake:item:3edf1247e0da2df4</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Mon, 23 Nov 2026 13:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] FBI reportedly facing second data breach involving National Crime Information Center</title>
+      <link>https://therecord.media/fbi-cyberattack-data-breach</link>
+      <description>The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/fbi-cyberattack-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:4ca5a6cc42e6642a</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Mon, 23 Nov 2026 18:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

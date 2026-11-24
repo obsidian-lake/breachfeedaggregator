@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:59:56 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -274,19 +274,6 @@
       <pubDate>Fri, 20 Nov 2026 16:43:10 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Peninsula Energy warns of disruption after Wyoming cyber incident</title>
-      <link>https://databreaches.net/2026/11/23/peninsula-energy-warns-of-disruption-after-wyoming-cyber-incident/</link>
-      <description>DysruptionHub reports: Peninsula Energy said a cybersecurity incident at its Lance uranium project in Wyoming would temporarily affect operations as the company investigated a breach of its operating system. The Australian-listed company requested a trading halt to prepare an announcement about the incident, which it said occurred Friday. Its filing dated Monday described a preliminary...
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: databreaches.net // Original: https://databreaches.net/2026/11/23/peninsula-energy-warns-of-disruption-after-wyoming-cyber-incident/</description>
-      <guid isPermaLink="false">obsidian-lake:item:a7937fc8a7bb8707</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>databreaches.net</category>
-      <pubDate>Mon, 23 Nov 2026 12:45:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · CRITICAL] New York State Department of Financial Services Secures $6.75 Million in Cybersecurity Settlements with Rocket Mortgage and Mr. Cooper</title>
       <link>https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/</link>
       <description>Settlements by NYSDFS with Rocket Mortgage and Mr. Cooper Highlight Importance of Effective Multi-Factor Authentication Controls and Timely Incident Reporting November 19, 2026 New York State Department of Financial Services Acting Superintendent Kaitlin Asrow today announced that Rocket Mortgage LLC (“Rocket Mortgage”) and Nationstar Mortgage LLC d/b/a Mr. Cooper (“Mr. Cooper”) will pay $2 million...
@@ -354,6 +341,32 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Tue, 24 Nov 2026 11:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</title>
+      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
+      <description>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]
+
+// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</description>
+      <guid isPermaLink="false">obsidian-lake:item:63399c74702aaea2</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>bleepingcomputer</category>
+      <pubDate>Tue, 24 Nov 2026 16:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</title>
+      <link>https://therecord.media/mycolorado-app-down-data-breach</link>
+      <description>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.
+
+// Category: breach // Severity: medium // Sector: gov // Actor: Unattributed // Vector: Under investigation // Records (est.): 150,000 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/mycolorado-app-down-data-breach</description>
+      <guid isPermaLink="false">obsidian-lake:item:2f99e3ac2673fbf0</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>gov</category>
+      <category>therecord</category>
+      <pubDate>Tue, 24 Nov 2026 20:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

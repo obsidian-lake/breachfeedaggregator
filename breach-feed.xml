@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 04:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:07:57 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] Security Incidents Announced by Southwire, Kern Medical &amp; UCHealth</title>
-      <link>https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/</link>
-      <description>&lt;p&gt;Cybersecurity incidents have exposed the personal and protected health information of members of the Southwire Company and Affiliates Employee Health [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/"&gt;Security Incidents Announced by Southwire, Kern Medical &amp;#038; UCHealth&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breach-southwire-kern-medical-uchealth/</description>
-      <guid isPermaLink="false">obsidian-lake:item:839828a1d7a5149d</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 19 Nov 2026 18:35:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] DotHouse Health Pays $725K to Settle Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/dothouse-health-data-breach-settlement/</link>
       <description>&lt;p&gt;DotHouse Health, a Boston, Massachusetts-based nonprofit federally qualified community health center, was sued in response to a November 2022 data [&amp;#8230;]&lt;/p&gt;
@@ -246,12 +232,12 @@
       <pubDate>Thu, 19 Nov 2026 19:02:08 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Yuma Regional Medical Center Pays $1,985,000 to Settle Data Breach Lawsuit</title>
+      <title>[BREACH · HIGH] Yuma Regional Medical Center Pays $2.7M to Settle Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</link>
       <description>&lt;p&gt;Yuma Regional Medical Center, a 406-bed general and teaching hospital in Yuma, Arizona, that now operates as Onvida Health, has [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/"&gt;Yuma Regional Medical Center Pays $1,985,000 to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/"&gt;Yuma Regional Medical Center Pays $2.7M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,985,000 // $ (est.): $1,985,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</description>
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,700,000 // $ (est.): $2,700,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</description>
       <guid isPermaLink="false">obsidian-lake:item:5218657dd8981f0d</guid>
       <category>breach</category>
       <category>high</category>
@@ -286,20 +272,6 @@
       <category>healthcare</category>
       <category>hipaajournal</category>
       <pubDate>Fri, 20 Nov 2026 16:43:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BREACH · INFO] FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says</title>
-      <link>https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/</link>
-      <description>&lt;p&gt;The FBI is investigating an apparent hack of a national law enforcement database that it maintains.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"&gt;FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/</description>
-      <guid isPermaLink="false">obsidian-lake:item:8ea54bfb4f46889e</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>securityweek</category>
-      <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
     </item>
     <item>
       <title>[BREACH · INFO] Peninsula Energy warns of disruption after Wyoming cyber incident</title>
@@ -342,17 +314,46 @@
       <pubDate>Mon, 23 Nov 2026 13:51:26 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] FBI reportedly facing second data breach involving National Crime Information Center</title>
-      <link>https://therecord.media/fbi-cyberattack-data-breach</link>
-      <description>The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.
+      <title>[BREACH · INFO] Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine</title>
+      <link>https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</link>
+      <description>&lt;p&gt;The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/"&gt;Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
 
-// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/fbi-cyberattack-data-breach</description>
-      <guid isPermaLink="false">obsidian-lake:item:4ca5a6cc42e6642a</guid>
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</description>
+      <guid isPermaLink="false">obsidian-lake:item:2d77bd62968c32ae</guid>
       <category>breach</category>
       <category>info</category>
       <category>other</category>
-      <category>therecord</category>
-      <pubDate>Mon, 23 Nov 2026 18:30:00 +0000</pubDate>
+      <category>securityweek</category>
+      <pubDate>Tue, 24 Nov 2026 10:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Data Breaches Announced by PayrHealth &amp; MedCom Solutions</title>
+      <link>https://www.hipaajournal.com/data-breaches-announced-by-payrhealth-medcom-solutions/</link>
+      <description>&lt;p&gt;Cyberattacks involving unauthorized access to patient data have been announced by PayrHealth in Texas and MedCom Solutions in Pennsylvania. PayrHealth [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/data-breaches-announced-by-payrhealth-medcom-solutions/"&gt;Data Breaches Announced by PayrHealth &amp;#038; MedCom Solutions&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/data-breaches-announced-by-payrhealth-medcom-solutions/</description>
+      <guid isPermaLink="false">obsidian-lake:item:eeb2793ff024fd0d</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 24 Nov 2026 11:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · MEDIUM] Colla Health Data Breach Affects 336K Individuals</title>
+      <link>https://www.hipaajournal.com/colla-health-bausch-health-opn-healthcare-data-breaches/</link>
+      <description>&lt;p&gt;A data breach at Colla Health has affected more than 336,400 individuals. Data breaches have also been announced by Bausch [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/colla-health-bausch-health-opn-healthcare-data-breaches/"&gt;Colla Health Data Breach Affects 336K Individuals&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: medium // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 336,400 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/colla-health-bausch-health-opn-healthcare-data-breaches/</description>
+      <guid isPermaLink="false">obsidian-lake:item:7e69b6a2d0ecde98</guid>
+      <category>breach</category>
+      <category>medium</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Tue, 24 Nov 2026 11:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

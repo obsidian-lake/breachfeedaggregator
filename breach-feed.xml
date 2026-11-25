@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:45:33 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] DotHouse Health Pays $725K to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/dothouse-health-data-breach-settlement/</link>
-      <description>&lt;p&gt;DotHouse Health, a Boston, Massachusetts-based nonprofit federally qualified community health center, was sued in response to a November 2022 data [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/dothouse-health-data-breach-settlement/"&gt;DotHouse Health Pays $725K to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 725,000 // $ (est.): $725,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/dothouse-health-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:1a806b188cae9d1b</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Thu, 19 Nov 2026 19:02:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · HIGH] Yuma Regional Medical Center Pays $2.7M to Settle Data Breach Lawsuit</title>
       <link>https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</link>
       <description>&lt;p&gt;Yuma Regional Medical Center, a 406-bed general and teaching hospital in Yuma, Arizona, that now operates as Onvida Health, has [&amp;#8230;]&lt;/p&gt;
@@ -353,6 +339,47 @@
       <category>other</category>
       <category>databreaches.net</category>
       <pubDate>Wed, 25 Nov 2026 01:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Pediatric Healthcare Providers Settle Class Action Data Breach Lawsuits</title>
+      <link>https://www.hipaajournal.com/pediatric-healthcare-providers-data-breach-settlements/</link>
+      <description>&lt;p&gt;Pediatric Otolaryngology Head &amp;#38; Neck Surgery Associates, P.A. and Lakeside Pediatric &amp;#38; Adolescent Medicine, P.L.L.C. have agreed to settle class [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/pediatric-healthcare-providers-data-breach-settlements/"&gt;Pediatric Healthcare Providers Settle Class Action Data Breach Lawsuits&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,230 // $ (est.): $0 // Source: hipaajournal // Original: https://www.hipaajournal.com/pediatric-healthcare-providers-data-breach-settlements/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9861a6fab02d0dbc</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Wed, 25 Nov 2026 12:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] US Treasury’s FinCEN Disconnects Systems Following Cyber Incident</title>
+      <link>https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/</link>
+      <description>&lt;p&gt;FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/"&gt;US Treasury&amp;#8217;s FinCEN Disconnects Systems Following Cyber Incident&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Under investigation // Records (est.): 8,217 // $ (est.): $0 // Source: securityweek // Original: https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/</description>
+      <guid isPermaLink="false">obsidian-lake:item:9c08357c01c7e416</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>securityweek</category>
+      <pubDate>Wed, 25 Nov 2026 13:39:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · INFO] Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms</title>
+      <link>https://therecord.media/ransomware-doj-indictment-recovery</link>
+      <description>The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.
+
+// Category: breach // Severity: info // Sector: other // Actor: Unattributed // Vector: Ransomware // Records (est.): 0 // $ (est.): $0 // Source: therecord // Original: https://therecord.media/ransomware-doj-indictment-recovery</description>
+      <guid isPermaLink="false">obsidian-lake:item:4fcf01c31362b2a5</guid>
+      <category>breach</category>
+      <category>info</category>
+      <category>other</category>
+      <category>therecord</category>
+      <pubDate>Wed, 25 Nov 2026 17:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

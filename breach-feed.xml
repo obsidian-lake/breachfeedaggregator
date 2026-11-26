@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Obsidian Lake Breach + Surveillance Aggregator v1.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:24:31 +0000</lastBuildDate>
     <item>
       <title>[BREACH · INFO] How Booz Allen Hamilton Exposed Pentagon Access Keys</title>
       <link>https://www.upguard.com/labs/data-leaks/spy-games-booz-allen-hamilton-pentagon</link>
@@ -218,20 +218,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · HIGH] Yuma Regional Medical Center Pays $2.7M to Settle Data Breach Lawsuit</title>
-      <link>https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</link>
-      <description>&lt;p&gt;Yuma Regional Medical Center, a 406-bed general and teaching hospital in Yuma, Arizona, that now operates as Onvida Health, has [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/"&gt;Yuma Regional Medical Center Pays $2.7M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
-
-// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 2,700,000 // $ (est.): $2,700,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/</description>
-      <guid isPermaLink="false">obsidian-lake:item:5218657dd8981f0d</guid>
-      <category>breach</category>
-      <category>high</category>
-      <category>healthcare</category>
-      <category>hipaajournal</category>
-      <pubDate>Fri, 20 Nov 2026 14:00:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · MEDIUM] Access Dental Management Breach Affects Over 341,000 Individuals</title>
       <link>https://www.hipaajournal.com/access-dental-valley-family-health-care-ochsner-health-data-breach/</link>
       <description>&lt;p&gt;A data breach at Access Dental Management has affected more than 341,000 individuals in Texas. Monadnock Community Hospital is investigating [&amp;#8230;]&lt;/p&gt;
@@ -302,19 +288,6 @@
       <pubDate>Tue, 24 Nov 2026 11:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>[BREACH · INFO] ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</title>
-      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
-      <description>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]
-
-// Category: breach // Severity: info // Sector: other // Actor: ShinyHunters // Vector: Under investigation // Records (est.): 0 // $ (est.): $0 // Source: bleepingcomputer // Original: https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</description>
-      <guid isPermaLink="false">obsidian-lake:item:63399c74702aaea2</guid>
-      <category>breach</category>
-      <category>info</category>
-      <category>other</category>
-      <category>bleepingcomputer</category>
-      <pubDate>Tue, 24 Nov 2026 16:30:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[BREACH · INFO] CIA system breached in latest cyberattack targeting US intelligence agencies</title>
       <link>https://databreaches.net/2026/11/24/cia-system-breached-in-latest-cyberattack-targeting-us-intelligence-agencies/</link>
       <description>Brittney Donovan reports: The CIA was hacked in the latest cyberattack targeting United States intelligence agencies, according to multiple reports. An unclassified CIA system was breached and the attack did not involve any highly sensitive information, a source told The Associated Press. The issue has since been resolved. The New York Times reported earlier Tuesday...
@@ -367,6 +340,20 @@
       <category>other</category>
       <category>therecord</category>
       <pubDate>Wed, 25 Nov 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BREACH · HIGH] Cardiology Associates of Mobile and Teklinks Pay $1.25M to Settle Data Breach Lawsuit</title>
+      <link>https://www.hipaajournal.com/cardiology-associates-mobile-teklinks-data-breach-settlement/</link>
+      <description>&lt;p&gt;Cardiology Associates of Mobile and its IT service provider, Teklinks, Inc., have agreed to pay $1,250,000 to settle a class [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.hipaajournal.com/cardiology-associates-mobile-teklinks-data-breach-settlement/"&gt;Cardiology Associates of Mobile and Teklinks Pay $1.25M to Settle Data Breach Lawsuit&lt;/a&gt; appeared first on &lt;a href="https://www.hipaajournal.com"&gt;The HIPAA Journal&lt;/a&gt;.&lt;/p&gt;
+
+// Category: breach // Severity: high // Sector: healthcare // Actor: Unattributed // Vector: Under investigation // Records (est.): 1,250,000 // $ (est.): $1,250,000 // Source: hipaajournal // Original: https://www.hipaajournal.com/cardiology-associates-mobile-teklinks-data-breach-settlement/</description>
+      <guid isPermaLink="false">obsidian-lake:item:dcaa9d3202e1514b</guid>
+      <category>breach</category>
+      <category>high</category>
+      <category>healthcare</category>
+      <category>hipaajournal</category>
+      <pubDate>Thu, 26 Nov 2026 11:30:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
